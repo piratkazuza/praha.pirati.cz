@@ -10,7 +10,7 @@ ordkodo: 3
 img: people/marcela-sroubkova.jpg
 description: Koordinátorka dobrovolníků
 mail: marcela.sroubkova@pirati.cz
-mob: +420 770 113 638			  
+mob: +420 606 168 306		  
 profiles:
   github:       
   facebook: https://www.facebook.com/marcela.sroubkova 
