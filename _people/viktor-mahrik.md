@@ -14,7 +14,7 @@ asistenti:
   - name: Josef Kubát
     position: sekretář <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Viktora Mahrika-->
     mail: josef.kubat@pirati.cz
-    mob: +420 606 242 152
+    tel: +420 606 242 152
 mail:
 - viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298
