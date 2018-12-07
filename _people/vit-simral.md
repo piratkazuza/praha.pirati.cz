@@ -15,7 +15,7 @@ asistenti:
   - name: Kristýna Nouzáková
     position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kristyna.nouzakova@praha.eu
-    mob: <!--Není na webu praha.eu uveden-->
+    tel: <!--Není na webu praha.eu uveden-->
 mail:
 - vit.simral@pirati.cz
 mob:			  

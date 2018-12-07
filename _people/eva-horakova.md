@@ -13,7 +13,7 @@ asistenti:
   - name: Lucie Horáková
     position: sekretářka <!--dlouhodobě uvolněné členky Zastupitelstva hl. m. Prahy Evy Horákové-->
     mail: lucie.horakova@praha.eu
-    mob: 236 002 142
+    tel: 236 002 142
 mail:
 - eva.horakova@pirati.cz
 mob:
