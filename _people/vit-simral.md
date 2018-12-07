@@ -11,6 +11,11 @@ category:
 - pks
 img: people/vit-simral.jpg    # 165 x 220
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
+asistenti:
+  - name: Kristýna Nouzáková
+    position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: kristyna.nouzakova@praha.eu
+    mob: <!--Není na webu praha.eu uveden-->
 mail:
 - vit.simral@pirati.cz
 mob:			  
