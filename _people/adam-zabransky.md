@@ -11,6 +11,11 @@ category:                 	# kategorie: praha
 img: people/adam-zabransky.jpg   # 165 x 220
 description: Pražský radní pro bydlení a transparentnost             	# kratký popis, max 160 znaků
 direct-contact: true
+asistenti:
+  - name: Alice Houšková
+    position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
+    mail: alice.houskova@praha.eu
+    mob: +420 236 002 133
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
