@@ -4,16 +4,17 @@ name:     Aneta Heidlová  	# běžně používáné jméno
 titles:
   before: Bc.
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
+category:   
+- kodo
+ordkodo: 4
 img: people/aneta-heidlova.jpg   # 165 x 220
-description:      	# kratký popis, max 160 znaků
+description: Zastupitelka na Praze 9, koordinátorka dobrovolníků, hlavní propláceč     	# kratký popis, max 160 znaků
 mail:
 - aneta.heidlova@pirati.cz
-mob:			 
+mob: +420 723 857 246		 
 profiles:
   github:       
-  facebook:  
+  facebook: https://www.facebook.com/Estrella888 
   twitter: 		  
   flickr:		  
 ---

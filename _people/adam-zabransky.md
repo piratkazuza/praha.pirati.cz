@@ -4,12 +4,11 @@ uid: adam.zabransky
 name:     Adam Zábranský  	# běžně používáné jméno
 category:                 	# kategorie: praha
 - praha
-- mhmp
+- mhmp-radni
 - carousel
 - pks
-- kontaktni_osoba
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Pražský radní pro bydlení a transparentnost             	# kratký popis, max 160 znaků
+description: radní pro bydlení a transparentnost, předseda klubu zastupitelů             	# kratký popis, max 160 znaků
 direct-contact: true
 asistenti:
   - name: Alice Houšková
@@ -39,4 +38,6 @@ Adam Zábranský (* 28. prosince 1993, Praha) je pirátský radní hl. m. Prahy 
 
 V pražském zastupitelstvu v letech 2014-2018 působil ve výborech pro územní plánování, sport a volný čas, legislativu a protikorupční opatření či v kontrolním výboru. Vyhrál precedentní spor o přístup k informacím u Ústavního soudu proti Pražské plynárenské, rozkryl klientelistickou síť podnikatelů z ČSSD v městských firmách, upozorňoval na přemrštěné odměny trafikantů v městských společnostech a nevýhodné nájemní smlouvy města.
 
-Ve svém volném čase hraje volejbal či badminton, posiluje, čte si populárně-naučnou literaturu, poslouchá podcasty a sebevzdělává se. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem. V rámci výzvy [Giving What We Can](https://www.givingwhatwecan.org/pledge/) se zavázal k tomu, že minimálně 15 % svých čistých příjmů bude věnovat na neziskové projekty. Od listopadu 2018 tyto dary eviduje na [transparentním účtu](https://ib.fio.cz/ib/transparent?a=2001536252).
+Ve svém volném čase hraje volejbal či badminton, posiluje, čte si populárně-naučnou literaturu, poslouchá podcasty a sebevzdělává se. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem. V rámci výzvy [Giving What We Can](https://www.givingwhatwecan.org/pledge/) se zavázal k tomu, že minimálně 15 % svých čistých příjmů bude věnovat na neziskové projekty. Od prosince 2018 tyto dary eviduje na [transparentním účtu](https://ib.fio.cz/ib/transparent?a=2001536252).
+
+
