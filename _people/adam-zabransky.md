@@ -14,7 +14,7 @@ asistenti:
   - name: Alice Houšková
     position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
     mail: alice.houskova@praha.eu
-    mob: +420 236 002 133
+    tel: +420 236 002 133
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
