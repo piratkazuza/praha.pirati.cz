@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
+  email: jitka.novotna@pirati.cz, jan.louzek@pirati.cz # mail kam pujdou chybove vystupy
 
 
 organization:
