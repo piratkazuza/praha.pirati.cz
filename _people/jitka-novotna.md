@@ -5,14 +5,14 @@ fullname: Mgr. Jitka Novotná	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jitka-novotna.jpg   # 165 x 220
-description:      	# kratký popis, max 160 znaků
+description:  člen TO, resortní team transparence, zastupitelka na Praze 8
 mail:
 - jitka.novotna@pirati.cz
-mob:
+mob: 799794241
 profiles:
-  github:       
-  facebook:    
-  twitter: 		  
+  github:     https://github.com/jitka 
+  facebook:    https://www.facebook.com/jitka.novotna.7528
+  twitter:   https://twitter.com/
   flickr:		  
 ---
 
