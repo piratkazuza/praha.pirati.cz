@@ -12,7 +12,7 @@ mob: 799794241
 profiles:
   github:     https://github.com/jitka 
   facebook:    https://www.facebook.com/jitka.novotna.7528
-  twitter:   https://twitter.com/
+  twitter:   https://twitter.com/__jitka__
   flickr:		  
 ---
 
