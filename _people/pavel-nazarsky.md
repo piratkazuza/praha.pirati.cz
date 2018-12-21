@@ -10,7 +10,7 @@ img: people/pavel-nazarsky.jpg   # 165 x 220
 description:             	# kratký popis, max 160 znaků
 mail:
 - pavel.nazarsky@pirati.cz
-mob:			  +420 735 076 699
+mob:			  +420 721 755 202
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/pavel.nazarsky
