@@ -6,7 +6,6 @@ category:                 	# kategorie: praha
 - praha
 - mhmp-radni
 - carousel
-- pks
 img: people/adam-zabransky.jpg   # 165 x 220
 description: radní pro bydlení a transparentnost, předseda klubu zastupitelů             	# kratký popis, max 160 znaků
 direct-contact: true
@@ -24,7 +23,6 @@ profiles:
   twitter: 		  https://twitter.com/adamzabransky
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
 ordpraha: 2
-ordpks: 2
 ordcar: 2
 carousel:
   img: adam-zabransky.jpg

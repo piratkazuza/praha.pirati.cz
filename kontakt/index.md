@@ -55,7 +55,7 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
   <h1 class="t-h2-alt">Představitelé</h1>
 </div>
   
-{% assign person = site.people | where_exp: "item","item.uid contains 'ondrej.profant'" | first  %}
+{% assign person = site.people | where_exp: "item","item.uid contains 'jaromir.beranek'" | first  %}
 {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
 
 {% assign person = site.people | where_exp: "item","item.uid contains 'adam.zabransky'" | first  %}

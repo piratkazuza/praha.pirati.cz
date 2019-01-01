@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - pks
 img: people/jaromir-beranek.jpg    # 165 x 220
-description: zastupitel hl. m. Prahy, 4. místopředseda pražského sdružení Pirátů            	# kratký popis, max 160 znaků
+description: Předseda pražského sdružení Pirátů, zastupitel hl. m. Prahy, 4. # kratký popis, max 160 znaků
 mail:
 - jaromir.beranek@pirati.cz
 mob:			  
@@ -17,7 +17,7 @@ profiles:
   twitter: 		
   flickr:
 ordpraha: 11
-ordpks: 4
+ordpks: 1
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ---

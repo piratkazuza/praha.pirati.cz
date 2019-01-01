@@ -6,7 +6,6 @@ titles:
   after:  PhD.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
-- pks
 - praha
 img: people/daniel-mazur.jpg    # 165 x 220
 description: zastupitel hl. m. Prahy zastupitel městské části Praha 5, 2. místopředseda pražského sdružení Pirátů            	# kratký popis, max 160 znaků
@@ -19,7 +18,6 @@ profiles:
   twitter: 		
   flickr:
 ordpraha: 3	
-ordpks: 2
 ---
 
 Daniel Mazur (* 26. května 1978) je 2. místopředseda pražského sdružení Pirátů. Příznivcem Pirátské strany je od r. 2013, členem od 2014. 

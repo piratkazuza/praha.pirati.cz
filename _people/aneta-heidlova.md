@@ -5,8 +5,6 @@ titles:
   before: Bc.
   after:
 category:   
-- kodo
-ordkodo: 4
 img: people/aneta-heidlova.jpg   # 165 x 220
 description: Zastupitelka na Praze 9, koordinátorka dobrovolníků, hlavní propláceč     	# kratký popis, max 160 znaků
 mail:

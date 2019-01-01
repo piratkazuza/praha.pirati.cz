@@ -6,7 +6,7 @@ titles:
   after:
 category: 
 - kodo
-ordkodo: 3
+ordkodo: 1
 img: people/marcela-sroubkova.jpg
 description: Koordinátorka dobrovolníků
 mail: marcela.sroubkova@pirati.cz

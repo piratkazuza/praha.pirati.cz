@@ -6,12 +6,11 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-- pks
 - ga
 - carousel
 - pos
 img: people/ondrej-profant.jpg # 165 x 220
-description: předseda Pirátu v Praze, poslanec             	# kratký popis, max 160 znaků
+description: poslanec, garant informatiky             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015

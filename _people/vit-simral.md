@@ -8,7 +8,6 @@ category:
 - praha
 - mhmp-radni
 - ga
-- pks
 img: people/vit-simral.jpg    # 165 x 220
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 asistenti:
@@ -26,7 +25,6 @@ profiles:
   flickr:
 ordpraha: 5	
 ordga: 7
-ordpks: 3
 redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
 ---
