@@ -6,7 +6,7 @@ category:
  - praha
  - pks
 img: 		people/alice-hamalova.jpg    # 165 x 220
-description: Místopředsedkyně Pražského sdružení a zastupitelka na Praze 8.
+description: Místopředsedkyně pražského sdružení a zastupitelka na Praze 8.
 mail:
 - alice.hamalova@pirati.cz
 mob: +420 777 699 091 
