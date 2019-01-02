@@ -4,9 +4,7 @@ name:    Martina Vacková
 titles:
   before: 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- mhmp
-- praha
+category:                
 - kontaktni_osoba
 contactType: Kontakt pro média
 img: people/martina-vackova.jpg   # 165 x 220
