@@ -26,9 +26,9 @@ Petr Říha je zkušený IT odborník a manažer.  Působil na Ministerstvu vnit
 
 Je úspěšný vývojář a analytik, což se pro znalost prostředí Operátora ICT jistě hodí. Zároveň je členem výboru pražského zastupitelstva pro ICT a Smart City. Minulé volební období byl poradcem pirátských zastupitelů pro oblast informatiky na Magistrátu hl. m. Prahy a nyní získává zkušenosti s fungováním IT ve veřejné správě jako neuvolněný zastupitel na Praze 13 . Ke své vizi působení v dozorčí radě uvádí: "Operátora ICT považuji za ideální nástroj, pomocí kterého je Praha schopná realizovat i větší IT projekty, ať už z pozice projektového řízení nebo vlastního vývoje. Při vhodném řízení a dozoru tak může městu ušetřit značné prostředky a poskytnout systémy jak pro Prahu, tak i jiná města v podobě open source aplikací."
 
-**Ing. Tomáš Popela, PhD. (DR, Pražské vodohospodářské služby, a.s.)**
+**Ing. Tomáš Popela, Ph.D. (DR, Pražské vodohospodářské služby, a.s.)**
 
-Vystudoval Vysokou školu chemicko-technologickou v oborech Chemie a technologie materiálů, Kovové materiály, Inženýrství a management a Metalurgie. Pracoval např. ve společnostech Centrum výzkumu Řež s.r.o. a Safina, a.s. V současné době zastává pozici supervizora sekce kovů ve společnosti ALS Czech Republic s.r.o., která se věnuje vyhodnocování životního prostředí a odpadů.
+Vystudoval Vysokou školu chemicko-technologickou v oborech Chemie a technologie materiálů, Kovové materiály, Inženýrství a management a Metalurgie. Pracoval např. ve společnostech Centrum výzkumu Řež s.r.o. a Safina, a.s. V současné době zastává pozici vedoucího laboratorní sekce v nadnárodní společnosti věnující se analýzám vzorků životního prostředí a odpadů.
 
 **Ing. Michaela Poláková (DR, Pražské vodohospodářské služby, a.s.)**
 
