@@ -215,4 +215,3 @@ profesionální sportovní kluby a profesionální kapely. Naopak chceme podporo
 * Architektonické soutěže pro veřejné stavby jsou na západ od našich hranic běžné. Vítěz architektonické soutěže bude navíc svůj projekt hlídat od začátku do konce. Mohou tak vzniknout nové architektonické skvosty. Chceme, aby budovy veřejných institucí měly také architektonickou kvalitu.
 * **Je třeba udržovat kulturní a přírodní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich.**
 * Chceme budovat naučné stezky a cyklostezky, protože samotné památky bez vhodného přístupu k nim nestačí. Pro informování turistů má sloužit přehledný web obce. Dostupné informace v držení obce (archivní fotografe, texty) by měly být poskytnuty projektům, jako je encyklopedie Wikipedie, které svou činností zlepšují informovanost o obci.
-9
