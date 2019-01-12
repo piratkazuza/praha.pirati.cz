@@ -90,7 +90,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/2018/:path/
+    permalink: /program/:path/
   candidatelists:
     output: false
 

@@ -1,3 +1,9 @@
+---
+campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
+campaignCategoryUid: komunal2018
+title:  Volební program pro komunální volby 2018
+---
+
 ## Společný program pro komunální volby 2018
 
 ### Otevřená a moderní radnice
