@@ -106,6 +106,15 @@ defaults:   # defaults values for collection scope
         - people
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      rbar:
+        - foto
+        - personContact
+        - people
+  -
+    scope:
       path: "_program"
     values:
       layout: "program-post"
