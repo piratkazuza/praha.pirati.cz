@@ -24,7 +24,7 @@ profiles:
   flickr:		  
 ordpraha: 7
 redmine: 520
-calendar:
+calendar: ewa.horakowa@gmail.com
 ---
 
 **Eva Horáková** ( *1980) je místopředsedkyně Pirátů pro Prahu 5, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
