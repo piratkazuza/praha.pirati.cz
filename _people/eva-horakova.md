@@ -16,7 +16,7 @@ asistenti:
     tel: 236 002 142
 mail:
 - eva.horakova@pirati.cz
-mob:
+mob: 727 780 828
 profiles:
   github:       
   facebook:    
