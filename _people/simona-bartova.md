@@ -9,7 +9,7 @@ category:
 ordkodo: 3
 img: people/simona-bartova.jpg
 description: Koordinátorka dobrovolníků
-mail: simona.bartkova@pirati.cz
+mail: simona.bartova@pirati.cz
 mob: +420 603 523 065  
 profiles:
   github:       
