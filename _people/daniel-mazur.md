@@ -20,7 +20,7 @@ profiles:
 ordpraha: 3	
 ---
 
-Daniel Mazur (* 26. května 1978) je 2. místopředseda pražského sdružení Pirátů. Příznivcem Pirátské strany je od r. 2013, členem od 2014. 
+Daniel Mazur (* 26. května 1978) je starostou městské části Praha 5, Příznivcem Pirátské strany je od r. 2013, členem od 2014. 
 
 Narodil se v Praze, má tu trvalé bydliště a vede místní sdružení Pirátské strany na Praze 5. Během studia na střední škole se zapojil do International Young Naturefriends a českého sdružení Duha. Pirátům začal pomáhat po parlamentních volbách 2013, kdy nenašel jinou stranu, která by směřování řešila širokou diskuzí a demokratickým hlasováním. 
 
