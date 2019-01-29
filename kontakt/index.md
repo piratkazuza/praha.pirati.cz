@@ -47,7 +47,7 @@ contactSummaryItems:
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místním sdružením](/mestske-casti) v [městckých částech](/mestske-casti).
+Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místním sdružením](/mestske-casti) v [městských částech](/mestske-casti).
 
 <br/>
 
