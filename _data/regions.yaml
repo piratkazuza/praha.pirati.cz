@@ -83,6 +83,12 @@
   fb: https://www.facebook.com/piratipraha14/
   #mail:
   kontakt: michal.prager
+- mail:
+  kontakt: michal.jokes
+  locality: Praha 15
+  link:
+  coa: https://upload.wikimedia.org/wikipedia/commons/7/74/Praha-15_CoA.svg
+  fb: https://www.facebook.com/piratipraha15/
 - locality: Praha 16 
   candidateListWithProgramLink: kandidatka/praha16.html
   coa: https://upload.wikimedia.org/wikipedia/commons/7/79/Praha-16_CoA.svg
