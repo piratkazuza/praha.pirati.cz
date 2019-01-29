@@ -22,6 +22,6 @@ redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ---
 
-Jaromír Beránek (* 14. května 1986) je 4. místopředsedou sdružení Pirátů v Praze. Členem Pirátské strany je od listopadu 2016. Narodil se a většinu života strávil v Praze.
+Jaromír Beránek (* 14. května 1986) je předsedou sdružení Pirátů v Praze. Členem Pirátské strany je od listopadu 2016. Narodil se a většinu života strávil v Praze.
 
 V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy.
