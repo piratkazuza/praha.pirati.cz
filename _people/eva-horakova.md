@@ -16,7 +16,7 @@ asistenti:
     tel: 236 002 142
 mail:
 - eva.horakova@pirati.cz
-mob: 727 780 828
+mob: 727 870 828
 profiles:
   github:       
   facebook:    
@@ -27,7 +27,7 @@ redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---
 
-**Eva Horáková** ( *1980) je místopředsedkyně Pirátů pro Prahu 5, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
+**Eva Horáková** (* 1980) je místopředsedkyně Pirátů pro Prahu 5, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
 
 Pochází z východních Čech a od 18ti let žije v Praze, je šťastně vdaná. Vystudovala střední zdravotnickou školu obor všeobecná zdravotní sestra v Novém Bydžově, tuto práci vykonávala 2 roky po škole v Ústřední vojenské nemocnice v Praze na nejnáročnějším oddělení ARO-RES. Poté se rozhodla dále studovat, a to na 1. lékařské fakultě na Univerzitě Karlově v Praze. Tato studia se prodloužila nejen na bakalářské studium ošetřovatelství ale také na magisterské studium oboru učitelství zdravotnických předmětů pro střední školy. Během studia si odskočila v rámci programu Sokrates Erasmus do Německa na jeden semestr na polytechnické škole v Neubrandenburg.
 
