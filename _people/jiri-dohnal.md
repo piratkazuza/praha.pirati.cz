@@ -2,7 +2,7 @@
 uid: jiri.dohnal
 name: Jiří Dohnal	# běžně používáné jméno
 img: 		people/jiri-dohnal.jpg    # 165 x 220
-description: zastupitel hl. m. Prahy, zastupitel městské části Praha 11 za Piráty
+description: starosta MČ Praha 11, zastupitel hl. m. Prahy, zastupitel městské části Praha 11 za Piráty
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp       	        			# kratký popis, max 160 znaků
 mail:
@@ -10,9 +10,9 @@ mail:
 ordpraha: 12
 ---
 
-**Jiří Dohnal** (* Městec Králové) je zastupitel hl. m. Prahy za Piráty. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
+**Jiří Dohnal** (* Městec Králové) je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
 
-V roce 2018 byl zvolen do zastupitelstva hl. m. Prahy za Piráty z 12. místa kandidátní listiny. Uspěl i ve volbách do zastupitelstva městské části Praha 11.
+V roce 2018 byl zvolen do zastupitelstva hl. m. Prahy za Piráty z 12. místa kandidátní listiny. Uspěl i ve volbách do zastupitelstva městské části Praha 11. V únoru 2019 byl po čtyřech měsících koaličních jednání na městské části zvolen jejím starostou.
 
 
 ## Profesní růst a moje praktické a životní zkušenosti
