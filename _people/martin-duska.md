@@ -18,4 +18,4 @@ profiles:
   flickr:		  
 ---
 
-Martin Duška (* 10. září 1992) je členem Pirátské strany. Pochází z Prahy 11, kde vystudoval většinu škol. Středoškolské vzdělání absolvoval na Gymnázium Evolution Jižní Město. Bakalářský titul získal v roce 2015 na Vysoké škole aplikovaného práva v oboru sociálně právní činnosti. Zajímá se o vliv nových technologií na proměnu společnosti, výtvarné umění, historii. 
+Martin Duška (* 10. září 1992) je pirátský radní na městské části Praha 11. Pochází z Prahy 11, kde vystudoval většinu škol. Středoškolské vzdělání absolvoval na Gymnázium Evolution Jižní Město. Bakalářský titul získal v roce 2015 na Vysoké škole aplikovaného práva v oboru sociálně právní činnosti. Zajímá se o vliv nových technologií na proměnu společnosti, výtvarné umění, historii. V únoru 2019 byl po čtyřech měsících vyjednávání o nové koalici na této městské části zvolen jejím radním.
