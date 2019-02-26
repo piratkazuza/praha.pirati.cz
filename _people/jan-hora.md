@@ -11,7 +11,7 @@ ordpks: 2
 img: people/jan-hora.jpg   # 165 x 220
 description:  Místopředseda pražského sdružení
 mail:
-- jan.hora@pirati.cz
+- honza.hora@pirati.cz
 mob:			 
 profiles:
   github:       
