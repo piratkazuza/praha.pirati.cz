@@ -36,7 +36,7 @@ rbar:
 
 ## Krajské schůze
 
-**8. 11. Krajská schůze** - Dozvíte se zprávy se Sněmovny, z Magistrátu, z městských částí, představí se zájemci o členství a zájemci o spolupráci s námi vůbec. 
+**Krajská schůze** - Dozvíte se zprávy se Sněmovny, z Magistrátu, z městských částí, představí se zájemci o členství a zájemci o spolupráci s námi vůbec. 
 
 Schůze probíhají pravidelně každý první čtvrtek v měsíci.
 
