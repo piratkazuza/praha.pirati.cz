@@ -14,7 +14,7 @@ residences:
  - name: Magistrát
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
    address: |
-     Kancelář 40, Mariánské náměstí 2, 
+     Kancelář 38, Mariánské náměstí 2, 
      110 00 Praha 1,
    spravce: jan.louzek
    residenceImg: kontakt/magistrat.jpg
