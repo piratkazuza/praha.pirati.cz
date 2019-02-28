@@ -1,0 +1,9 @@
+---
+layout: page
+title: Odměny voleným zatupitelům
+#rbar: people
+---
+
+{% include tables/zebra.html table=site.data.csv.odmeny %}
+
+{% include tables/zebra.html title='nadpis' table=site.data.csv.odmeny %}
