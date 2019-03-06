@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: praha
 - praha
-img:    # 165 x 220
+img:   people/ondrej.vojta
 description:      	# kratký popis, max 160 znaků
 mail:
 - ondrej.vojta@pirati.cz
