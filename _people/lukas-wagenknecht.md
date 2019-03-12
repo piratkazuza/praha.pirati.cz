@@ -9,8 +9,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lukas-wagenknecht.jpg # 165 x 220
 description: Senátor za Piráty za volební obvod Praha 8             	# kratký popis, max 160 znaků
 mail:
-- info@lukaswagenknecht.cz
-mob:			  
+- wagenknecht.luk@gmail.com
+mob:	608303542		  
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/WagenknechtLuk/
