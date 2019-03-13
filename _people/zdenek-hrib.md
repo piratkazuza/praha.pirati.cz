@@ -22,5 +22,4 @@ ordpraha: 1
 
 ### Odkazy 
 
-* [Veřejný kalendář primátora](https://posta.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/59c6d354ff484778a809142c3ec1bf1610958277075503968005/calendar.html)
-
+* [Veřejný kalendář primátora](https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html)
