@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Odměny voleným zatupitelům
+title: Odměny voleným zastupitelům
 #rbar: people
 ---
 
