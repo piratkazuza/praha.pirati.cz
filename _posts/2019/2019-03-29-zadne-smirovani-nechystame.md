@@ -1,12 +1,12 @@
 ---
 date:         2019-03-29
 tags:         praha bydlení
-title:        "Zábranský: Hřib nikdy danění prázdných bytů nenavrhl"
+title:        "Zábranský: Jak je to s těmi prázdnými byty? "
 image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský
 ---
 
-Proto také tento návrh těžko mohl probrat na koaličním jednání, když žádný takový návrh neexistuje. 
+Zdeněk Hřib nikdy nenavrhnul danění prázdných bytů, proto tento návrh těžko mohl probrat na koaličním jednání, když žádný takový návrh neexistuje.
 
 Pan primátor řekl pouze to, že jestliže zjistíme, že v Praze je hodně prázdných bytů a že je to problém, tak s tím můžeme jít za nějakým ministerstvem, aby problém řešilo. Rozhodně ale neřekl nic v tom smyslu, že navrhujeme zdanit prázdné byty a že s tím půjdeme za ministerstvem. Případné návrhy bychom samozřejmě před jejich medializací projednali s koaličními partnery, ale opakuji, že v současnosti nic v tomto směru nenavrhujeme (v současnosti chceme pouze získat statistická data, abychom zjistili, jestli jsou prázdné byty opravdu relevantní téma k diskusi). Pan Pospíšil tedy zřejmě nepochopil, že z naší strany žádný návrh nepadl, ačkoliv jsme se mu to snažili opakovaně vysvětlit. Kvůli tomuto nepochopení celý tento „koaliční konflikt“ vzniknul.
 
