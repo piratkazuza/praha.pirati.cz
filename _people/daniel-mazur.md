@@ -5,7 +5,6 @@ titles:
   before: RNDr. 
   after:  PhD.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- mhmp
 - praha
 img: people/daniel-mazur.jpg    # 165 x 220
 description: zastupitel hl. m. Prahy zastupitel městské části Praha 5, 2. místopředseda pražského sdružení Pirátů            	# kratký popis, max 160 znaků
