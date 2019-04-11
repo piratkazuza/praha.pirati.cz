@@ -2,7 +2,7 @@
 uid: martin.arden
 name:     Martin Arden  	# běžně používáné jméno
 titles:
-  before: Ing. 
+  before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
