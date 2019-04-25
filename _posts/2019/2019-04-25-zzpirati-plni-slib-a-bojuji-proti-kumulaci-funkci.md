@@ -4,7 +4,7 @@ category: blog
 title: >-  
   Piráti plní slib a bojují proti kumulaci funkcí, tak jak avizovali v povolební strategii. 2 uvolněné zastupitele nahradili další v pořadí
 date: '2019-04-25 00:01am'
-author: Zdeněk Zchar
+author: Mediální odbor
 image: arden-kos.jpg
 tags: praha transparence
 ---
