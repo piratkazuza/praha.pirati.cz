@@ -14,6 +14,17 @@ asistenti:
     position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
     mail: alice.houskova@praha.eu
     tel: +420 236 002 133
+  - name: Jovana Perović
+    position: obecná asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
+    mail: jovana.perovic@praha.eu
+    tel: +420 236 002 941
+  - name: Adam Rut
+    position: asistent pro oblast transparentnosti <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
+    mail: adam.rut@praha.eu
+    tel: +420 236 002 124
+  - name: Štěpán Ripka
+    position: poradce pro oblast bydlení <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
+    mail: stepan.ripka@praha.eu
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
