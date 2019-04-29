@@ -6,11 +6,13 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
+- dr
 img: people/lukas-wagenknecht.jpg # 165 x 220
-description: Senátor za Piráty za volební obvod Praha 8             	# kratký popis, max 160 znaků
+description: Senátor za Piráty za volební obvod Praha 8, člen dozorčí rady ve společnosti Pražská plynárenská, a.s.             	# kratký popis, max 160 znaků
 mail:
 - wagenknecht.luk@gmail.com
 mob:	608303542		  
+orddr: 4
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/WagenknechtLuk/
@@ -25,4 +27,4 @@ Za svůj život se podílel na stovkách auditů. Do povědomí veřejnosti se a
 
 V roce 2015 byl oceněn cenou za odvahu od Nadačního fondu proti korupci za své dlouhodobé nekompromisní postoje v roli auditora, například v pražském Dopravním podniku, nebo na ministerstvu financí, kde upozornil na nesrovnalosti v podivných smlouvách uzavřených mezi společností ČEZ a političkou hnutí ANO Radmilou Kleslovou.
 
-V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8.
+V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s.

@@ -6,11 +6,13 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
+- dr
 img: people/jiri-koudelka.jpg   # 165 x 220
-description:      	# kratký popis, max 160 znaků
+description: člen dozorčí rady společnosti Operátor ICT a.s.     	# kratký popis, max 160 znaků
 mail:
 - jiri.koudelka@pirati.cz
 mob:
+orddr: 6
 profiles:
   github:       
   facebook:    
@@ -24,6 +26,6 @@ Vystudoval Gymnázium U Libeňského zámku, obor informatika. Dva roky strávil
 
 Během praxe získal zkušenosti s vývojem širokého spektra aplikací – od software pro krizové řízení a státní správu, přes intrawebové CRM systémy až po mobilní aplikace. V současnosti pracuje jako OSVČ především na vývoji nativních mobilních aplikací pro platformu Android.
 
-U Pirátů se věnuje především analýze IT zakázek pražského magistrátu.
+U Pirátů se věnuje především analýze IT zakázek pražského magistrátu. V roce 2018 byl ve výběrovém řízení pražských Pirátů vybrán do dozorčí rady společnosti Operátor ICT, která se věnuje informatice pražského Magistrátu a hlavního města Prahy.
 
 

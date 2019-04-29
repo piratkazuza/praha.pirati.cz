@@ -1,0 +1,30 @@
+---
+uid: frantisek.dosedek
+name: František Doseděl  	# běžně používáné jméno
+titles:
+  before: 
+  after: 
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- dr
+img: people/frantisek-dosedel.jpg   # 165 x 220
+description: Člen dozorčí rady Zdroj pitné vody Káraný, a.s. 	# kratký popis, max 160 znaků
+mail: 
+- frantisek.dosedel@pirati.cz
+mob:
+orddr: 23
+profiles:
+  github:       
+  facebook: frantisek.dosedel
+  twitter: 		  
+  flickr:		  
+---
+
+**František Doseděl** je členem dozorčí rady společnosti Zdroj pitné vody Káraný, a.s., jímž se stal členem na základě otevřeného výběrového řízení.
+
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient.
+
+V rámci Pirátů se věnuje obzvláště obecné právní problematice, sdílené ekonomice a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
+
+Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již deset let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem dvou psů. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, pěstování (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a rusky.
+
+

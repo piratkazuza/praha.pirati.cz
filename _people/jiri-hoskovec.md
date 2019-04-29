@@ -6,10 +6,12 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
+- dr
 img: people/jiri-hoskovec.jpg   # 165 x 220
-description:      	# kratký popis, max 160 znaků
+description: Člen dozorčí rady společnosti Technická správa komunikací a.s., zástupce Mediálního odboru Pirátů      	# kratký popis, max 160 znaků
 mail:
 - jiri.hoskovec@pirati.cz
+orddr: 5
 mob:
 profiles:
   github:       
@@ -18,8 +20,9 @@ profiles:
   flickr:		  
 ---
 
-**Jiří Hoskovec** (*1992) je zástupcem pro management mediálního odboru. Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera. Je členem MS Praha 6.
+**Jiří Hoskovec** (*1992) je zástupcem pro management mediálního odboru. Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera. Je členem MS Praha 6. Je rovněž členem dozorčí rady společnosti Technická správa komunikací a.s.
 
-Je vystudovaný jaderný inženýr na Fakultě jaderné a fyzikálně inženýrské ČVUT. Studoval také na Právnické fakultě UK. Pracoval jako jaderný výzkumník v Department of Nuclear Engineering na University of Tennessee ve Spojených státech a v laboratořích SÚJV Dubna v Rusku. Po návratu do Česka pracuje jako forenzní specialista a datový analytik finančních zločinů. Jiřího zaměřením je boj s praním špinavých peněz, s obchodováním se sankcionovanými entitami a vyšetřování interních podvodů
+Jiří Hoskovec má zkušenosti s financemi velkých firem a forenzní analýzou finančních toků, což je pro odpovědnou práci v dozorčí radě TSK velmi přínosné, vzhledem k neprůhledným kontraktům jak TSK s městem tak TSK s dodavateli. Při své práci vnímá: "Jako jeden z hlavních problémů absenci jakékoliv metriky pro cenu zadávaných zakázek. Navzdory velkému množství vyhotovených zakázek, TSK nemá představu o tom, jaká je přibližná cena rekonstrukce 1 km komunikace (v daném rozsahu, šířce, časovém rámci, technické náročnosti), což je pro TSK velmi nevýhodné při poptávání budoucích dodavatelů, stejně jako při sestavování rozpočtu." Za další své priority označil posílení controllingu, zeštíhlení řídící struktury firmy. TSK také musí vytvořit dlouhodobější plány než vždy do konce jednoho finančního roku. 
 
-Finanční zločin a energetika jsou témata, o která se zajímá v Pirátské straně, nemá-li zrovna plné ruce práce s mediálním odborem. Jako rodilý Pražan se aktivně zajímá o pražskou komunální politiku.
+Jiří Hoskovec je zastupitel MČ Praha 6 a hospodář mediálního odboru Pirátů. Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera. Civilní profesí je forenzní specialista a datový analytik finančních zločinů. Jiřího zaměřením je boj s praním špinavých peněz, s obchodováním se sankcionovanými entitami a vyšetřování interních podvodů. Je vystudovaný jaderný inženýr na Fakultě jaderné a fyzikálně inženýrské ČVUT. Studoval také na Právnické fakultě UK. Pracoval jako jaderný výzkumník v Department of Nuclear Engineering na University of Tennessee ve Spojených státech a v laboratořích SÚJV Dubna v Rusku.
+
