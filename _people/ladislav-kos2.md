@@ -14,7 +14,7 @@ mail:
 mob:
 profiles:
   github:       
-  facebook: https://www.facebook.com/ladislavkos111
+  facebook: https://www.facebook.com/pirat.kosak/
   twitter: 		  
   flickr:		  
 ordpraha: 14
