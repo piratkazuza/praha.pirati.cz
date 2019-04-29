@@ -20,14 +20,13 @@ profiles:
 ordpraha: 14
 ---
 
-**Ladislav Kos** (* 1986) je členem Pirátů na Praze 11 a od dubna 2019 zastupitelem hl. města Prahy za Piráty. Povoláním je projektový manažer. Je členem dopravní komise na Praze 11 a místopředsedou sdružení Pirátů na Praze 11. Pochází z Prahy, většinu svého života žije na Jižním Městě.
+**Ladislav Kos** (* 1986) je členem Pirátské strany na Praze 11, kde je zároveň zastupitelem. Od dubna 2019 je zastupitelem hl. města Prahy.
 
-Vystudoval ČVUT – Fakultu dopravní, kde získal inženýrský titul ve studijním oboru Dopravní systémy a technika.
+Na magistrátu hl.m. Prahy předsedá Komisi Rady hl. m. Prahy pro sport, je členem Výboru pro zdravotnictví a sport a volný čas a Výboru pro dopravu. V domovské Praze 11 je členem dopravní komise.
 
-Profesně se zabývá online marketingem a SEO. Dříve pracoval pro neziskovou organizaci Saferinternet.cz
+Vystudoval ČVUT – Fakultu dopravní, kde získal inženýrský titul ve studijním oboru Dopravní systémy a technika. Profesně se zabývá online marketingem. Dříve pracoval pro neziskové organizace působící v oblasti bezpečného užívání internetu a prevence kyberšikany. 
 
-Politikou se zabývá od roku 2014, kdy byl na Praze 11 osloven Hnutím ANO, za které na komunální úrovni kandidoval na nevolitelné pozici. Po dlouhotrvajích neshodách a vlastním prozření opustil ANO na počátku roku 2017. V létě 2017 se po vzájemných sympatiích přidal k Pirátům a i přes svůj politický škraloup přesvědčil při grilování.
+Politikou se zabývá od roku 2014, kdy byl na Praze 11 osloven tehdy vznikajícím Hnutím ANO, za které na komunální úrovni kandidoval na nevolitelné pozici. Po dlouho trvajích neshodách a vlastním prozření opustil ANO na počátku roku 2017. V létě 2017 se po vzájemných sympatiích přidal k Pirátům a i přes svůj politický škraloup přesvědčil při grilování. V září 2017 se stal členem Pirátské strany. V roce 2019. se stal jako 1. náhradník zastupitelem hlavního města Prahy po odstoupivším Danielovi Mazurovi. 
 
-V září 2017 se stal členem Pirátské strany. Nadále je členem dopravní a sportovní komise na Praze 11. Mezi témata, kterým se nejvíce věnuje, patří doprava, územní rozvoj a sport (jeho financování). V roce 2019 se stal jako 1. náhradník zastupitelem hlavního města Prahy poté, co rezignoval Daniel Mazur, starosta Prahy 5. 
+Mezi jeho zájmy patří aktivní sport – běh, silniční cyklistika, turistika, fitness. Zajímá se o domácí a zahraniční politické dění. 
 
-Mezi jeho zájmy patří aktivní sport – běh, silniční cyklistika, běžky, turistika. Zajímá se o domácí a zahraniční politické dění. Rád poslouchá jazz.
