@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/katerina-ruzickova.jpg   # 165 x 220
-description:  Člen dozorčí rady společnosti Pražská vodohospodářská společnost a.s.  	# kratký popis, max 160 znaků
+description: členka dozorčí rady společnosti Pražská vodohospodářská společnost a.s.  	# kratký popis, max 160 znaků
 mail: 
 - katerina.ruzickova@gmail.com
 mob:

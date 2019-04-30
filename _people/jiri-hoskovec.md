@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
 img: people/jiri-hoskovec.jpg   # 165 x 220
-description: Člen dozorčí rady společnosti Technická správa komunikací a.s., zástupce Mediálního odboru Pirátů      	# kratký popis, max 160 znaků
+description: člen dozorčí rady společnosti Technická správa komunikací a.s., zástupce Mediálního odboru Pirátů      	# kratký popis, max 160 znaků
 mail:
 - jiri.hoskovec@pirati.cz
 orddr: 5

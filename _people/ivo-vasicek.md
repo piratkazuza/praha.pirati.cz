@@ -7,7 +7,7 @@ titles:
 category:
  - dr
 img: 		people/ivo-vasicek.jpg    # 165 x 220
-description: Člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
+description: člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
 mail:
 - ivo.vasicek@pirati.cz
 mob: +420 608 240 742

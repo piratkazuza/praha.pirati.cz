@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/michaela-polakova.jpg   # 165 x 220
-description: člen dozorčí rady Pražské vodohospodářské společnosti a.s.    	# kratký popis, max 160 znaků
+description: členka dozorčí rady Pražské vodohospodářské společnosti a.s.    	# kratký popis, max 160 znaků
 mail:
 - michaela.polakova@pirati.cz
 mob:
@@ -19,7 +19,7 @@ profiles:
   flickr:		  
 ---
 
-**Michaela Poláková** je členem dozorčí rady společnosti Pražské vodohospodářské společnosti a.s., Zvítězila ve výběrovém řízení uskutečněném Piráty.
+**Michaela Poláková** je členkou dozorčí rady společnosti Pražské vodohospodářské společnosti a.s., Zvítězila ve výběrovém řízení uskutečněném Piráty.
 
 Vystudovala ČVUT v Praze, a prakticky od dob studií byla zaměstnána v renomovaných stavebně-technických firmách převážně zahraničních investorů, kde se postupně vypracovala až do vrcholového managementu, konkrétně na pozici finanční ředitelky. Věří, že získané know-how a zkušenosti lze dobře využít pro zefektivnění řízení v komunální správě. Na Jižním Městě žije od roku 1984, s občasnými pracovními pobyty v zahraničí. Mezi její zájmy patří architektura, cestování a hudba, hraji na příčnou flétnu.
 

@@ -7,7 +7,7 @@ category:
  - pks
  - dr
 img: 		people/alice-hamalova.jpg    # 165 x 220
-description: Místopředsedkyně pražského sdružení, zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní.
+description: Místopředsedkyně pražského sdružení, zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
 mail:
 - alice.hamalova@pirati.cz
 mob: +420 777 699 091 
@@ -20,7 +20,7 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?text=alice%20hamalova
 ---
 
-**Alice Hamalová** (* 2. května 1990) je členkou dozorčí rady ve společnosti Želivská provozní.
+**Alice Hamalová** (* 2. května 1990) je členkou dozorčí rady ve společnosti Želivská provozní, a.s.
 
 Vystudovala osmileté Gymnázium Krnov, kde maturovala z chemie. Studuje na Fakultě technologie ochrany prostředí VŠCHT Praha. V průběhu studia se specializuje na životní prostředí, analytiku a úpravu vody. Dříve pracovala ve farmaceutické firmě na klinických testech, podílela se na zajištění chodu laboratoří a přípravě přípravku na léčbu rakoviny. Absolvovala pracovní pobyt v Pekingu, kde zaučovala čínské kolegy a zlepšovala chod laboratoří.
 

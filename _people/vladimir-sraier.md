@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/vladimir-sraier.jpg   # 165 x 220
-description: Člen dozorčí rady společnosti Trade Centre Praha, a.s. 	# kratký popis, max 160 znaků
+description: člen dozorčí rady společnosti Trade Centre Praha, a.s. 	# kratký popis, max 160 znaků
 mail: 
 - vladimir.sraier@gmail.com
 mob:
