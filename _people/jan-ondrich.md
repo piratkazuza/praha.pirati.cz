@@ -11,7 +11,7 @@ description: nominant Pirátů do dozorčí rady společnosti Pražská energeti
 mail:
 - jan-ondrich@outlook.com
 mob: 
-orddr: 19
+orddr: 8
 profiles:
   github:                 
   facebook: 		  

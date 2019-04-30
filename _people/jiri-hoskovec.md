@@ -11,7 +11,7 @@ img: people/jiri-hoskovec.jpg   # 165 x 220
 description: člen dozorčí rady společnosti Technická správa komunikací a.s., zástupce Mediálního odboru Pirátů, zastupitel na Praze 6      	# kratký popis, max 160 znaků
 mail:
 - jiri.hoskovec@pirati.cz
-orddr: 5
+orddr: 11
 mob:
 profiles:
   github:       

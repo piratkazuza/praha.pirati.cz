@@ -11,7 +11,7 @@ description:  člen dozorčí rady společnosti Zdroj pitné vody Káraný a.s. 
 mail:
 - benacek.jiri@gmail.com
 mob:
-orddr: 10
+orddr: 20
 profiles:
   github:       
   facebook:    

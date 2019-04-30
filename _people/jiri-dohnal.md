@@ -9,7 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 mail:
 - jiri.dohnal@pirati.cz
 ordpraha: 12
-orddr: 23
+orddr: 25
 ---
 
 **Jiří Dohnal** (* Městec Králové) je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s.

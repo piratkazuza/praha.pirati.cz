@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Trade Centre Praha, a.s., zastupi
 mail: 
 - vladimir.sraier@gmail.com
 mob:
-orddr: 13
+orddr: 28
 profiles:
   github:       
   facebook:    

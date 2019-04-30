@@ -11,7 +11,7 @@ description: členka dozorčí rady Pražské vodohospodářské společnosti a.
 mail:
 - michaela.polakova@pirati.cz
 mob:
-orddr: 8
+orddr: 18
 profiles:
   github:       
   facebook:    

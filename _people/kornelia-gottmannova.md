@@ -12,7 +12,7 @@ description: členka dozorčí rady společnosti Pražské služby a.s., zastupi
 mail:
 - kornelia.gottmanova@pirati.cz
 mob:			 
-orddr: 16
+orddr: 9
 profiles:
   github:       
   facebook:  

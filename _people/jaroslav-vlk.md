@@ -11,7 +11,7 @@ description:  člen dozorčí rady společnosti Pražská plynárenská distribu
 mail:
 - jaroslav.vlk@seznam.cz
 mob:
-orddr: 9
+orddr: 6
 profiles:
   github:       
   facebook:    

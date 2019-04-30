@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Obecní dům a.s.
 mail:
 - jakub_v@seznam.cz
 mob: 
-orddr: 7
+orddr: 227
 profiles:
   github:                 
   facebook: 		  

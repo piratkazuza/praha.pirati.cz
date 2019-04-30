@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Pražská vodohospodářská spol
 mail:
 - popelatomas@gmail.com
 mob:
-orddr: 8
+orddr: 17
 profiles:
   github:       
   facebook:    

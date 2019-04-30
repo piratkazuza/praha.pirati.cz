@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Pražská plynárenská a.s.
 mail:
 - lechovsky@lbak.cz
 mob: 
-orddr: 17
+orddr: 5
 profiles:
   github:                 
   facebook: 		  

@@ -11,7 +11,7 @@ description: nominant Pirátů do dozorčí rady společnosti Pražská strojír
 mail:
 - petr.zmatlik@seznam.cz
 mob:
-orddr: 6
+orddr: 15
 profiles:
   github:       
   facebook:    

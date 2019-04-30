@@ -11,7 +11,7 @@ description: Člen dozorčí rady společnosti Kolektory Praha, a.s.
 mail:
 - daniel.petrasek@centrum.cz
 mob: 
-orddr: 20
+orddr: 12
 profiles:
   github:                 
   facebook: 		  

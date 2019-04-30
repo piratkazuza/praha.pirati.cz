@@ -11,7 +11,7 @@ description: člen dozorčí rady Zdroj pitné vody Káraný, a.s., zastupitel n
 mail: 
 - frantisek.dosedel@pirati.cz
 mob:
-orddr: 23
+orddr: 21
 profiles:
   github:       
   facebook: frantisek.dosedel

@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Kongresové centrum Praha, a.s.  
 mail:
 - radek.zykan@gmail.com
 mob:
-orddr: 9
+orddr: 26
 profiles:
   github:       
   facebook:    

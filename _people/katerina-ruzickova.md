@@ -11,7 +11,7 @@ description: členka dozorčí rady společnosti Pražská vodohospodářská sp
 mail: 
 - katerina.ruzickova@gmail.com
 mob:
-orddr: 12
+orddr: 16
 profiles:
   github:       
   facebook:    
