@@ -21,9 +21,19 @@
           {% if page.asistenti %}
             {% for asistent in page.asistenti %}
               <hr />
-              <h3>{{ asistent.position }}</h3>
+              <h3>
+                  {{ asistent.position }}
+              </h3>
               <p>
-              <i class="fa fa-user-o"></i> {{asistent.name}}<br/>
+              {% if asistent.uid %}
+              <i class="fa fa-user-o"></i> 
+                 {% assign person = site.people | where_exp: "item","item.uid contains asistent.uid" | first %}
+                  <a class="c-emphasized-anchor" href="{{ person.url }}">{{ asistent.name }}</a>
+              {% else %}
+              <i class="fa fa-user-o"></i> 
+                  {{asistent.name}}
+              {% endif %}
+              <br/>
               {% if asistent.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{asistent.mail}}">{{asistent.mail}}</a><br/>{% endif %}
               {% if asistent.tel %}<i class="fa fa-phone"></i> {{ asistent.tel }}<br/>{% endif %}
               </p>
