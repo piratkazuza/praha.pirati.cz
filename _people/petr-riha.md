@@ -11,7 +11,7 @@ description: zastupitel na Praze 21, člen dozorčí rady ve společnosti Operá
 mail:
 - petr@riha.cz
 mob: 
-orddr: 3
+orddr: 2
 profiles:
   github:                 
   facebook: 		  

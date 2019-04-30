@@ -9,7 +9,7 @@ description: člen dozorčí rady společnosti Operátor ICT a.s.
 mail:
 - michal@michalblaha.cz
 mob: 
-orddr: 11
+orddr: 1
 profiles:
   github:                 
   facebook: 		  

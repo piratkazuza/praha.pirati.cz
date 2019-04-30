@@ -10,7 +10,7 @@ description: místostarosta Prahy 7, člen dozorčí rady společnosti Technick�
 mail:
 - ondrej.mirovsky@zeleni.cz
 mob: +420 731 427 980
-orddr: 17
+orddr: 10
 profiles:
   github:       
   facebook:    

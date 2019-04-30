@@ -11,7 +11,7 @@ description: člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.
 mail:
 - michal.stepan@maxstav.cz
 mob:
-orddr: 21
+orddr: 14
 profiles:
   github:       
   facebook:    

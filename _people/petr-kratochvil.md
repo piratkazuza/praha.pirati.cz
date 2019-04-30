@@ -11,7 +11,7 @@ description:  Člen dozorčí rady společnosti Pražské vodovody a kanalizace,
 mail: 
 - petr.krat@centrum.cz
 mob:
-orddr: 13
+orddr: 19
 profiles:
   github:       
   facebook:    

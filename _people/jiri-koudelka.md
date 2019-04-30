@@ -12,7 +12,7 @@ description: člen dozorčí rady společnosti Operátor ICT a.s.     	# kratký
 mail:
 - jiri.koudelka@pirati.cz
 mob:
-orddr: 6
+orddr: 3
 profiles:
   github:       
   facebook:    

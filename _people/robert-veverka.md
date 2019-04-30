@@ -9,7 +9,7 @@ description: Zastupitel městské části Praha 2, člen dozorčí rady společn
 mail:
 - robert.veverka@pirati.cz
 mob:
-orddr: 15
+orddr: 29
 profiles:
   github:       
   facebook: https://www.facebook.com/legalizace

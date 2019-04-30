@@ -11,7 +11,7 @@ description: nominant Pirátů do dozorčí rady společnosti Pražská energeti
 mail: 
 - matej.sandor@pirati.cz
 mob:
-orddr: 13
+orddr: 7
 profiles:
   github:       
   facebook:    

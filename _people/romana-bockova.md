@@ -11,7 +11,7 @@ description: členka dozorčí rady společnosti Úpravna vody Želivka a.s.    
 mail:
 - rbockova@hotmail.cz
 mob:
-orddr: 21
+orddr: 23
 profiles:
   github:       
   facebook:    
