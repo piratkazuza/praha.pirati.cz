@@ -5,7 +5,7 @@ fullname: Michal Bláha
 category:
  - dr
 img: 		people/michal-blaha.jpg    # 165 x 220
-description: Člen dozorčí rady společnosti Operátor ICT a.s.
+description: člen dozorčí rady společnosti Operátor ICT a.s.
 mail:
 - michal@michalblaha.cz
 mob: 
