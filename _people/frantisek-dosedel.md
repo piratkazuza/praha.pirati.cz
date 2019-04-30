@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/frantisek-dosedel.jpg   # 165 x 220
-description: Člen dozorčí rady Zdroj pitné vody Káraný, a.s. 	# kratký popis, max 160 znaků
+description: člen dozorčí rady Zdroj pitné vody Káraný, a.s. 	# kratký popis, max 160 znaků
 mail: 
 - frantisek.dosedel@pirati.cz
 mob:
