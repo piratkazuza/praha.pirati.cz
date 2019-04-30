@@ -6,7 +6,7 @@ titles:
   after: MSc.
 category:
  - dr
-img: 		people/katerina-ruzickova.jpg    # 165 x 220
+img: 		people/jan-ondrich.jpg    # 165 x 220
 description: nominant Pirátů do dozorčí rady společnosti Pražská energetika holding, a.s.
 mail:
 - jan-ondrich@outlook.com

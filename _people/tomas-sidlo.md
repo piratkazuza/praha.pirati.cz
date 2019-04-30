@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/tomas-sidlo.jpg   # 165 x 220
-description:  člen dozorčí rady společnosti Technologie hlavního města Prahy a.s.  	# kratký popis, max 160 znaků
+description: zastupitel na Praze 6, člen dozorčí rady společnosti Technologie hlavního města Prahy a.s.  	# kratký popis, max 160 znaků
 mail: 
 - sidlo@me.com
 mob:
@@ -19,7 +19,7 @@ profiles:
   flickr:		  
 ---
 
-**Tomáš Šídlo** je členem dozorčí rady společnosti Technologie hlavního města Prahy a.s.
+**Tomáš Šídlo** je členem dozorčí rady společnosti Technologie hlavního města Prahy a.s. a zastupitelem za Piráty na městské části Praha 6. 
 
 Tomáš je zkušený manažer s praxí ze statutárních orgánů. Svou profesní dráhu začal v devadesátých letech v auditorské firmě KMPG, později působil jako generální ředitel a předseda představenstva několika českých podniků, mimo jiné výrobce kosmetiky Dermacol a.s., vydavatelství a nakladatelství Respekt Publishing a.s. a společnosti obchodující s cennými papíry BBG Finance a.s. Nyní vlastní a řídí společnost podnikající ve farmacii. Tomáš obdržel vzdělání v sociologii z Karlovy univerzity, v řízení podniků z Univerzity George Washingtona a postgraduální vzdělání ve finančním a strategickém řízení z Dartmouth College.
 

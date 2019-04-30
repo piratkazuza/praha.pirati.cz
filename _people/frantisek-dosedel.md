@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/frantisek-dosedel.jpg   # 165 x 220
-description: člen dozorčí rady Zdroj pitné vody Káraný, a.s. 	# kratký popis, max 160 znaků
+description: člen dozorčí rady Zdroj pitné vody Káraný, a.s., zastupitel na Praze 3 	# kratký popis, max 160 znaků
 mail: 
 - frantisek.dosedel@pirati.cz
 mob:
@@ -19,7 +19,7 @@ profiles:
   flickr:		  
 ---
 
-**František Doseděl** je členem dozorčí rady společnosti Zdroj pitné vody Káraný, a.s., jímž se stal členem na základě otevřeného výběrového řízení.
+**František Doseděl** je členem dozorčí rady společnosti Zdroj pitné vody Káraný, a.s., jímž se stal členem na základě otevřeného výběrového řízení. Je rovněž zastupitelem za Piráty na městké části Praha 3. 
 
 Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient.
 
