@@ -8,7 +8,38 @@ category:
 - mhmp-radni
 - praha
 img: people/zdenek-hrib.jpg  # 165 x 220
-description: <br/> primátor
+description: <br/> primátor hlavního města Prahy
+asistenti:
+  - name: Martina Vacková
+    uid: martina.vackova
+    position: vedoucí oddělení poradců
+    mail: martina.vackova@praha.eu
+    tel: 
+  - name: Veronika Kubíčková
+    uid: veronika.kubickova
+    position: poradkyně primátora
+    mail: veronika.kubickova@praha.eu
+    tel: 
+  - name: Adéla Cinkaničová
+    uid: adela.cinkanicova
+    position: poradkyně primátora
+    mail: adela.cinkanicova@praha.eu
+    tel: 
+  - name: Magdalena Valdmanová
+    uid: magdalena.valdmanova
+    position: poradkyně primátora
+    mail: magdalena.valdmanova@praha.eu
+    tel: 
+  - name: Tomáš Vovsík
+    uid: tomas.vovsik
+    position: poradce primátora
+    mail: tomas.vovsik@pirati.cz
+    tel: 
+  - name: Marek Šafra
+    uid: marek.safra
+    position: poradce primátora
+    mail: marek.safra@praha.eu
+    tel: 
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
