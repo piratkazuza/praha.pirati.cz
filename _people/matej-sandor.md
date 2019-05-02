@@ -1,6 +1,6 @@
 ---
 uid: matej.sandor
-name: Matěj Šandor  	# běžně používáné jméno
+name: Matej Šandor  	# běžně používáné jméno
 titles:
   before: JUDr. Bc.
   after: Ph.D
