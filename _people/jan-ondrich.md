@@ -21,4 +21,4 @@ profiles:
 
 **Jan Ondřich** je nominantem Pirátů do dozorčí rady společnosti Pražská energetika holding, a.s.
 
-Jan má 12 let zkušeností s vedením četných poradenských projektů v různých zemích v celé Evropě, pro největší evropské podniky a institucionální investory. Má mnoho zkušeností v oblasti energetiky, publikací o energetice a také zkušenosti s Německým managementem, který je pro tuto DR zásadní. Jan prokázal správné pirátské nadšení a ochotu se za věci porvat, je-li to potřeba.
+Jan má 12 let zkušeností s vedením četných poradenských projektů v různých zemích v celé Evropě, pro největší evropské podniky a institucionální investory. Má mnoho zkušeností v oblasti energetiky, publikací o energetice a také zkušenosti s Německým managementem, který je pro tuto DR zásadní.

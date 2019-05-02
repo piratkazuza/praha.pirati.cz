@@ -2,7 +2,7 @@
 uid: michal.stepan
 name:     Michal Štěpán  	# běžně používáné jméno
 titles:
-  before: 
+  before: Ing. 
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr

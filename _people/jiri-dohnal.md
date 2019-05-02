@@ -2,7 +2,7 @@
 uid: jiri.dohnal
 name: Jiří Dohnal	# běžně používáné jméno
 img: 		people/jiri-dohnal.jpg    # 165 x 220
-description: starosta MČ Praha 11, zastupitel hl. m. Prahy, zastupitel městské části Praha 11 za Piráty
+description: starosta MČ Praha 11, zastupitel hl. m. Prahy, člen dozorčí rady společností Výstaviště Praha, a.s.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp       	        			# kratký popis, max 160 znaků
 - dr
