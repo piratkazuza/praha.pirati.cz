@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
 img: 		people/ondrej-chrast.jpg    # 165 x 220
-description: člen dozorčí rady společnosti Prague City Tourism, a.s., zastupitel na Praze 3           	        			# kratký popis, max 160 znaků
+description: člen dozorčí rady společnosti Prague City Tourism, a.s., zastupitel na Praze 6           	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.chrast@pirati.cz
 mob:			  
@@ -18,7 +18,7 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?text=ondrej%20chrast
 ---
 
-**Ondřej Chrást** (* 7. července 1980) je členem dozorčí rady společnosti Prague City Tourism, a.s. Je rovněž zastupitelem za Piráty na městské části Praha 3. 
+**Ondřej Chrást** (* 7. července 1980) je členem dozorčí rady společnosti Prague City Tourism, a.s. Je rovněž zastupitelem za Piráty na městské části Praha 6. 
 
 Pochází z Františkových Lázní. Bydlí na Praze 6, kam se před lety přestěhoval a hodlá v ní zůstat navždy. Na Praze 6 byl v komunálnch volbách 2018 lídrem kandidátky a je v období 2018-2022 zvoleným zastupitelem a předsedou devítičlenného zastupitelského klubu Pirátů. Tamtéž působí v komisi Strategického rozvoje, Kulturní komisi a ve Výboru pro výchovu a vzdělávání. Působí také v krajských pirátských expertních týmech (KES) s obdobným zaměřením. V rámci Prahy 6 spolu-inicioval a nyní provozuje aktivity “Praha 6 neplastuje” a projekt “Současná, ohrožená a zmizelá architektura Prahy 6”, kde vytvořil a provozuje stránku http://www.architekturap6.cz. Na magistrátu Hlavního města Prahy působí v komisi Rady hl. m. Prahy pro koordinaci neinvestičních aktivit ve veřejných prostranstvích na území Pražské památkové rezervace.
 
