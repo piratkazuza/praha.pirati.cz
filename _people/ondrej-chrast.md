@@ -1,7 +1,9 @@
 ---
 uid: ondrej.chrast
 name: Ondřej Chrást  	# běžně používáné jméno
-fullname: Mgr. Ondřej Chrást 		Ondřej Chrást # jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
