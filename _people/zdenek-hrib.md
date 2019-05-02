@@ -40,6 +40,11 @@ asistenti:
     position: poradce primátora
     mail: marek.safra@praha.eu
     tel: 
+  - name: Jaroslav Vlk
+    uid: jaroslav.vlk
+    position: poradce primátora
+    mail: jaroslav.vlk@praha.eu
+    tel: 
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
