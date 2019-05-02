@@ -2,8 +2,8 @@
 uid: vladimir.sraier
 name: Vladimír Šraier  	# běžně používáné jméno
 titles:
-  before: 
-  after: 
+  before: Ing. 
+  after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/vladimir-sraier.jpg   # 165 x 220
