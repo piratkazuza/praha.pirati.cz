@@ -1,7 +1,9 @@
 ---
 uid: ondrej.mirovsky
 name:     Ondřej Mirovský  	# běžně používáné jméno
-fullname: Mgr. Ondřej Mirovský M.EM	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:  M.Sc, M.EM
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr

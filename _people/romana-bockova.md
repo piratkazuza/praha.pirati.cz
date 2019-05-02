@@ -2,7 +2,7 @@
 uid: romana.bockova
 name:     Romana Bocková  	# běžně používáné jméno
 titles:
-  before: 
+  before: Ing. 
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
