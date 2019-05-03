@@ -5,9 +5,8 @@ fullname: Tomáš Murňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- mc
 img: people/tomas-murnak.jpg   # 165 x 220
-description: zastupitel hl. m. Prahy a městské části Praha 13 za Piráty             	# kratký popis, max 160 znaků
+description: zastupitel hl. m. Prahy za Piráty             	# kratký popis, max 160 znaků
 mail:
 - tomas.murnak@pirati.cz
 mob:			  +420 604 330 995
@@ -22,7 +21,7 @@ calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
 <div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level1">
-<p><a href="https://praha13.pirati.cz"><b>Předseda místního sdružení a zastupitel Prahy 13.</b></a></p>
+<p><a href="https://praha13.pirati.cz"><b>Zastupitel hlavního města Prahy a místopředseda výboru pro územní plánování.</b></a></p>
 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.</p>
 <p><a style="color: #009ddc; overflow: hidden; -ms-zoom: 1;" class="media" href="https://wiki.pirati.cz/_detail/lide/volby2010.jpg?id=lide%3Atomas_murnak" title="lide:volby2010.jpg"><img style="overflow: hidden; vertical-align: middle; -ms-zoom: 1;" class="media" src="https://wiki.pirati.cz/_media/lide/volby2010.jpg?w=500&amp;tok=ce7fbc" alt="_" width="500"></a></p>
@@ -35,7 +34,7 @@ calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 <p>Záznam jsem chtěl použít jako zvukovou stopu k našemu <a href="https://youtu.be/oIhY3INJPkE?list=PLhc5QMLcO6ma32Lcj6fn-W4HG9ozlR_VR">pirátskému natáčení jednání zastupitelstva</a>, protože doposud není u nás jako <a href="https://docs.google.com/spreadsheets/d/107be0mg7N7HxHQzFbuASzaHuDlMnRqWgyNjtD7wvJhI/edit?usp=sharing]">na ostatních MČ</a> oficiálně zveřejňováno . Záznamy mi po odvolání na Národní archiv pro porušení archivního zákona ve spolupráci s pražskými zastupiteli <a href="http://praha13.cz/file/59d1/0-2016-Poskytnuta-informace.pdf">musely být vydány</a>. </p>
 <p>Mé podání na odbor kontrolních činností pražského magistrátu nakonec významnou měrou přispělo k vydání nové <a href="http://praha13.cz/file/BTh1/Smernice-starosty-c-2-2017.pdf">směrnice pro vydávání informací</a>, která konečně zavedla mj. i odpovědnost osob za neposkytnutí informace. Od této doby si radnice nedovolí informace odepřít nejen mne, ale z reakcí našich příznivců víme, že je sdílnější i při podání běžných občanů.</p>
 <p>Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.</p>
-<p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou.</p>
+<p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V roce 2019 jsem rezignoval na pozici zastuptele městské části Praha 13.</p>
 <p><a style="color: #009ddc; overflow: hidden; -ms-zoom: 1;" class="media" href="https://wiki.pirati.cz/_detail/lide/schuze.jpg?id=lide%3Atomas_murnak" title="lide:schuze.jpg"><img style="overflow: hidden; vertical-align: middle; -ms-zoom: 1;" class="media" src="https://wiki.pirati.cz/_media/lide/schuze.jpg?w=500&amp;tok=c6b078" alt="_" width="500"></a></p>
 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
 <p><b>Motto : Společně otevřeme radnici</b></p>
