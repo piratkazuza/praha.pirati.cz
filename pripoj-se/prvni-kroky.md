@@ -4,6 +4,7 @@ img: miscellaneous/volebni-rozcestnik.png
 rbar:
   - kodo
   - calendar
+keywords: připoj se, naloď se, nováček, vstup do strany, Piráti, jak se přidat
 ---
 
 ## Krok první - Naloď se!

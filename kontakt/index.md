@@ -1,7 +1,7 @@
 ---
 layout: contacts
 description: Kontakty na pražské Piráty.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha, praha
+keywords: kontakt, mluvčí, sídlo, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha, praha
 residences:
  - name: Pirátské centrum
    url: /pice
