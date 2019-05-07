@@ -40,6 +40,11 @@ asistenti:
     position: poradce primátora
     mail: marek.safra@praha.eu
     tel: 
+  - name: Martin Kmaeník
+    uid: martin.kamenik
+    position: poradce primátora
+    mail: martin.kamenik@praha.eu
+    tel: 
   - name: Jaroslav Vlk
     uid: jaroslav.vlk
     position: poradce primátora
