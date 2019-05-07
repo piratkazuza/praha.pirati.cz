@@ -35,6 +35,11 @@ asistenti:
     position: poradce primátora
     mail: tomas.vovsik@pirati.cz
     tel: 
+  - name: Martin Štěrba
+    uid: martin.sterba
+    position: poradce primátora
+    mail: martin.sterba@praha.eu
+    tel: 
   - name: Marek Šafra
     uid: marek.safra
     position: poradce primátora
@@ -54,7 +59,7 @@ mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
 profiles:
-  facebook: 		  https://www.facebook.com/zdenek.hrib
+  facebook: 		  https://www.facebook.com/zdenek.hrib.primator/
   twitter: 		  https://twitter.com/ZdenekHrib
   flickr:  https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib   		  
 ordpraha: 1
