@@ -1,6 +1,6 @@
 ---
 uid: martin.sterba
-name:    Adéla Cinkaničová
+name:    Martin Štěrba
 titles:
   before: 
   after:
