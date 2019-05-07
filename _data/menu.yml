@@ -2,12 +2,15 @@ top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
+  - link: "Obchod"
+    url:  "https://piratskyobchod.cz"
+    icon: "fa fa-shopping-basket"
+  - link: "Nalodění"
+    url:  "https://nalodeni.pirati.cz"
+    icon: "fa fa-user-plus"
 
 main:
   - link: /aktuality/
