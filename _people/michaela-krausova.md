@@ -2,7 +2,7 @@
 uid: michaela.krausova
 name:     Michaela Krausová  	# běžně používáné jméno
 titles:
-  before: 
+  before: Bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
