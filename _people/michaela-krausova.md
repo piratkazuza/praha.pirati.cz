@@ -13,9 +13,9 @@ mail:
 - misa.krausova@pirati.cz
 mob:			  +420 732 858 172
 profiles:
-  github:       
-  facebook:    
-  twitter: 		  
+  github:  https://github.com/misicka     
+  facebook: https://www.facebook.com/mejmeno   
+  twitter: 	https://twitter.com/piratkamisa  
   flickr:		  
 ordpraha: 6
 ---
