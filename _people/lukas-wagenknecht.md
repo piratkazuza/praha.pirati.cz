@@ -29,4 +29,4 @@ V roce 2015 byl oceněn cenou za odvahu od Nadačního fondu proti korupci za sv
 
 V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s. 
 
-Tantiémy z členství v dozorčí radě zasílá Lukáš Wagenknecht na svůj transparentní účet pro dobročinné účely ([2801559276/2010](https://ib.fio.cz/ib/transparent?a=2801559276))
+Odměnu a tantiému z členství v dozorčí radě zasílá Lukáš Wagenknecht na svůj transparentní účet pro dobročinné účely ([2801559276/2010](https://ib.fio.cz/ib/transparent?a=2801559276))
