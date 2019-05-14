@@ -27,4 +27,6 @@ Za svůj život se podílel na stovkách auditů. Do povědomí veřejnosti se a
 
 V roce 2015 byl oceněn cenou za odvahu od Nadačního fondu proti korupci za své dlouhodobé nekompromisní postoje v roli auditora, například v pražském Dopravním podniku, nebo na ministerstvu financí, kde upozornil na nesrovnalosti v podivných smlouvách uzavřených mezi společností ČEZ a političkou hnutí ANO Radmilou Kleslovou.
 
-V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s.
+V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s. 
+
+Tantiémy z členství v dozorčí radě zasílá Lukáš Wagenknecht na svůj transparentní účet pro dobročinné účely ([2801559276/2010](https://ib.fio.cz/ib/transparent?a=2801559276))
