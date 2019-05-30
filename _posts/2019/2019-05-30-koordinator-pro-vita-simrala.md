@@ -12,7 +12,7 @@ tags: inzerát
 
 Co bude tvojí náplní práce? Pomoc se strategickým řízením gesce a realizaci pirátského programu v dané oblasti, příprava jednání svolaných Vítkem Šimralem a jeho kolegy, tvorba zápisů, trocha administrativy, příprava podkladů pro jednání radního, např. na Radě hl. m. Prahy nebo zasedání zastupitelstva.
 
-Pro uvedenou pozici musíš mít dle požadavků úřadu vysokoškolské vzdělání, potom uvítáme schopnost být časově flexibilní (pracovní doba je klouzavá), filozoficky se ztotožnit s programem Pirátů pro Prahu, práci s kancelářským softwarem, samostatnost, svědomitost a schopnost plánování. Samozřejmostí je zájem a zkušenost s problematikou školství, vědy a výzkumu.
+Pro uvedenou pozici musíš mít dle požadavků úřadu vysokoškolské vzdělání, potom uvítáme schopnost být časově flexibilní (pracovní doba je klouzavá), filozoficky se ztotožnit s programem Pirátů pro Prahu, práci s kancelářským softwarem, samostatnost, svědomitost a schopnost plánování. Samozřejmostí je zájem a zkušenost s problematikou školství, vědy a výzkumu. Jestli chceš mít přehled o aktuální agendě sekretariátu radního, podívej se na [prahainovativni.eu](https://www.prahainovativni.eu/)
 
 Nabízíme pracovní smlouvu nejprve na rok, potom na s prodloužením až do konce volebního období v 11. třídě (25 až 40 tisíc čistého dle stupně podle praxe, mimořádné odměny až do výše 110 000 Kč ročně). K tomu notebook, datový tarif, stravenky, sickdays apod. Seznámíš se s pirátským softwarem, poznáš zblízka lidi ve vedení hlavního města a skutečnou politiku na úrovni milionové metropole, kterou řídí první pirátský primátor na světě. 
 
