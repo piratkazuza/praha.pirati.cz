@@ -8,7 +8,7 @@ image: 8hrib.jpg
 tags: dotace praha
 ---
 
-3.6.2019 – Praha. Primátor Zdeněk Hřib nechal urychleně prověřit jestli Praha v minulosti vyplácela, nebo vyplácí dotace některé z firem, které jsou součástí holdingu Agrofert. Praha v předchozích letech ani nyní tyto dotace firmám, které by se nacházely ve střetu zájmů nevyplatila. Proto v současné době není nutné zastavit proces čerpání dotačních programů řízených Magistrátem hl. m. Prahy. 
+3.6.2019 – Praha. Primátor Zdeněk Hřib nechal urychleně prověřit, jestli Praha v minulosti vyplácela, nebo vyplácí dotace některé z firem, které jsou součástí holdingu Agrofert. Praha v předchozích letech ani nyní tyto dotace firmám, které by se nacházely ve střetu zájmů nevyplatila. Proto v současné době není nutné zastavit proces čerpání dotačních programů řízených Magistrátem hl. m. Prahy. 
 
 Na základě obdrženého návrhu auditní zprávy Evropské komise, který v pátek večer obdržel i Odbor evropských fondů pražského Magistrátu od Ministerstva pro místní rozvoj, došlo k okamžitému prověření dotačních programů Prahy. 
 
