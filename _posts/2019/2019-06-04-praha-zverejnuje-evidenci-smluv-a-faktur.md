@@ -26,6 +26,6 @@ Díky rozsáhlé evidenci budou mít občané přehled o tom, za co město utrá
 
 Ve zveřejněných datech z minulých období se mohou ale nacházet nesrovnalosti. 
 
-> „Je možné, že se v historických datech vyskytují chyby způsobené lidským faktorem. Naším úkolem je, abychom tyto chyby v budoucnu neopakovali a měli tak ve smlouvách a fakturách naprostý pořádek,“ upozorňuje na závěr radní Zábranský.
+> „Je možné, že se v historických datech vyskytují chyby způsobené lidským faktorem. Naším úkolem je, abychom tyto chyby v budoucnu neopakovali, a měli tak ve smlouvách a fakturách naprostý pořádek,“ upozorňuje na závěr radní Zábranský.
 
 Smlouvy magistrátu si mohou občané nyní prohlédnout na webové adrese: [http://opendata.praha.eu/dataset/smlouvy-mhmp](http://opendata.praha.eu/dataset/smlouvy-mhmp), faktury pak zde: [http://opendata.praha.eu/dataset/faktury-mhmp](http://opendata.praha.eu/dataset/faktury-mhmp).
