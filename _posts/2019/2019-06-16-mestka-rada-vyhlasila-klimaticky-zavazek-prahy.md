@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "Městská rada vyhlásila klimatický závazek Prahy"
-date: 2019-06-16
+date: 2019-06-17
 author: "MHMP"
 image: sady.jpg
 tags: praha životní-prostředí
