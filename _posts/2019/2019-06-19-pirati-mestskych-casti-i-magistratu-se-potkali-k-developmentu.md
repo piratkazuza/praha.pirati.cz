@@ -20,7 +20,7 @@ Dalším tématem byla i situace sídliště Ďáblice na Praze 8.
 
 Během čtyřhodinového meetingu představili zástupci všech městských částí agendu a problematické projekty a podařilo se identifikovat i problémy, které zdravému rozvoji města zejména v procesní rovině brání. Důležitým tématem pak bylo fungování IPR ve vztahu k jednotlivým projektům a roli státní správy při finálním povolování staveb.
 
-Společným jmenovatelem problémů bytových i kancelářských projektů je pak často nízká míra ochoty firem realizujícím kompelxní projekty podílet se podílet na občanské vybavenosti či obslužnosti, která v případě realizace musí jít ruku v ruce.
+Společným jmenovatelem problémů bytových i kancelářských projektů je pak často nízká míra ochoty firem realizujících kompelxní projekty podílet se na občanské vybavenosti či obslužnosti, která v případě realizace musí jít ruku v ruce.
 
 Další koordinační schůzku a reportování o dosaženém progresu plánují pražští Piráti na polovinu léta.
 
