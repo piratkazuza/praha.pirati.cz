@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: "Praha pokračuje v modernizaci škol. Studenti se dočkají nových specializovaných učeben a laboratoře"
+title: "Ve vedru trávníky nesekejte apelují Piráti na pražské městské části"
 date: 2019-07-03
-author: "Vít Šimral"
-image: vitsimral2.jpg
+author: "Eva Tylová, Zdeněk Hřib"
+image: sady2.jpg
 tags: školství
 ---
 
