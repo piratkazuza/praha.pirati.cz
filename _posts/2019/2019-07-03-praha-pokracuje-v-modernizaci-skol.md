@@ -8,7 +8,7 @@ image: vitsimral2.jpg
 tags: školství
 ---
 
-Magistrát hl. m. Prahy se rozhodl za pomoci finančních zdrojů Evropské unie vybavit školy novými učebnami za 29,5 milionu korun. Studenti stavebních oborů si například budou moci své návrhy ověřit na virtuálním 3D prototypu. V jazykových učebnách budou moci nově žáci komunikovat on-line se zahraničními kolegy, vytvářet videa a používat i vizuální materiály. A nová laboratoř jim pak umožní vyzkoušet si některé experimenty.
+Praha, 3. 7. 2019 – Magistrát hl. m. Prahy se rozhodl za pomoci finančních zdrojů Evropské unie vybavit školy novými učebnami za 29,5 milionu korun. Studenti stavebních oborů si například budou moci své návrhy ověřit na virtuálním 3D prototypu. V jazykových učebnách budou moci nově žáci komunikovat on-line se zahraničními kolegy, vytvářet videa a používat i vizuální materiály. A nová laboratoř jim pak umožní vyzkoušet si některé experimenty.
 
 Plánované změny se týkají především odborných učeben, učeben přírodních věd a jazykových tříd. Pořizovány budou například nové interaktivní tabule, počítače, software, 3D pracoviště, audio a videovybavení, sady senzorů a čidel pro chemii a fyziku a další zařízení, která mají dopomoci ke zkvalitnění studia.
 
