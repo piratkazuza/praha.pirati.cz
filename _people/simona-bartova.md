@@ -6,11 +6,13 @@ titles:
   after:
 category: 
 - kodo
+- kontaktni_osoba
 ordkodo: 3
 img: people/simona-bartova.jpg
+contactType: Kontakt pro dobrovolníky
 description: Koordinátorka dobrovolníků
 mail: simona.bartova@pirati.cz
-mob: +420 603 523 065  
+mob: +420 770 113 642
 profiles:
   github:       
   facebook: 
