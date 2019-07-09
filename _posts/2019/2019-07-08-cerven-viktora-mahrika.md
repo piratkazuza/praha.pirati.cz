@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: "Řešíme radnici Prahy 8 i halu pro zimní sporty na Jižním městě – Viktor Mahrik shrnuje půlrok své práce"
+title: "Řešíme radnici Prahy, halu na Jižním městě a mnohé další – Viktor Mahrik shrnuje několik posledních měsíců své práce"
 date: 2019-07-08
 author: "Viktor Mahrik"
 image: mahrik3.jpg
