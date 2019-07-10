@@ -1,6 +1,11 @@
 ---
 data-version: 2
 uid: adam.zabransky
+work:
+   - name: "Radní pro bydlení a transparentnost"
+     url: http://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?personId=11330
+   - name: "vyřizuje: bydlení, transparentnost" 
+     url: https://redmine.pirati.cz/projects/programove-priority-v-zhmp-2018-2022/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=15&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=16&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=author&c%5B%5D=updated_on&group_by=&t%5B%5D=
 name:     Adam Zábranský  	# běžně používáné jméno
 category:                 	# kategorie: praha
 - praha
