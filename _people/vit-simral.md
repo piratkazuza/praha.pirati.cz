@@ -29,9 +29,8 @@ redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
 ---
 
-Vít Šimral (9. července 1986, Roudnice nad Labem) je garant programového bodu právo a sociální věci. Je 3. místopředsedou krajského sdružení Pirátů v Praze.
-
-Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce. Akademicky se specializuje na otázky financování politiky, transparentního propojení politiky a businessu a business intelligence. V současnosti působí jako postdoktorand na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové. V roce 2018 byl zvolen do zastupitelstva hlavního města Prahy a stal se radním pro oblast školství, sportu, vědy a podpory podnikání. Rok předtím působil jako tzv. „stínový zastupitel“ při zastupitelském klubu Pirátů, kdy se věnoval především sociálním otázkám a problematice bydlení. Byl zvolen za jednoho z místopředsedů klubu.
-
-V soukromé sféře je jednatelem společnosti InvEast provozující management consulting v regionu Střední Evropy. Angažuje se v oblasti boje s korupcí. Mezi jeho zájmy patří běh, divadlo, jazz a literatura. Je celoživotním skautem.
+Vít Šimral (9. července 1986, Roudnice nad Labem) je člen Rady hl. m. Prahy s gescí školství, sportu, vědy a podpory podnikání.
+Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce. Akademicky se specializuje na otázky financování politiky, transparentního propojení politiky a businessu a business intelligence. V současnosti působí jako výzkumník na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
+V roce 2017 působil v zastupitelském klubu Pirátů v hl. m. Prahy jako tzv. „stínový zastupitel“. V komunálních volbách v říjnu 2018 byl zvolen zastupitelem hl. m. Prahy, Piráti jej nominovali na člena Rady hl. m. Prahy, do které byl zvolen na ustavujícím zasedání pražského zastupitelstva dne 15. listopadu 2018.
+Mezi jeho zájmy patří běh, divadlo, jazz a literatura. Je celoživotním skautem.
 
