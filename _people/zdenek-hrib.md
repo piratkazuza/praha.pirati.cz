@@ -33,7 +33,7 @@ asistenti:
   - name: Tomáš Vovsík
     uid: tomas.vovsik
     position: poradce primátora
-    mail: tomas.vovsik@gmail.com
+    mail: tomas.vovsik@praha.eu
     tel: 
   - name: Martin Štěrba
     uid: martin.sterba
