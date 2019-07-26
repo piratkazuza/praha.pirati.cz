@@ -19,7 +19,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-ordpraha: 10
+ordpraha: 9
 ---
 
 **Pavel Hájek** (*30. září 1983) je člen místního sdružení Pirátů na Praze 10. V roce 2014 kandidoval za Hnutí pro Prahu 11, Stružení nezávislých občanů Prahy 13 a řady spolků z několika dalších městských částí. Sbíral podpisy pro petici proti výstavbě miliardové radnice na Praze 10. Šest let již učí na plný úvazek informatiku a zeměpis na místní základní škole. 

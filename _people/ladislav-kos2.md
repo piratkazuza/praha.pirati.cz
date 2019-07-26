@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/pirat.kosak/
   twitter: 		  
   flickr:		  
-ordpraha: 14
+ordpraha: 12
 ---
 
 **Ladislav Kos** (* 1986) je členem Pirátské strany na Praze 11, kde je zároveň zastupitelem. Od dubna 2019 je zastupitelem hl. města Prahy.

@@ -22,7 +22,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-ordpraha: 7
+ordpraha: 5
 redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---

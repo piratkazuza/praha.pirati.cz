@@ -16,7 +16,7 @@ profiles:
   facebook: 	https://www.facebook.com/jaromir.beranek
   twitter: 		
   flickr:
-ordpraha: 11
+ordpraha: 8
 ordpks: 1
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com

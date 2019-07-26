@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/kallasch
   twitter: https://twitter.com/OndrejKallasch
   flickr: https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
-ordpraha: 13
+ordpraha: 10
 carousel:
   img: ondrej-kallasch.jpg
   text: |

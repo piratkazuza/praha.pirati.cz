@@ -22,7 +22,7 @@ profiles:
   facebook: https://www.facebook.com/viktor.mahrik
   twitter: https://twitter.com/_ViM
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
-ordpraha: 4
+ordpraha: 6
 ordcar: 3
 carousel:
   img: viktor-mahrik.jpg

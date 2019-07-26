@@ -8,7 +8,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 mail:
 - jiri.dohnal@pirati.cz
-ordpraha: 12
+ordpraha: 13
 orddr: 25
 ---
 

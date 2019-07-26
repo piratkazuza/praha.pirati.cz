@@ -15,7 +15,7 @@ profiles:
   facebook: 		  https://www.facebook.com/tomas.murnak
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
-ordpraha: 8
+ordpraha: 7
 redmine: 55
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
