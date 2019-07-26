@@ -33,7 +33,7 @@ asistenti:
   - name: Tomáš Vovsík
     uid: tomas.vovsik
     position: poradce primátora
-    mail: tomas.vovsik@pirati.cz
+    mail: tomas.vovsik@gmail.com
     tel: 
   - name: Martin Štěrba
     uid: martin.sterba
