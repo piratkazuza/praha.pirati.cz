@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: "Čereven Jaromíra Beránka: Dobíjecí stanice pro elektromobily, metro D a pražský inovační maraton"
+title: "Červen Jaromíra Beránka: Dobíjecí stanice pro elektromobily, metro D a pražský inovační maraton"
 date: 2019-07-04
 author: "Jaromír Beránek"
 image: jaromir-beranek2.jpg
