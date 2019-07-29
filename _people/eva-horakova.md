@@ -11,9 +11,13 @@ img: people/eva-horakova.jpg   # 165 x 220
 description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 5 za Piráty   	# kratký popis, max 160 znaků
 asistenti:
   - name: Lucie Horáková
-    position: sekretářka <!--dlouhodobě uvolněné členky Zastupitelstva hl. m. Prahy Evy Horákové-->
+    position: sekretářka dlouhodobě uvolněné členky Zastupitelstva hl. m. Prahy Evy Horákové
     mail: lucie.horakova@praha.eu
     tel: 236 002 142
+  - name: Tereza Hubáčková
+    position: "asistentka dlouhodobě uvolněné členky Zastupitelstva hl. m. Prahy Evy Horákové s působností: Péče o ohrožené děti"
+    mail: tereza.hubackova@praha.eu
+    tel: 777 647 313
 mail:
 - eva.horakova@pirati.cz
 mob: 727 870 828
