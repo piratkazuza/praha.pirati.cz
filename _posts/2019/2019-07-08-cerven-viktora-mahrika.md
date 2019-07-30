@@ -8,7 +8,7 @@ image: mahrik3.jpg
 tags: majetek praha doprava
 ---
 
-Ahoj, přišel opět čas, abych Vás seznámil s tím, co vlastně jakožto Předseda výboru pro majetek a majtekové podíly dělám. Pokud bych měl shrnout posledních sedm měsíců, řekl bych, že bylo takové seznamovací a sběrné období: Během tohoto času jsem se zorientoval v problematice, zaznamenal věci, které je třeba řešit, zabydloval se v běžné agendě. Agendy je nyní tolik, že ani nevím, kam dříve skočit. Pokud se nedomluvím s někým již vysoutěženým, v nejbližších dnech vypíšu výběrové řízení na asistenta/asistentku, který/á by mi měl/a pomoci s běžnou agendou. Sám se pak budu soustředit na řešení vybraných problémů.
+Ahoj, přišel opět čas, abych Vás seznámil s tím, co vlastně jakožto předseda výboru pro majetek a majetkové podíly dělám. Pokud bych měl shrnout posledních sedm měsíců, řekl bych, že bylo takové seznamovací a sběrné období. Během tohoto času jsem se zorientoval v problematice, zaznamenal věci, které je třeba řešit, zabydloval se v běžné agendě. Agendy je nyní tolik, že ani nevím, kam dříve skočit. Pokud se nedomluvím s někým již vysoutěženým, v nejbližších dnech vypíšu výběrové řízení na asistenta/asistentku, který/á by mi měl/a pomoci s běžnou agendou. Sám se pak budu soustředit na řešení vybraných problémů.
 
 ### Majetek
 
