@@ -5,7 +5,6 @@ titles:
   before:
   after:
 category:
- - pks
 img: 		people/tereza-hubackova.jpg    # 165 x 220
 description:  "asistentka dlouhodobě uvolněné členky Zastupitelstva hl. m. Prahy Evy Horákové s působností: Péče o ohrožené děti"
 mail:
