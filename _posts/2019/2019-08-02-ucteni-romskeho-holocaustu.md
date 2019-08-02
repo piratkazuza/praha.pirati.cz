@@ -3,7 +3,7 @@ date:         2019-08-02
 tags:         praha2
 title:        "Na náměstí Míru proběhne uctění památky obětí romského holocaustu"
 image: 	      posts/namestimiru.jpg
-author:       Mediální odbor
+author:       Lydie Franka Bartošová
 ---
 
 Na pražském náměstí Míru proběhne v pátek 2. srpna od 19 hodin komponovaný pietní večer připomínající oběti Porajmos - romského holocaustu. Událost se koná v rámci Mezinárodního dne obětí romského holokaustu, která se vztahuje k tragédii noci z 2. na 3. srpna roku 1944, kdy bylo ve vyhlazovacím táboře v Osvětimi zavražděno přibližně 3000 převážně starých a nemocných Romů a romských dětí. 
