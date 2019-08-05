@@ -16,7 +16,7 @@ profiles:
   twitter: 		
   flickr:
 ordpraha: 
-calendar: bWFqZXJvdmEudGVyZXphQGdtYWlsLmNvbQ@group.calendar.google.com
+calendar: majerova.tereza@gmail.com
 ---
 
 **Bc. Tereza Hubáčková** (* 11. 1. 1973), narozená v pražských Holešovicích, studovala zdravotní školu, bohemistiku, později VOŠ Jabok a nakonec (prozatím) Bc. stupeň VŠ na
