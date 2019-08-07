@@ -10,11 +10,6 @@ category:
 img: people/zdenek-hrib.jpg  # 165 x 220
 description: <br/> primátor hlavního města Prahy
 asistenti:
-  - name: Jiří Hoskovec
-    uid: jiri.hoskovec
-    position: vedoucí odboru Kancelář primátora
-    mail: jiri.hoskovec@pirati.cz<!-- změnit až si zařídí pražský!-->
-    tel: 
   - name: Martina Vacková
     uid: martina.vackova
     position: vedoucí oddělení poradců
