@@ -25,7 +25,7 @@ Fakta jsou taková, že jsem v posledních měsících rozkryl kauzy pochybného
 
 ![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk2.jpg)
 
-Kompletní majetkové přiznání a finanční poměry jsem zveřejnil před vstupem do politiky. Veškerý svůj nemovitý majetek jsem nakoupil ze svých naspořených prostředků a z rodinných příjmů, s částečným dofinancováním osobním úvěrem.
+Kompletní [majetkové přiznání](/assets/pdf/Bodecek_David_Pirati_Cestne_prohlaseni_kandidata_29_4_2018.pdf) a finanční poměry jsem zveřejnil před vstupem do politiky. Veškerý svůj nemovitý majetek jsem nakoupil ze svých naspořených prostředků a z rodinných příjmů, s částečným dofinancováním osobním úvěrem.
 Pana redaktora jsem na fakta upozornil, jakož i na to, že jeho článek je s nimi v přímém rozporu. Jsem si vědom, že jako politik Pirátů musím počítat se snahou očernit mě za upozornění na kriminální aktivity někdejší radnice, stejně tak však musím upozornit, že se jí nezaleknu a útoky na moji osobou mě neodradí od další práce.
 V současné době je jednáno s Bleskem o omluvě za lživé informace.
 
@@ -43,3 +43,8 @@ Rád bych se rád ohradil proti dalším několika nepravdám, které jsou v čl
 - Další zásadní nepravdou uveřejněnou v článku je, že neúspěšným v záměru nikdo neoznámil jejich neúspěch z toho důvodu, že by padla vyšší nabídka. Ve skutečnosti jim byl písemně zaslán dopis, ve kterém Rada městské části Praha 1 schválila uzavření nájemní smlouvy s jiným uchazečem.
 - Níže zveřejňuji i moje oficiální stanovisko k celé záležitosti, kterou jsem zaslal redaktorovi z Blesku:
 Záměr pronajmout bytovou jednotku 131/9 v domě č. p. 131 byl za řádných podmínek transparentně zveřejněn na webových stránkách Prahy 1 i na portálu hl. m. Prahy po dobu 30 dnů. Jedná se o část bytové jednotky velikosti 2+0 o výměře 58 m2, se společnou chodbou, WC s nájemcem druhé části bytu. Nabídku podalo šest zájemců. S ohledem na technické podmínky bytu a sociální důvody byla Radou vybrána nájemkyně, se spolubydlící dcerou, která je zároveň spolubydlící druhé části administrativně rozdělené bytové jednotky.  Nejvyšší cena není jediným hodnotícím kritériem výběru nájemců. Bez ohledu na tuto skutečnost výherkyně dodatečně navýšila nabídku na 17.500 Kč, na což měla právo a to bylo Radou akceptováno.
+
+#### Reakce Davida Bodečka na článek uveřejněný v deníku Blesk ze dne 23.7. 2019
+![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk4.jpg)
+
+V žádných 20 soukromých firmám jsem se neangažoval a žádné miliony jsem nezískal. Byl jsem zaměstnancem pouze jedné společnosti a byla mi udělena prokura, jakožto druh plné moci. Z pozice zaměstnance jsem neměl žádné benefity z obchodů mého zaměstnavatele, proto je také na stránkách Hlídače státu uvedeno, že mám nepřímou vazbu. Činnost prokuristy byla po mém vstupu do politiky ukončena. V žádných smlouvách, které můj bývalý zaměstnavatel uzavřel, jsem nefiguroval, smlouvy jsem nesjednával, ani se jakkoli jinak nepodílel. Jedná se opět o zavádějící informace a smyšlené konstrukce ve vztahu k mé osobě.
