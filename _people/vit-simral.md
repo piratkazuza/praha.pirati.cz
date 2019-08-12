@@ -12,9 +12,13 @@ img: people/vit-simral.jpg    # 165 x 220
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 asistenti:
   - name: Kristýna Nouzáková
-    position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kristyna.nouzakova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
+  - name: Prokop Laichter
+    position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: prokop.laichter@praha.eu
+    tel: 236 00 2944
 mail:
 - vit.simral@pirati.cz
 mob:			  
