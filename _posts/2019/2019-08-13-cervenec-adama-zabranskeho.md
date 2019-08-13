@@ -1,9 +1,9 @@
 ---
 date:         2019-08-13
-tags:         praha
+tags:         praha bydlení
 title:        "Analýza IPRu o neobsazených bytech a seznam nebytových prostor ve vlastnictví metropole: Červenec Adama Zábranského."
 image: 	      posts/adam-zabransky-5.jpg
-author:       Vít Šimral
+author:       Adam Zábranský
 ---
 
 Můj červenec byl takový klidnější, asi třetinu z něho jsem strávil na dovolené. Nicméně co se stalo:
