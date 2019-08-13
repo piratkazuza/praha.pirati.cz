@@ -24,6 +24,7 @@ asistenti:
     mail: jovana.perovic@praha.eu
     tel: +420 236 002 941
   - name: Adam Rut
+    uid: adam.rut
     position: asistent pro oblast transparentnosti <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
     mail: adam.rut@praha.eu
     tel: +420 236 002 124
