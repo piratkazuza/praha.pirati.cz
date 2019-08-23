@@ -6,7 +6,6 @@ titles:
   after:
 category:      
 - praha
-- kodo
 ordkodo: 2
 img: people/michal-jokes.jpg   # 165 x 220
 description:  
