@@ -20,7 +20,7 @@ main:
     name: Program
     match: program
   - link: /lide/
-    name: Naši lidé
+    name: idé
     match: lide
   - link: /pripoj-se/ 
     name: Připoj se
@@ -28,13 +28,10 @@ main:
   - link: /mestske-casti/
     name: Městské části
     match: mestske-casti
-  - link: /o-nas/
-    name: O nás
-    match: o-nas
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-hideSearch: yes
+hideSearch: no
 
 bottom:
   - class: small-12 medium-3

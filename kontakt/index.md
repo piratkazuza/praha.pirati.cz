@@ -40,6 +40,14 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
+  - type: custom
+    iconClass: fa fa-user
+    label: Předseda krajského sdružení
+    body: <a href="/lide/jaromir-beranek">Jaromír Beránek</a>
+  - type: custom
+    iconClass: fa fa-user
+    label: Předsedkyně zastupiteslkého klubu
+    body: <a href="/lide/michaela-krousova">Michaela Krausová</a>
 # kontaktní osoby se nastavují v hlavičká _people
 ---
 
@@ -66,11 +74,4 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Představitelé</h1>
 </div>
-  
-{% assign person = site.people | where_exp: "item","item.uid contains 'jaromir.beranek'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-
-{% assign person = site.people | where_exp: "item","item.uid contains 'adam.zabransky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-
 
