@@ -1,12 +1,12 @@
 ---
 date:         2019-08-27
-tags:         praha praha-3
+tags:         praha praha-6
 title:        "Ať o soše Koněva rozhodnou sami Pražané v referendu, navrhují Piráti z Prahy 6."
 image: 	      posts/konev.jpg
-author:       Jiří Hoskovec
+author:       Jiří Hoskovec, Ondřej Chrást, Jan Lipavský
 ---
 
-raha, 27. srpna 2019 – Socha sovětského generála Koněva v parku na Praze 6 již dekády vzbuzuje mezi obyvateli Prahy silné a protichůdné reakce. Piráti z Prahy 6 chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli na Praze 6. Pomník je součástí veřejného prostoru, Piráti proto věří, že je fér, aby o jeho setrvání rozhodli sami obyvatelé.
+Praha, 27. srpna 2019 – Socha sovětského generála Koněva v parku na Praze 6 již dekády vzbuzuje mezi obyvateli Prahy silné a protichůdné reakce. Piráti z Prahy 6 chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli na Praze 6. Pomník je součástí veřejného prostoru, Piráti proto věří, že je fér, aby o jeho setrvání rozhodli sami obyvatelé.
 
 > „Na nadcházejícím zastupitelstvu Prahy 6 navrhneme, aby se k otázce budoucnosti sochy na náměstí Interbrigády vypsalo referendum. To považujeme v tomto případě za legitimní prostředek, kdy si občané Prahy 6 mohou sami zvolit, v jakém prostředí chtějí žít,“ říká Ondřej Chrást, předseda zastupitelského klubu Pirátů na Praze 6. 
 
