@@ -20,7 +20,7 @@ main:
     name: Program
     match: program
   - link: /lide/
-    name: idé
+    name: lidé
     match: lide
   - link: /pripoj-se/ 
     name: Připoj se
