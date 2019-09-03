@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vaclav-hrdlicka.jpg   # 165 x 220
 description:     	# kratký popis, max 160 znaků
 mail:
-- vaclav.hrdlicka@pirati.com
+- vaclav.hrdlicka@pirati.cz
 mob:
 profiles:
   github:       
@@ -16,4 +16,4 @@ profiles:
   flickr:		  
 ---
 
-**Václav Hrdlička** (* 1980) kandiduje do zastupitelstva městské části Praha 13 pod společnou vlajkou Pirátů a Zelených. Sám je členem Pirátů. Povoláním je manažer v telekomunikační společnosti.
+**Václav Hrdlička** (* 1980) je zastupitelem městské části Praha 13 pod společnou vlajkou Pirátů a Zelených. Sám je členem Pirátů. Povoláním je manažer v telekomunikační společnosti.
