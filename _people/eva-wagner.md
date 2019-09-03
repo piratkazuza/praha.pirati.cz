@@ -7,7 +7,7 @@ titles:
 category:                
 - poradce_primatora
 contactType: 
-img: people/eva-wagner.jpg   # 165 x 220
+img: people/eva-wagner.png   # 165 x 220
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - eva.wagner@praha.eu
