@@ -55,6 +55,11 @@ asistenti:
     position: poradce primátora
     mail: jaroslav.vlk@praha.eu
     tel: 
+  - name: Eva Wagner
+    uid: eva.wagner
+    position: poradkyně primátora
+    mail: eva.wagner@praha.eu
+    tel: 
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
