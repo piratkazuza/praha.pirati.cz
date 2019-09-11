@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
 img: people/petr-zmatlik.jpg   # 165 x 220
 description: nominant Pirátů do dozorčí rady společnosti Pražská strojírenská a.s.    	# kratký popis, max 160 znaků
 mail:
