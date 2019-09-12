@@ -1,7 +1,7 @@
 ---
 date:         2019-09-12
 tags:         praha informatika
-title:        "Výbor pro životní prostředí doporučuje městu, aby při údržbě zeleně nepoužívalo glyfosáty"
+title:        "Operátor ICT se stal koordinátorem otevřených dat pro Prahu"
 image: 	      posts/opendata4.jpg
 author:       MHMP
 ---
