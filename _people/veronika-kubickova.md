@@ -1,6 +1,6 @@
 ---
 uid: veronika.kubickova
-name:    Veronika Kubíčková
+name:    Veronika Kubičková
 titles:
   before: 
   after:
@@ -20,7 +20,7 @@ profiles:
 ordpraha: 
 ---
 
-**Veronika Kubíčková** se narodila v roce 1991 v Písku, kde vystudovala dvojjazyčné francouzské gymnázium – zakončené certifikátem C1. Na Západočeské univerzitě v Plzni pak studovala obor Politologie a mezinárodní vztahy na katedře filozofické (přerušeno ze zdravotních důvodů).
+**Veronika Kubičková** se narodila v roce 1991 v Písku, kde vystudovala dvojjazyčné francouzské gymnázium – zakončené certifikátem C1. Na Západočeské univerzitě v Plzni pak studovala obor Politologie a mezinárodní vztahy na katedře filozofické (přerušeno ze zdravotních důvodů).
 
 Už při studiu byla aktivní v různých studijních spolcích, kde organizovala konference, debaty s politiky, veřejné diskuze na současná témata. Přispívala také do školního politologického časopisu.
 Veronika Kubičková působila v Mediálním domu Mladá fronta a. s., kde se naučila hlavně práci pod tlakem, interní i externí PR a dobrou orientaci v mediální oblasti. Má zkušenosti i s prací v neziskovém sektoru, kde pomáhala hlavně s edukativní činností, výukou jazyků a celkově s resocializací sociálně slabých rodin zpátky do společnosti.

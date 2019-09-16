@@ -15,9 +15,9 @@ asistenti:
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kristyna.nouzakova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
-  - name: Lucie Němcová
+  - name: Lucie Charvátová
     position: poradkyně pro oblast sportu a volného času <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: lucie.nemcova@praha.eu
+    mail: lucie.charvatova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
   - name: Prokop Laichter
     position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
