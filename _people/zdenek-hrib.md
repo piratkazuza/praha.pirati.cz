@@ -15,7 +15,7 @@ asistenti:
     position: vedoucí oddělení poradců
     mail: martina.vackova@praha.eu
     tel: 
-  - name: Veronika Kubíčková
+  - name: Veronika Kubičková
     uid: veronika.kubickova
     position: poradkyně primátora
     mail: veronika.kubickova@praha.eu
