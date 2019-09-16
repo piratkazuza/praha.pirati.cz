@@ -20,6 +20,7 @@ asistenti:
     mail: lucie.charvatova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
   - name: Prokop Laichter
+    uid: prokop.laichter
     position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: prokop.laichter@praha.eu
     tel: 236 00 2944
