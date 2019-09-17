@@ -26,5 +26,7 @@ Narodil se v Karviné, vyrůstal v Děčíně a později v Jihlavě. Po skončen
 
 Již během studií začal pracovat v online komunikaci a kreativě pro Junáka – českého skauta a jako kampaňér pro právní organizaci chránící občanská práva Iuridicum Remedium. Později pracoval jako social media specialist v agentuře Fuse. Aktuálně působí jako poradce primátora Prahy pro online komunikaci, spravuje sociální sítě pražským Pirátům, lektoruje kurz multimédií pro děti v Domě dětí a mládeže Ulita a jakožto freelancer realizuje kreativní grafické a ilustrátorské projekty. Dobrovolnicky vede skautskou družinu. Má rád výtvarnictví a skauting, není členem žádné politické strany.
 
+### Smluvní informace
 
-
+* Název pozice: Social Media Manager
+* Smlouva mezi Tomášem Vovsíkem a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2018/12/19/tomas-vovsik-social-media/](https://smlouvy.pirati.cz/smlouvy/2018/12/19/tomas-vovsik-social-media/)

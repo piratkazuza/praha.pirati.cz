@@ -29,3 +29,11 @@ K Pirátům (jak sama říká) jí přivádí hlavně chuť dělat věci pořád
 
 Mezi volnočasové aktivity patří bezesporu sport. 12 let závodně plavala (mimojiné i v reprezentaci), silniční běh a lyže. Za další svůj zájem považuje odbornou/oborovou literaturu. Čte Všechno od Platóna po Karla Marxe a baví jí to. „Knihy jsou studnice moudrosti a pro další sebevzdělávání nezbytné” říká.
 
+### Další informace
+
+* Název pozice: PR manažer a mluvčí pražských Pirátů
+* Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=44405](https://forum.pirati.cz/viewtopic.php?f=572&t=44405) Veronika Kubičková v něm skončila jako druhá.
+* Smlouva mezi Veronikou Kubičkovou a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2019/06/01/ZadavaciList_VeronikaKubickova/](https://smlouvy.pirati.cz/smlouvy/2019/06/01/ZadavaciList_VeronikaKubickova/)
+* Jednorázová odměna, vyplacená Veronice Kubičkové Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2019/07/30/VeronikaKubickova_Odmena/](https://smlouvy.pirati.cz/smlouvy/2019/07/30/VeronikaKubickova_Odmena/)
+* Schválení jednorázové odměny Krajským fórem Pirátů: [https://forum.pirati.cz/viewtopic.php?f=349&t=47862&p=626316&hilit=kubi%C4%8Dkov%C3%A1#p626316](https://forum.pirati.cz/viewtopic.php?f=349&t=47862&p=626316&hilit=kubi%C4%8Dkov%C3%A1#p626316)
+
