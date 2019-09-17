@@ -31,6 +31,9 @@ asistenti:
   - name: Štěpán Ripka
     position: poradce pro oblast bydlení <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
     mail: stepan.ripka@praha.eu
+  - name: Jan Snopek
+    position: poradce pro oblast bydlení <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
+    mail: jan.snopek@praha.eu
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
