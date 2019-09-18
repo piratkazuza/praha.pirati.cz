@@ -31,3 +31,7 @@ Momentálně pracuje jako poradce primátora hlavního města Prahy, kde se výh
 Ve volném čase rád sportuje, v létě hraje nejčastěji tenis, v zimě dává přednost snowboardu a lyžování, které učil v lyžařské škole Semily. Má velice rád zvířata zejména svého křížence.
 
 Zajímá o politiku a všeobecné dění doma i ve světě a proto je rád, že má možnost pracovat pro primátora a být součástí jeho týmu.
+
+### Další informace
+
+* [Profesní životopis](/assets/pdf/cv/safra.pdf)
