@@ -24,7 +24,7 @@ ordpraha:
 
 ### Další informace
 
-* Název pozice: 
+* [Profesní životopis](/assets/pdf/cv/cinkanicova.pdf)
 * Výběrové řízení (Adéla se přihlásila do výběrového řízení na pozici tajemníka poslaneckého klubu, kde skončila druhá): [https://forum.pirati.cz/viewtopic.php?f=572&t=44215](https://forum.pirati.cz/viewtopic.php?f=572&t=44215)
 * Smlouva mezi Adélou Cinkaničovou a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2018/01/31/Zadavaci-list_Cinkanicova/](https://smlouvy.pirati.cz/smlouvy/2018/01/31/Zadavaci-list_Cinkanicova/)
 * Dodatek k uvedené smlouvě: [https://smlouvy.pirati.cz/smlouvy/2019/04/01/Dodatek_Cinkanicova/](https://smlouvy.pirati.cz/smlouvy/2019/04/01/Dodatek_Cinkanicova/)
