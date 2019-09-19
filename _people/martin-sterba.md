@@ -32,5 +32,5 @@ Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od
 
 ### Další informace 
 
-* Název pozice: Social media manager
+* Název pozice: Poradce primátora
 * Životopis Martina Štěrby na portále Linkedin: [https://www.linkedin.com/in/sterbamartin/](https://www.linkedin.com/in/sterbamartin/)
