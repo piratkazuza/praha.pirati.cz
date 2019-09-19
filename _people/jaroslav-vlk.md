@@ -25,4 +25,6 @@ Vystudoval ekonomickou fakultu VŠB – technické univerzity v Ostravě. Jarosl
 
 ### Další informace
 
+* Název pozice: Protikorupční analytik
 * [Profesní životopis](/assets/pdf/cv/vlk.pdf)
+* Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=44651](https://forum.pirati.cz/viewtopic.php?f=572&t=44651)

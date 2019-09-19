@@ -23,3 +23,7 @@ ordpraha:
 **Martin Kameník** (* 1978, Jeseník) je poradce primátora hl. m. Prahy.
 
 Vystudoval střední odbornou školu v Jeseníku a později obor veřejná politika na FSV UK. Zabývá se problematikou korupce, tvorbou protikorupční politiky a strategií jak proti korupci bojovat. Specializuje se na problematiku veřejných zakázek, transparentnosti zakázek, veřejné kontroly a její efektivity. Do konce roku 2018 byl předsedou spolku Oživení, které se již od roku 1999 zabývá problematikou střetu zájmů, korupcí a transparentností veřejné správy. Pro Oživení pracoval od roku 2007. Není členem žádné politické strany. Patřil mezi garanty Rekonstrukce státu.
+
+### Další informace 
+
+* [https://forum.pirati.cz/viewtopic.php?f=572&t=44651](https://forum.pirati.cz/viewtopic.php?f=572&t=44651)
