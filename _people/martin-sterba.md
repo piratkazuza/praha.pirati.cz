@@ -29,3 +29,8 @@ Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do
 Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem. A toho se chce chtěl držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivádí hlavně zájem o digitalizaci státní správy a také fakt, že to – co se děje v našem státě – je už prostě přes čáru.
 
 Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018.
+
+### Další informace 
+
+* Název pozice: Social media manager
+* Životopis Martina Štěrby na portále Linkedin: [https://www.linkedin.com/in/sterbamartin/](https://www.linkedin.com/in/sterbamartin/)
