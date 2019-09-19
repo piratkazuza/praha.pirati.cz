@@ -11,6 +11,7 @@ img: people/eva-horakova.jpg   # 165 x 220
 description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 5 za Piráty   	# kratký popis, max 160 znaků
 asistenti:
   - name: Lucie Horáková
+    uid: lucie.horakova
     position: sekretářka
     mail: lucie.horakova@praha.eu
     tel: 236 002 142
