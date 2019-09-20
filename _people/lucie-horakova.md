@@ -25,3 +25,5 @@ Vystudovala Gymnázium Špitálská v pražských Vysočanech, kde roku 2014 od
 financí a účetnictví. Jejím velkým zájmem byla vždy média, získávání a ověřování informací, a proto se přihlásila na obor Mediální studia na Metropolitní univerzitě Praha, kde získala svůj bakalářský titul a nyní pokračuje v magisterském navazujícím oboru.
 
 Ve volném čase ráda čte, jezdí na výlety, hraje deskovky, chodí na nejrůznější kulturní akce, nejraději má koncerty a festivaly. Miluje zimní sporty, zvláště pak snowboarding. Dříve hrála basketbal, který dodnes nadšeně sleduje. Ráda se učí nové jazyky -mluví plynně anglicky, německy a učí se španělsky.
+
+Stejně jako Míša Krausová, o sobě Lucie nerada píše ve 3. osobě.
