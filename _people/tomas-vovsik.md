@@ -30,3 +30,4 @@ Již během studií začal pracovat v online komunikaci a kreativě pro Junáka 
 
 * Název pozice: Social Media Manager
 * Smlouva mezi Tomášem Vovsíkem a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2018/12/19/tomas-vovsik-social-media/](https://smlouvy.pirati.cz/smlouvy/2018/12/19/tomas-vovsik-social-media/)
+* Profesní životopis: [https://www.linkedin.com/in/tomáš-vovs%C3%ADk-ab21a851/](https://www.linkedin.com/in/tomáš-vovs%C3%ADk-ab21a851/)
