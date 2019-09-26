@@ -20,11 +20,15 @@ profiles:
 ordpraha: 
 ---
 
-**Tomáš Vovsík** je poradce pražského primátora. 
+**Tomáš Vovsík** je poradce pražského primátora, Social Media Manager.
 
 Narodil se v Karviné, vyrůstal v Děčíně a později v Jihlavě. Po skončení studií se přestěhoval do Prahy. Vystdoval žurnalistiku a filmovou vědu v bakalářském programu a mediální studia v magisterském programu na Univerzitě Palackého v Olomouci. Půl roku studoval sociologii a politologii v rámci Erasmus stáže na Fatih University v Istanbulu. 
 
-Již během studií začal pracovat v online komunikaci a kreativě pro Junáka – českého skauta a jako kampaňér pro právní organizaci chránící občanská práva Iuridicum Remedium. Později pracoval jako social media specialist v agentuře Fuse. Aktuálně působí jako poradce primátora Prahy pro online komunikaci, spravuje sociální sítě pražským Pirátům, lektoruje kurz multimédií pro děti v Domě dětí a mládeže Ulita a jakožto freelancer realizuje kreativní grafické a ilustrátorské projekty. Dobrovolnicky vede skautskou družinu. Má rád výtvarnictví a skauting, není členem žádné politické strany.
+Již během studií začal pracovat v online komunikaci a kreativě pro Junáka – českého skauta a jako kampaňér pro právní organizaci chránící občanská práva Iuridicum Remedium. Později pracoval jako social media specialist v agentuře Fuse, učitel ve škole Livingstone založené na respektujícím přístupu a jako lektor kurzu multimédií pro děti v Domě dětí a mládeže Ulita. 6 let vedl dobrovolnicky skautskou družinu.
+
+Aktuálně působí jako poradce primátora Prahy pro online komunikaci, spravuje sociální sítě pražským Pirátům, kreativně a projektově řídí Scout Leather projekt v Brašnářství Tlustý a jakožto freelancer realizuje grafické a ilustrátorské zakázky nebo výtvarné workshopy. 
+
+Má rád výtvarnictví a skauting, není členem žádné politické strany.
 
 ### Smluvní informace
 
