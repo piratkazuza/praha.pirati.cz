@@ -10,7 +10,7 @@ img: people/michaela-berankova.jpg   # 165 x 220
 description: asistentka Tomáše Murňáka    	# kratký popis, max 160 znaků
 mail:
 - michaela.berankova@pirati.cz
-mob: 
+mob: +420 777 439 420
 profiles:
   github:       
   facebook: 
