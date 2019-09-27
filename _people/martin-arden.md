@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: people/martin-arden.jpg   # 165 x 220
-description: Zastupitel hl. m. Prahy     	# kratký popis, max 160 znaků
+description: zastupitel hl. m. Prahy     	# kratký popis, max 160 znaků
 mail:
 - martin.arden@pirati.cz
 mob: 728368831

@@ -7,7 +7,7 @@ titles:
 category:
  - pks
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
-description:  Místopředsedkyně pražského sdružení
+description:  místopředsedkyně pražského sdružení
 mail:
 - magdalena.valdman@gmail.com
 mob:			  

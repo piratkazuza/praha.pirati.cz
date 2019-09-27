@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
-description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 5 za Piráty   	# kratký popis, max 160 znaků
+description: zastupitelka hl. m. Prahy   	# kratký popis, max 160 znaků
 asistenti:
   - name: Lucie Horáková
     uid: lucie.horakova
@@ -22,7 +22,7 @@ asistenti:
     tel: 777 647 313
 mail:
 - eva.horakova@pirati.cz
-mob: 727 870 828
+mob: +420 727 870 828
 profiles:
   github:       
   facebook:    

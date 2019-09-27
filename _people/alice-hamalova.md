@@ -7,7 +7,7 @@ category:
  - pks
  - dr
 img: 		people/alice-hamalova.jpg    # 165 x 220
-description: Místopředsedkyně pražského sdružení, zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
+description: místopředsedkyně pražského sdružení, zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
 mail:
 - alice.hamalova@pirati.cz
 mob: +420 777 699 091 

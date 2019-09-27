@@ -26,7 +26,7 @@ asistenti:
     tel: 236 00 2944
 mail:
 - vit.simral@pirati.cz
-mob:			  
+mob: +420 606 220 985
 profiles:
   github:     
   facebook: 	https://www.facebook.com/vit.simral

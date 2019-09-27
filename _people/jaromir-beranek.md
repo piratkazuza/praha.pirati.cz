@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - pks
 img: people/jaromir-beranek.jpg    # 165 x 220
-description: Předseda pražského sdružení Pirátů, uvolněný zastupitel hl. m. Prahy / Leader of the Pirate Party in Prague, Member of the Prague City Assembly
+description: zastupitel hl. m. Prahy, předseda krajského sdružení Pirátů v Praze
 mail:
 - jaromir.beranek@pirati.cz
 mob:

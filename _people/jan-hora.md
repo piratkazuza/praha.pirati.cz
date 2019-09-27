@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 ordpks: 2
 img: people/jan-hora.jpg   # 165 x 220
-description:  Místopředseda pražského sdružení
+description:  místopředseda pražského sdružení
 mail:
 - honza.hora@pirati.cz
 mob:			 
