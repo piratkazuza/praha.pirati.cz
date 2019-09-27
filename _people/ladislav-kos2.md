@@ -11,7 +11,7 @@ img: people/ladislav-kos2.jpg   # 165 x 220
 description: zastupitel hl. m. Prahy a zastupitel městské části Praha 11     	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@pirati.cz
-mob: +420 732 168 903
+mob:
 profiles:
   github:       
   facebook: https://www.facebook.com/pirat.kosak/
