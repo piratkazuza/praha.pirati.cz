@@ -25,11 +25,6 @@ asistenti:
     position: poradkyně primátora
     mail: adela.cinkanicova@praha.eu
     tel: 
-  - name: Magdalena Valdmanová
-    uid: magdalena.valdmanova
-    position: poradkyně primátora
-    mail: magdalena.valdmanova@praha.eu
-    tel: 
   - name: Tomáš Vovsík
     uid: tomas.vovsik
     position: poradce primátora
