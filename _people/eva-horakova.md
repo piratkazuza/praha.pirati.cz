@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
-description: zastupitelka hl. m. Prahy, místopředsedkyna zast. klubu Pirátů   	# kratký popis, max 160 znaků
+description: zastupitelka hl. m. Prahy, místopředsedkyně zast. klubu Pirátů   	# kratký popis, max 160 znaků
 asistenti:
   - name: Lucie Horáková
     uid: lucie.horakova
