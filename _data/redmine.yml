@@ -1,18 +1,9 @@
 -
   id: 1
-  title: Ukážeme data veřejnosti
-  desc: Piráti prosazovali, aby jednotlivá data byla k dispozici všem. Pracujeme na tom!
-  garant: adam.zabransky
-  redmine: 18642
--
-  id: 2
-  title: Otevřená radnice – transparentnost a participace
-  desc: Každý se může zúčastnit rozhodovacího procesu na pražském Magistrátu. I vy! Jak na tom pracujete? Dozvíte se níže!
-  garant: adam.zabransky
-  redmine: 19022
--
-  id: 3
-  title: Zavedeme rozklikávací rozpočet až na úroveň faktur
-  desc: Už žádné Opencard ani další lumpárny. Každý uvidí, co si úřad pořizuje. Každá faktura bude dohledatelná – tak, jak jsme to před lety slíbili!
-  garant: adam.zabransky
-  redmine: 18644
+  title: Metro, okruh a nejen to
+  desc: Na čtvrtou linku metra čekají lidé už přes dvacet let, my jsme zahájili výstavbu formou geologického průzkumu. Tramvaje jako ekologická forma dopravy vyjedou okrajových částí města, například na Budějovickou, Motol nebo Strahov, k tomu jsme již schválili řadu potřebných dokumentů. Železnice představuje nevyužívanou kapacitu, která již stojí, otevřeme ji proto Pražanům více. 
+
+Snažíme se o odblokování dostavby Pražského okruhu. Urychlíme rovněž i dokončení Městského okruhu. Vybudujeme záchytná kapacitní parkoviště pro krátkodobé i dlouhodobé stání návštěvníků.
+  garant: ladislav.kos
+  redmine: 23492
+
