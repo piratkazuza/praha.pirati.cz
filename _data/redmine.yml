@@ -16,4 +16,9 @@
   desc: Už v roce 2015 jsme prosadili spuštění portálu [opendata.praha.eu](opendata.praha.eu) na kterém město zveřejňuje data o tom, co aktuálně dělá. A to byl jen začátek. Zveřejnili jsme smlouvy města, faktury metropole i řadu dalších informací. Díky tomu, že jsou data města venku, nemůže metropoli řídit žádný kmotr. Namísto trafik přišla do městských firem otevřená výběrová řízení. Pozice v dozorčích a správních radách tak nejsou dávána za odměnu, ale těm, kteří chtějí pilně pracovat a dokázali, že na to mají.<br/><br/> Děláme pořádek ve sportovních grantech, kde působilo nechvalně známé duo "Kleslová a Březina". Výhledově chceme procesy především digitalizovat tak, aby lidé mohli s úřadem komunikovat tak, jak jsou zvyklí. 
   garant: adam.zabransky
   redmine: 23496
-
+-
+  id: 4
+  title: Praha Zelená
+  desc: Přejeme si, aby Praha byla zdravé město pro život. Věříme, že proti vedrům pomohou stromy a voda... že zeleň místo betonu vyčistí vzduch. Proto vysadíme více stromů v ulicích a zároveň doplníme rekreační divočinu kolem metropole. Celkem je naším cílem vysadit milion stromů pro Prahu! Není to jednoduché a nepůjde to přes noc. Nicméně za první pololetí roku 2019 bylo v Praze vysazeno 160 tisíc nových stromů a vzniklo tak téměř 26 hektarů nových lesů! Většinou šlo o zalesnění původní zemědělské půdy. Nové stromy jsou však vysazovány také ve stávajících parcích a sadech.<br/><br/> Magistrát se rovněž přihlásil k závěrům zprávy Mezivládního panelu pro klimatickou změnu při OSN a vyhlásil vlastní Klimatický závazek. Pro plánování a přípravu konkrétních opatření ustanovilo město Komisi pro udržitelnou energii a klima, která bude fungovat ve čtyřech samostatných pracovních skupinách se zastoupením nejvyššího politického vedení města. Přejeme si, abychom předali Prahu našim dětem v lepším stavu, než je dnes.
+  garant: tomas.murnak
+  redmine: 23498
