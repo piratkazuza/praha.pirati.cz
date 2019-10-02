@@ -6,7 +6,7 @@ image: 	      posts/praha13b.jpg
 author:       Václav Hrdlička, Zuzana Drhová
 ---
 
-Na programu středečního (24. 4.) dopoledního jednání zastupitelstva MČ Praha 13 je mezi standardními body jako jsou rozpočtové změny či informace o zhodnocení prostředků MČ také nenápadný bod Jednací řád výborů ZMČ. Hlavní změnou, kterou přináší, je uzavření jednání výborů pro veřejnost. Schválením této změny zůstává pro veřejnost otevřená pouze jednání zastupitelstva, které se však na rozdíl od většiny jiných MČ koná dopoledne, kdy je většina lidí v práci.
+Na programu dubnového dopoledního jednání zastupitelstva MČ Praha 13 bylo mezi standardními body jako jsou rozpočtové změny či informace o zhodnocení prostředků MČ také nenápadný bod Jednací řád výborů ZMČ. Hlavní změnou, kterou přináší, je uzavření jednání výborů pro veřejnost. Schválením této změny zůstává pro veřejnost otevřená pouze jednání zastupitelstva, které se však na rozdíl od většiny jiných MČ koná dopoledne, kdy je většina lidí v práci.
 
 Hlavní motivací této změny je Vodrážkův vyhlášený boj se sílící opozicí. Poté, co David Vodrážka na podzim těsně obhájil pozici starosty na Praze 13, rozhodl se s podporu svého klubu ODS a hlavního koaličního partnera Hnutí ANO vytlačit 11 členný klub Zelených a Pirátů ze všech výborů či komisí, a tudíž je odstřihnout od informací o tom, co se na MČ děje. Poté, co se zastupitelé chtěli účastnit jednání výborů jako hosté ve svém volném čase, předkládá koalice změnu jednacího řádu.
 
