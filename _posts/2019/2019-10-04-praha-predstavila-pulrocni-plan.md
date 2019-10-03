@@ -1,5 +1,5 @@
 ---
-date:         2019-10-04
+date:         2019-10-03
 tags:         magistrát praha plánování
 title:        "Pražská koalice představila plány na nadcházející půlrok. Společnými prioritami je doprava a dostupnost bydlení"
 image: 	      posts/tk-koalice.jpg
