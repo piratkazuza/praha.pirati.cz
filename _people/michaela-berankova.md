@@ -19,6 +19,6 @@ profiles:
 ordpraha: 
 ---
 
-**Michaela Beránková** je asistentka uvolněného místopředsedy výboru pro územní plánování, Tomáše Murňáka. Pochází z jižní Moravy. Vystudovala obor Ekologie a ochrana krajiny na Střední odborné škole a gymnáziu ve Starém městě u Uherského Hradiště. Poté studovala na Mendelově univerzitě v Brně a na Pedagogické univerzitě v Praze. 
+**Michaela Beránková** je asistentka uvolněného místopředsedy výboru pro územní plánování, Tomáše Murňáka. Pochází z jižní Moravy. Vystudovala obor Ekologie a ochrana krajiny na Střední odborné škole a gymnáziu ve Starém městě u Uherského Hradiště. Studuje obor speciální pedagogika na Karlově univerzitě v bakalářském studijním programu. 
 
-Mezi její životní hodnoty patří pravda, upřímnost, láska, ochrana přírody, transparentnost, tolerance a pomoc. Považuje se za víceméně pozitivně naladěného liberála.
+Mezi její životní hodnoty patří pravda, upřímnost, láska, ochrana přírody, transparentnost, tolerance a pomoc. Považuje se za víceméně pozitivně naladěného liberála. Mezi její koníčky patří fotografování, zahradničení, příroda a cestování.
