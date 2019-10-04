@@ -1,5 +1,5 @@
 ---
-date:         2019-02-10
+date:         2019-10-02
 tags:         praha-13 transparentnost
 title:        "Rada Prahy 13 uzavíra výbory veřejnosti"
 image: 	      posts/praha13b.jpg
