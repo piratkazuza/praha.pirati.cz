@@ -1,7 +1,6 @@
 ---
 uid: tomas.murnak
 name:     Tomáš Murňák  	# běžně používáné jméno
-fullname: Tomáš Murňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
