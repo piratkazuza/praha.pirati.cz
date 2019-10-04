@@ -1,6 +1,9 @@
 ---
 data-version: 2
 uid: adam.zabransky
+titles:
+  before: Mgr.
+  after:
 work:
    - name: "Radní pro bydlení a transparentnost"
      url: http://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?personId=11330
