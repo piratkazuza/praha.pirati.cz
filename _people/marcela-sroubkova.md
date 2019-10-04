@@ -5,10 +5,8 @@ titles:
   before: 
   after:
 category: 
-- kodo
-ordkodo: 1
 img: people/marcela-sroubkova.jpg
-description: Koordinátorka dobrovolníků
+description: bývalá koordinátorka dobrovolníků
 mail: marcela.sroubkova@pirati.cz
 mob: +420 606 168 306		  
 profiles:
@@ -18,7 +16,7 @@ profiles:
   flickr:		  
 ---
 
- (* 5. 2. 1987) je jeden z koordinátorů dobrovolníků pro Prahu. Vystudovala Management obchodních činností a Ekonomiku a management na ZČU v Plzni. Za svou pracovní kariéru mimo jiné nasbírala zkušenosti jako asistentka, analytik, projektový manažer ICT projektů, nebo kuchař.
+Marcela Šoubková (* 5. 2. 1987) byla jeden z koordinátorů dobrovolníků pro Prahu. Vystudovala Management obchodních činností a Ekonomiku a management na ZČU v Plzni. Za svou pracovní kariéru mimo jiné nasbírala zkušenosti jako asistentka, analytik, projektový manažer ICT projektů, nebo kuchař.
 
 Uznává minimalismus jako životní směr. Minimalismus vnímá jako nástroj k dosažení životní rovnováhy v sobě, i ve společnosti. Zajímá se o kvalitu života a trvalou udržitelnost v různých odvětvích. Miluje umění ve všech formách, rozmanitost přírody a vaření.
 

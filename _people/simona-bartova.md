@@ -5,9 +5,7 @@ titles:
   before: 
   after:
 category: 
-- kodo
 - kontaktni_osoba
-ordkodo: 3
 img: people/simona-bartova.jpg
 contactType: Kontakt pro dobrovolníky
 description: Koordinátorka dobrovolníků

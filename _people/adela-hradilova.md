@@ -1,17 +1,17 @@
 ---
 uid: adela.hradilova
-name:    Adéla hradilová
+name: Adéla Hradilová
 titles:
-  before:
+  before: 
   after:
-category:      
-- praha
+category: 
 - kodo
-ordkodo: 4
-img: people/adela-hradilova.jpg   
-description:  Koordinátorka dobrovolníků   
-mail:
-mob:
+ordkodo: 5
+img: people/adela-hradilova.jpg
+contactType: Koordinátorka dobrovolníků
+description: Koordinátorka dobrovolníků, správkyně Pirátského centra
+mail: adela.hradilova@pirati.cz
+mob: +420 608 517 171
 profiles:
   github:       
   facebook: 
@@ -19,10 +19,7 @@ profiles:
   flickr:		  
 ---
 
-Adéla Hradilová je součástí týmu koordinátorů Praha. Pochází z Kobeřic u Brna, krátce žila v Brně a nyní přebývá v Kolíně.
+**Adéla Hradilová** je správkyně pirátského centra Praha (PiCe). Zajišťuje rezervace PiCe, provozní záležitosti a inventář. Mimo provozu PiCe se ráda věnuje událostem a podílí se také na fundraisingu Pirátů. Pochází z Kobeřic u Brna, krátce žila v Brně a nyní přebývá v Kolíně.
 
-Aktuálně studuje filozofii na Masarykově univerzitě a moc jí to baví.
 
-Ráda čte, pozoruje, vaří, jí, ochutnává, mazlí zvířata, hledá, zpracovává a řeší problémy.
 
-Adéla doufá, že jednou zjistí, jaký je svět, ale obává se, že předtím tolikrát změní význam položené otázky, že skončí pouze s odpovědí 42. 
