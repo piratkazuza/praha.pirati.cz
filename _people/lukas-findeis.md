@@ -17,6 +17,10 @@ profiles:
   facebook: 		  https://www.facebook.com/lukas.xeelee.findeis
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=lukas%20findeis
+office:
+  - address: Písková 830/25, 143 00, Praha 12 – Modřany
+    name: Městcká část Praha 12
+    #opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 ---
 
 Lukáš Findeis (* 1985, Praha) je pirátským zastupitelem na městské části Praha 12. Studoval na SŠ slaboproudé elektrotechniky, odkud odešel s maturitou. Jeho profilovým předmětem byly přenosové informační systémy. Dříve pracoval ve vrátkovém skladu v Amazonu v Dobrovízi, dnes pracuje jako prodavač bot v obchodě naBOSo. V komunálních volbách 2014 byl zvolen zastupitelem městské části Praha 12. Ze zdravotních důvodů přestal jíst maso a už se k němu nevrátil. Dává přednost jednoduché a z velké části syrové stravě, obejde se bez alkoholu. Volný čas tráví nejraději běháním. 
