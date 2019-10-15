@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: people/lukas-findeis.jpg   # 165 x 220
-description: zastupitel městské části Praha 12 za Piráty             	# kratký popis, max 160 znaků
+description: radní MČ Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
 mail:
 - lukas.findeis@pirati.cz
 mob:			  +420 735 076 699
@@ -17,10 +17,16 @@ profiles:
   facebook: 		  https://www.facebook.com/lukas.xeelee.findeis
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=lukas%20findeis
+work:
+   - name: "Radní pro sociální věci, zdravotnictví, sport"
+     url: https://www.praha12.cz/lukas%2Dfindeis/o-1929
+   - name: "Evidence kontaktů a schůzek"
+     url: https://evidence.pirati.cz/author/57/
 office:
   - address: Písková 830/25, 143 00, Praha 12 – Modřany
-    name: Městcká část Praha 12
+    name: Městská část Praha 12
     #opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+calendar: b2q3kpoefb62brt4md350okubk%40group.calendar.google.com
 ---
 
 Lukáš Findeis (* 1985, Praha) je pirátským zastupitelem na městské části Praha 12. Studoval na SŠ slaboproudé elektrotechniky, odkud odešel s maturitou. Jeho profilovým předmětem byly přenosové informační systémy. Dříve pracoval ve vrátkovém skladu v Amazonu v Dobrovízi, dnes pracuje jako prodavač bot v obchodě naBOSo. V komunálních volbách 2014 byl zvolen zastupitelem městské části Praha 12. Ze zdravotních důvodů přestal jíst maso a už se k němu nevrátil. Dává přednost jednoduché a z velké části syrové stravě, obejde se bez alkoholu. Volný čas tráví nejraději běháním. 
