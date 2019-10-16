@@ -16,7 +16,7 @@ profiles:
   github:                 
   facebook: 		  https://www.facebook.com/lukas.xeelee.findeis
   twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?text=lukas%20findeis
+  flickr:     		  https://www.flickr.com/search/?text=lukáš%20findeis
 work:
    - name: "Radní pro sociální věci, zdravotnictví, sport"
      url: https://www.praha12.cz/lukas%2Dfindeis/o-1929
