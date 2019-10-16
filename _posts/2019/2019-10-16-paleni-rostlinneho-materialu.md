@@ -14,4 +14,4 @@ Eva Tylová k tomu uvedla:
 
 Tomáš Murňák, místopředseda výboru k tomu uvedl: 
 
-> „Znečištěním ovzduší v Praze se intenzivně zabýváme. Zákon o ovzduší umožňuje městům, aby vydalo vyhlášku, která spalování těchto materiálů upravuje. Praha však tuto možnost dosud nevyužila. Přitom toto omezení není oproti jiným opatřením na snížení znečištění ovzduší  ani finančně náročné ani technicky náročné.“
+> „Znečištěním ovzduší v Praze se intenzivně zabýváme. Zákon o ovzduší umožňuje městům, aby vydalo vyhlášku, která spalování těchto materiálů upravuje. Praha však tuto možnost dosud nevyužila. Přitom toto omezení není oproti jiným opatřením na snížení znečištění ovzduší ani finančně náročné ani technicky náročné.“
