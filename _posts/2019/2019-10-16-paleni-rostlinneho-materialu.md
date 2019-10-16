@@ -1,6 +1,6 @@
 ---
 date:         2019-10-16
-tags:         praha zahraničí čína
+tags:         praha životní-prostředí
 title:        "Magistrátní výbor dal zelenou pirátskému návrhu zákazu masového pálení uschlých stromů a keřů. Táboráků se nedotkne"
 image: 	      murnak-podzim.jpg
 author:       Tomáš Murňák, Eva Tylová
