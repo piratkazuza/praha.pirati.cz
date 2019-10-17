@@ -31,7 +31,7 @@ Mezi volnočasové aktivity patří bezesporu sport. 12 let závodně plavala (m
 
 ### Další informace
 
-* Název pozice: PR manažer a mluvčí pražských Pirátů
+* [Náplň pozice](/assets/pdf/napln-prace/kubickova.pdf)
 * Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=44405](https://forum.pirati.cz/viewtopic.php?f=572&t=44405) Veronika Kubičková v něm skončila jako druhá.
 * Smlouva mezi Veronikou Kubičkovou a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2019/06/01/ZadavaciList_VeronikaKubickova/](https://smlouvy.pirati.cz/smlouvy/2019/06/01/ZadavaciList_VeronikaKubickova/)
 * Jednorázová odměna, vyplacená Veronice Kubičkové Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2019/07/30/VeronikaKubickova_Odmena/](https://smlouvy.pirati.cz/smlouvy/2019/07/30/VeronikaKubickova_Odmena/)

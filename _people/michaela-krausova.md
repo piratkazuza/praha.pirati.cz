@@ -17,10 +17,10 @@ profiles:
   facebook: https://www.facebook.com/mejmeno   
   twitter: 	https://twitter.com/piratkamisa  
   flickr:		  
-ordpraha: 4
+ordpraha: 6
 ---
 
-**Michaela Krausová** je předsedkyně zastupitelského klubu Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze.
+**Michaela Krausová** je zastupitelka hl m. Prahy Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze.
 
 Vztah k Pirátům získala především díky jejich otevřenosti, transparenci a kvůli efektivnímu využití moderních technologií, bez kterých se ve 21. století nelze obejít. Ráda by žila ve společnosti, která je vzdělaná, svobodná a digitálně propojená.
 
@@ -32,6 +32,6 @@ Na podzim roku 2014 představila svým spolužákům na Fakultě humanitních st
 
 Během kampaně do Poslanecké sněmovny v roce 2017 koordinovala tým dvou stovek pražských dobrovolníků, kteří společně s prací pirátských zastupitelů na Magistrátu stojí za historickým úspěchem Pirátů v Praze 17,6 %. Je ráda, že může být součástí strany, jejíž členové a příznivci se nestydí nosit Pirátské tričko a nebojí se vyjít do ulic a rozdávat bez nároku na odměnu stovky tisíc Pirátských listů.
 
-V roce 2018 kandidovala úspěšně do zastupitelstva hlavního města Prahy na šestém místě. Následně byla v rámci zastupitelského klubu Pirátů zvolena za jeho místopředsedkyni. V roce 2019 byla zvolena za předsedkyni klubu.
+V roce 2018 kandidovala úspěšně do zastupitelstva hlavního města Prahy na šestém místě. Následně byla v rámci zastupitelského klubu Pirátů zvolena za jeho místopředsedkyni. V roce 2019 byla zvolena za předsedkyni klubu. Tuto pozici zastávala až do října 2019.
 
 Michaela ráda tráví čas se zajímavými lidmi a má ráda zvířata. Baví ji společenské hry. V posledních letech našla zájem v četbě naučné literatury z oblasti sociokultutní antropologie, filosofie a historie. Michaela o sobě nerada píše ve 3. osobě.

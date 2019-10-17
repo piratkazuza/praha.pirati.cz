@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 img: people/jaromir-beranek.jpg    # 165 x 220
 profilebadge: people/badge/08-beranek.jpg
-description: zastupitel hl. m. Prahy, předseda krajského sdružení Pirátů v Praze
+description: místopředseda zastupitelského klubu Pirátů, předseda krajského sdružení Pirátů v Praze
 mail:
 - jaromir.beranek@pirati.cz
 mob:
@@ -19,7 +19,7 @@ profiles:
   linkedin:   https://www.linkedin.com/in/jaromirberanek/
   twitter: 		
   flickr:
-ordpraha: 8
+ordpraha: 6
 ordpks: 1
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
@@ -33,7 +33,7 @@ Po studiích působil v Praze a v Mnichově ve společnosti Telefónica (O2) jak
 
 Ve volném čase hraje na saxofon a klarinet v kapele Mizmar a je spoluautorem blogu o pražských cukrárnách s názvem Cukrouši.cz. Donedávna byl aktivní jako člen divadlení umělecké skupiny OLDstars a instruktor Prázdninové školy Lipnice. Mezi jeho zájmy patří outdoorové sporty, cestování, fotografování, hudba a divadlo. Je pravidelným bezpříspěvkovým dárcem krve a členem Klubu přátel Paměti národa. Má rád deskové hry, vlaky a tramvaje, sníh, zmrzlinu, upřímnost a liduprázdnou krajinu. Trápí ho SUV a elektrické koloběžky ve městě, globální oteplování a lidská hloupost.
 
-Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 do prosince 2018 byl 4. místopředsedou a od ledna 2019 je předsedou krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže.
+Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 do prosince 2018 byl 4. místopředsedou a od ledna 2019 je předsedou krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže. Od října 2019 je místopředsedou zastupitelského klubu. 
 
 V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy. Jako předseda Výboru pro IT a Smart City ZHMP se věnuje primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabývá hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility.
 
@@ -41,6 +41,6 @@ V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitels
 
 Jaromir Beranek (* May 14, 1986) is a member of the Prague City Assembly, representing the Pirate Party, and Chairman of the IT and Smart City Committee of the Prague City Assembly. He has been with the Czech Pirate Party since November 2016, later served as a financial manager and currently acts as the leader of Prague Pirates.
 
-Jaromir studied at universities in Prague, Cologne and Fort Lauderdale and holds Master's degrees in International Management and Law. He is a seasoned financial and portfolio manager with experience from multinationals (Bosch, O2) as well as the startup community (Wayra, StartupYard). Jaromir is fluent in English and German and has a basic command of French. He is an avid runner and musician and enjoys travelling and long hikes in the mountains.
+Jaromir studied at universities in Prague, Cologne and Fort Lauderdale and holds Master's degrees in International Management and Law. He is a seasoned financial and portfolio manager with experience from multinationals (Bosch, O2) as well as the startup community (Wayra, StartupYard). Jaromir is fluent in English and German and has a basic command of French. He is an avid runner and musician and enjoys travelling and long hikes in the mountains. Since October 2019 he is also the deputy chair of the Pirate Party Group in the Prague City Assembly. 
 
 In 2018, Jaromir was elected into the Prague City Assembly. As the Chairman of the IT and Smart City Committee, he focuses on Smart City and innovation projects, and promotes enterpreneurship. Furthermore, he oversees financial administration and European projects as well as the development of the integrated transportation system, and the promotion of clean mobility.
