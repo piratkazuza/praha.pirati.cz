@@ -10,6 +10,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
 contactType: Kontakt pro občany
 img: people/pavel-hajek.jpg   # 165 x 220
+profilebadge: people/badge/09-hajek.jpg
 description: zastupitel hl. m. Prahy, zastupitel městské části Praha 10 za Piráty    	# kratký popis, max 160 znaků
 mail:
 - pavel.hajek@pirati.cz

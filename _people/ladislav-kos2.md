@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: people/ladislav-kos2.jpg   # 165 x 220
+profilebadge: people/badge/11-kos.jpg
 description: zastupitel hl. m. Prahy a zastupitel městské části Praha 11     	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@pirati.cz

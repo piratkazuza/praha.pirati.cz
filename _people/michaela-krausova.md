@@ -8,7 +8,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220
-description:  zastupitelka hl. m. Prahy, předsedkyně zast. klubu Pirátů    	# kratký popis, max 160 znaků
+profilebadge: people/badge/01-krausova.jpg
+description:  zastupitelka hl. m. Prahy    	# kratký popis, max 160 znaků
 mail:
 - misa.krausova@pirati.cz
 mob:			  +420 732 858 172

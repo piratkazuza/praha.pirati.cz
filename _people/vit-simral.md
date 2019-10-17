@@ -9,6 +9,7 @@ category:
 - mhmp-radni
 - ga
 img: people/vit-simral.jpg    # 165 x 220
+profilebadge: people/badge/12-simral.jpg
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 asistenti:
   - name: Kristýna Nouzáková

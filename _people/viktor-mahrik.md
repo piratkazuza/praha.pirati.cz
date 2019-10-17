@@ -9,6 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - carousel
 img: 		people/viktor-mahrik.jpg    # 165 x 220
+profilebadge: people/badge/04-mahrik.jpg
 description: 			zastupitel hl. m. Prahy, místopředseda zast. klubu Pirátů             	        			# kratký popis, max 160 znaků
 asistenti:
   - name: Josef Kubát

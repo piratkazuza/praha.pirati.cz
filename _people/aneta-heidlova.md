@@ -7,6 +7,7 @@ titles:
 category:   
 - mhmp       	        			# kratký popis, max 160 znaků
 img: people/aneta-heidlova.jpg   # 165 x 220
+profilebadge: people/badge/10-heidlova.jpg
 description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 9     	# kratký popis, max 160 znaků
 mail:
 - aneta.heidlova@pirati.cz
