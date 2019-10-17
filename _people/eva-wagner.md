@@ -22,3 +22,7 @@ ordpraha:
 
 **Eva Wagner** je poradkyně primátora hl. m. Prahy MUDr. Zdeňka Hřiba. Narodila se v Pardubicích v roce 1989. VystudovalaTvorbu a výrobu nábytku na Mendelově univerzitě v Brně. Od střední školy se ale věnovala tvůrčímu psaní a později i žurnalistice. Mezi její zájmy patří hraní larpů, zimní sporty a urbex.
 
+### Další informace
+
+* [Náplň pozice](/assets/pdf/napln-prace/wagner.pdf)
+
