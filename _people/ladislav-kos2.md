@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 img: people/ladislav-kos2.jpg   # 165 x 220
 profilebadge: people/badge/11-kos.jpg
-description: zastupitel hl. m. Prahy a zastupitel městské části Praha 11     	# kratký popis, max 160 znaků
+description: předseda komise RHMP pro sport, zastupitel hl. m. Prahy a zastupitel městské části Praha 11     	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@pirati.cz
 mob:
@@ -21,9 +21,7 @@ profiles:
 ordpraha: 12
 ---
 
-**Ladislav Kos** (* 1986) je členem Pirátské strany na Praze 11, kde je zároveň zastupitelem. Od dubna 2019 je zastupitelem hl. města Prahy.
-
-Na magistrátu hl.m. Prahy předsedá Komisi Rady hl. m. Prahy pro sport, je členem Výboru pro zdravotnictví a sport a volný čas a Výboru pro dopravu. V domovské Praze 11 je členem dopravní komise.
+**Ladislav Kos** (* 1986) je členem Pirátské strany na Praze 11, kde je zároveň zastupitelem. Od dubna 2019 je zastupitelem hl. města Prahy. Zastává pozici předsedy komise Rady hlavního města Prahy pro otázky sportu, je členem Výboru pro zdravotnictví a sport a volný čas a Výboru pro dopravu. V domovské Praze 11 je členem dopravní komise.
 
 Vystudoval ČVUT – Fakultu dopravní, kde získal inženýrský titul ve studijním oboru Dopravní systémy a technika. Profesně se zabývá online marketingem. Dříve pracoval pro neziskové organizace působící v oblasti bezpečného užívání internetu a prevence kyberšikany. 
 
