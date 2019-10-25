@@ -16,4 +16,4 @@ III. Prohlašuje, že si za výsledky výběrových řízení stojí a že běhe
 
 IV. Vyvrací spekulace o tom, jakým způsobem byla ukončena spolupráce s Jaroslavem Němcem v roli poradce primátora: Jaroslav Němec neprošel výběrovým řízením a jeho role v týmu primátora byla od začátku vnímána jen jako dočasná;
 
-V. Se ohrazuje proti tvrzení, že by do jeho chodu nepatřičně zasahoval Jakub Michálek. Přestože existuje úzká spolupráce mezi zastupitelským klubem na MHMP a poslaneckým klubem Pirátů, stále se jedná o nezávislé orgány fungující oddělené dle platných pravidel vnitrostranické demokracie. 
+V. Se ohrazuje proti tvrzení, že by do jeho chodu nepatřičně zasahoval Jakub Michálek. Přestože existuje úzká spolupráce mezi zastupitelským klubem na MHMP a poslaneckým klubem Pirátů, stále se jedná o nezávislé orgány fungující odděleně dle platných pravidel vnitrostranické demokracie. 
