@@ -12,7 +12,7 @@ profilebadge: people/badge/11-kos.jpg
 description: předseda komise RHMP pro sport, zastupitel hl. m. Prahy a zastupitel městské části Praha 11     	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@pirati.cz
-mob:
+mob: +420 732 168 903
 profiles:
   github:       
   facebook: https://www.facebook.com/pirat.kosak/

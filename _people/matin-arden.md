@@ -10,7 +10,7 @@ img: people/martin-arden.jpg   # 165 x 220
 description:      	# kratký popis, max 160 znaků
 mail:
 - martin.arden@pirati.cz
-mob:
+mob: +420 728 368 831
 profiles:
   github:       
   facebook:    
