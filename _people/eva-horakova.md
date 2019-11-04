@@ -16,11 +16,6 @@ asistenti:
     position: sekretářka
     mail: lucie.horakova@praha.eu
     tel: 236 002 142
-  - name: Tereza Hubáčková
-    uid: tereza.hubackova
-    position: "asistentka s působností: Péče o ohrožené děti"
-    mail: tereza.hubackova@praha.eu
-    tel: 777 647 313
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828
