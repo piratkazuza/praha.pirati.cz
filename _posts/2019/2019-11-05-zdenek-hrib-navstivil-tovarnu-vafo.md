@@ -14,10 +14,8 @@ Společnost se nachází na území Středočeského kraje, což hlavnímu měst
 
 Další dobrou zprávou je, že společnost Vafo připravuje infolinku a infoweb, kde bude zodpovídat nejčastější dotazy občanů.
  
-> „Jsem také rád, že Ministerstvo životního prostředí vyhovělo odvolání proti rozšíření výroby a nevydalo integrované povolení pro zvýšený objem výroby, což byla jediná možnost, jak chránit zájmy obyvatel Prahy,“ dodal pražský primátor. 
+> „Jsem také rád, že Ministerstvo životního prostředí vyhovělo odvolání proti rozšíření výroby a nevydalo integrované povolení pro zvýšený objem výroby, což byla jediná možnost, jak chránit zájmy obyvatel Prahy. Ale ještě není vyhráno. Následujícím krokem bude schůzka se starosty dotčených městských částí a představiteli společnosti Vafo. Věřím ale, že jsme na dobré cestě,“ dodal pražský primátor. 
 
-Ale ještě není vyhráno. Následujícím krokem bude schůzka se starosty dotčených městských částí a představiteli společnosti Vafo. Věřím ale, že jsme na dobré cestě.
-
-> „Jakožto obyvatele třinácté městské části se mne situace se zápachem z výrobny psích granulí úzce dotýká stejně jako dalších desítek tisíc obyvatel. Jsem potěšen, že se dnes na setkání v areálu společnosti VAFO Praha povedlo domluvit vznik užší spolupráce firmy a úřadů. V krátkém čase bude vytvořena komise pro eliminaci zápachu. Také mě těší, že ministerstvo životního prostředí nepovolilo rozšíření výroby a vrátilo celou věc k novému projednání Středočeskému kraji,“ sdělil k záležitosti místopředseda výboru pro životní prostředí Tomáš Murňák Tomáš Murňák. 
+> „Jakožto obyvatele třinácté městské části se mne situace se zápachem z výrobny psích granulí úzce dotýká stejně jako dalších desítek tisíc obyvatel. Jsem potěšen, že se dnes na setkání v areálu společnosti VAFO Praha povedlo domluvit vznik užší spolupráce firmy a úřadů. V krátkém čase bude vytvořena komise pro eliminaci zápachu. Také mě těší, že ministerstvo životního prostředí nepovolilo rozšíření výroby a vrátilo celou věc k novému projednání Středočeskému kraji,“ sdělil k záležitosti místopředseda výboru pro životní prostředí Tomáš Murňák.
 
 
