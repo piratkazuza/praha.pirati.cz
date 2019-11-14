@@ -7,20 +7,24 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/daniel-mazur.jpg    # 165 x 220
-description: zastupitel městské části Praha 5, 2. místopředseda pražského sdružení Pirátů            	# kratký popis, max 160 znaků
+description: garant programového bodu Vzdělávání a věda, předseda místního sdružení Pirátů Prahy 5, zastupitel městské části Praha 5            	# kratký popis, max 160 znaků
 mail:
 - daniel.mazur@pirati.cz
 mob:			  
 profiles:
-  github:     
+  github:     https://github.com/daniel-mazur
   facebook: 	https://www.facebook.com/daniel.mazur.5268
-  twitter: 		
+  twitter: 		https://twitter.com/DanielMazurP5
   flickr:
 ordpraha: 3	
 ---
 
-Daniel Mazur (* 26. května 1978) je starostou městské části Praha 5, Příznivcem Pirátské strany je od r. 2013, členem od 2014. 
+Daniel Mazur (* 26. května 1978) je zastupitelem městské části Praha 5, od listopadu 2018 do září 2019 i jejím starostou. Členem Pirátů je od června 2014, původně v Praze 6, nyní v Praze 5. 
 
-Narodil se v Praze, má tu trvalé bydliště a vede místní sdružení Pirátské strany na Praze 5. Během studia na střední škole se zapojil do International Young Naturefriends a českého sdružení Duha. Pirátům začal pomáhat po parlamentních volbách 2013, kdy nenašel jinou stranu, která by směřování řešila širokou diskuzí a demokratickým hlasováním. 
+Narodil se v Praze, kde má bydliště celý život, přestože strávil 11 let života studiem a prací v zahraničí. Je zakládajícím členem a předsedou místního sdružení Pirátů na Praze 5. 
 
-V roce 2018 byl zvolen za do zastupitelstva hlavního města Prahy a do zastupitelstva městské části Praha 5. Poté byl zvolen starostou městské části Praha 5. Jako starosta se věnoval hlavně odkrývání [problémových veřejných zakázek](https://praha.pirati.cz/mazur-odvolani.html). V září 2019 byl z dané funkce odvolán v souvislosti s rozpadem koalice kvůli auditu, kde Mazur poukázal na předražené zakázky. 
+Během studia na střední škole se zapojil do International Young Naturefriends a českého sdružení Duha. Pirátům začal pomáhat po parlamentních volbách 2013, když nenašel jinou stranu, která by směřování řešila širokou diskuzí a demokratickým hlasováním. Od podzimu roku 2016 se politicky angažuje v Praze 5. Od jara 2017 je garantem programového bodu Vzdělávání a věda, byl tedy spoluzodpovědný za tvorbu volebního programu pro sněmovní volby 2017 a pražského programu pro komunální volby 2018. Podílí se na plnění těchto volebních programů, mj. podílem na pirátské Strategii vzdělávání 2030+, jednáním o kapitole školství pro Programové prohlášení Rady hl. m. Prahy a v místním měřítku coby zastupitel Prahy 5.
+
+V roce 2018 byl za Piráty zvolen do zastupitelstva hlavního města Prahy a do zastupitelstva městské části Praha 5. Poté, co byl zvolen starostou městské části Praha 5, v souladu s pirátským kodexem na mandát zastupitele hlavního města rezignoval. Jako starosta Prahy 5 se věnoval rozvoji městské části, rozvoji IT infrastruktury úřadu, některým projektům MČ financovaným z rozvojových fondů EU a v návaznosti na interní audit i odkrývání [problémových veřejných zakázek](https://praha.pirati.cz/mazur-odvolani.html). V září 2019 byl z funkce starosty odvolán a Piráti odsunuti do opozice. Rozpad koalice nastartoval Mazur jako starosta tím, že poukázal na nutnost vyvození důsledků z výsledků auditu minulé předražené zakázky včetně nutnosti provedení externího auditu i u dalších minulých zakázek. 
+
+Opoziční práci na Praze 5 nyní odvádí ve Výboru pro otevřenou radnici a agendu ombudsmana, ve Finančním výboru a v Komisi informačních technologií městské části.

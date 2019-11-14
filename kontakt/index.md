@@ -46,8 +46,8 @@ contactSummaryItems:
     body: <a href="/lide/jaromir-beranek">Jaromír Beránek</a>
   - type: custom
     iconClass: fa fa-user
-    label: Předsedkyně zastupiteslkého klubu
-    body: <a href="/lide/michaela-krousova">Michaela Krausová</a>
+    label: Předseda zastupitelského klubu
+    body: <a href="/lide/viktor-mahrik">Viktor Mahrik</a>
 # kontaktní osoby se nastavují v hlavičká _people
 ---
 
