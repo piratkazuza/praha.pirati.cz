@@ -6,7 +6,7 @@ image: 	      smetanovo-nabrezi.jpg
 author:       Zastupitelský klub Pirátů
 ---
 
-Praha, 15. listopadu 2019 – Piráti podporují trvalou uzavírku Smetanova nábřeží a komunikací na Malé Straně pro tranzitní dopravu. Od počátku těchto dopravních opatření šlo primárně o získání dopravních dat. S měřením souhlasila jednomyslně celá koalice, která se ve svém koaličním prohlášení zavázala ke zklidnění dopravy v centru města. Je škoda, že Spojené síly předem vyloučily diskuze o trvalém uzavření těchto lokalit ještě před ukončením sběru a vyhodnocením dat.
+Praha, 15. listopadu 2019 – Piráti podporují uzavírku Smetanova nábřeží a komunikací na Malé Straně pro tranzitní dopravu. Od počátku těchto dopravních opatření šlo primárně o získání dopravních dat. S měřením souhlasila jednomyslně celá koalice, která se ve svém koaličním prohlášení zavázala ke zklidnění dopravy v centru města. Je škoda, že TOP 09 předem vyloučily diskuze o trvalém uzavření těchto lokalit ještě před ukončením sběru a vyhodnocením dat.
 
 Dlouhodobě usilujeme o zklidnění dopravy v centru města v duchu moderních metropolí. Aktuální dopravní opatření berou ohled na potřeby místních obyvatel, zlepšují kvalitu ovzduší a snižují hladinu hluku. Pokud jde o zamezení průjezdu nerezidentům Malou Stranou, uvažovalo se o něm již v souvislosti s otevřením tunelového komplexu Blanka. Bohužel k tomu zatím nedošlo. Krok má ovšem svoji logiku, protože existuje dostatečně kapacitní objízdná trasa.
 
