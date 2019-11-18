@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 img: people/jaromir-beranek.jpg    # 165 x 220
 profilebadge: people/badge/08-beranek.jpg
-description: místopředseda zastupitelského klubu Pirátů, předseda krajského sdružení Pirátů v Praze
+description: místopředseda zastupitelského klubu Pirátů, předseda krajského sdružení Pirátů v Praze<br/> zastupitel s gescemi Smart City, Evropské fondy, finance a inovace
 mail:
 - jaromir.beranek@pirati.cz
 mob:

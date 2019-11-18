@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
 profilebadge: people/badge/06-horakova.jpg
-description: místopředsedkyně zastupitelského klubu Pirátů,    	# kratký popis, max 160 znaků
+description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
 asistenti:
   - name: Lucie Horáková
     uid: lucie.horakova

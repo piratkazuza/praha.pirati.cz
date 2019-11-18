@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220
 profilebadge: people/badge/01-krausova.jpg
-description:  zastupitelka hl. m. Prahy    	# kratký popis, max 160 znaků
+description:  zastupitelka hl. m. Prahy<br/> zastupitelka s gescemi zahr. vztahy, kvalita života    	# kratký popis, max 160 znaků
 mail:
 - misa.krausova@pirati.cz
 mob:			  +420 732 858 172
