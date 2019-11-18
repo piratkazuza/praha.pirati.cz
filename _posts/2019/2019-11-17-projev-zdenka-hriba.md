@@ -18,6 +18,6 @@ Sedmnáctý listopad je den, který se osudově do naší historie zapsal hned d
 
 Možná je vhodná chvíle odhlédnout trochu i od minulosti a zamyslet se, že i v dnešním světě je celá řada dalších zemí, kde stále ještě lidé nedosáhli osudu velkého vítězství tak jako my v roce 1989. V zahraničí jsou stále lid&eac ute;, kteří bojují o holý život kvůli totalitním a autoritářským režimům. Jsou to například země, které jsou na Blízkém východě nebo aktuálně i v Hongkongu. Je smutné, že i v naší společnosti jsou hodnoty jako svoboda, demokracie, respekt k názoru druhých nebo právní stát často skrytě a pomalu erodovány. Bohužel k tomu přispívají i někteří vrcholní představitelé našeho státu.
 
-Každopádně nesmíme být k tomuto potlačování lhostejní. Víru v demokracii a svobodu slova si nesmíme nechat vzít. Nenechme se zastrašovat, nenechme si vzít odvahu vést veřejnou diskuzi. Hlas lidí by měl být slyšet dnes, stejně jako byl slyšet v roce 193 9 a 1989.
+Každopádně nesmíme být k tomuto potlačování lhostejní. Víru v demokracii a svobodu slova si nesmíme nechat vzít. Nenechme se zastrašovat, nenechme si vzít odvahu vést veřejnou diskuzi. Hlas lidí by měl být slyšet dnes, stejně jako byl slyšet v roce 1939 a 1989.
 
 Děkuji za pozornost a přeji Vám hezký zážitek při oslavách výročí. 
