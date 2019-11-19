@@ -11,9 +11,14 @@ img: people/zdenek-hrib.jpg  # 165 x 220
 profilebadge: people/badge/13-hrib.jpg
 description: <br/> primátor hlavního města Prahy
 asistenti:
+  - name: Jiří Hoskovec
+    uid: jiri.hoskovec
+    position: vedoucí oddělení poradců
+    mail: jiri.hoskovec@praha.eu
+    tel: 
   - name: Martina Vacková
     uid: martina.vackova
-    position: vedoucí oddělení poradců
+    position: poradkyně primátora
     mail: martina.vackova@praha.eu
     tel: 
   - name: Veronika Kubičková
