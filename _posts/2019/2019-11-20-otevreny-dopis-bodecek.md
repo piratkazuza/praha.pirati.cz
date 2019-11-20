@@ -21,9 +21,7 @@ Vzhledem ke všem výše uvedeným důvodům, tě Pavle vyzývám k řešení n�
 **Pokud tyto mnou uvedené zásadní požadavky nebudou vyřešeny do 17. 12. 2019, rezignuji na post radního pro majetek.**
 
 * 1. Apeluji na vyřešení tristní situace s demotivovaným tajemníkem úřadu, který má v gesci celkový chod úřadu a odpovědnost za personální situaci zde. Jedná se například o obecně vleklý problém ukončování pracovních poměrů s klíčovými zaměstnanci bez předchozí konzultace v rámci koaličních partnerů.
-
 * 2. Stejně tak žádám o nastavení jasných pravidel pracovněprávních poměrů zástupců tajemníka úřadu a nastavení vhodné formy spolupráce s nimi.
-
 * 3. Dovoluji si požádat o vyřešení tristní personální situace na celém úřadě a vysvětlení průběhu vyhodnocení výběrového řízení na vedoucího hospodářské správy a jak byla nastavena kritéria výběru. Vybírat z jednoho zájemce toho nejlepšího nepovažuji za správné. Co se týče jednotlivých personálních záležitostí, podrobně je rozepisuji níže:
 
  - je nezbytné vyřešení poddimenzovaného personálního obsazení na právním oddělení a nelogické nastavení systému odměňování pro jednotlivé odbory a oddělení v rámci úřadu,
@@ -34,17 +32,11 @@ Vzhledem ke všem výše uvedeným důvodům, tě Pavle vyzývám k řešení n�
  - bdobná situace je na oddělení technicko-provozní, kde žádám o zajištění zaměstnaneckého poměru pro 1 referenta, který bude zpracovávat dokumenty do elektronických systémů. V oddělení správy nemovitostí je nutné doplnit 3 referentská místa.
 
 * 4. Požaduji také nastavení férových a profesionálních procesů na oddělení vnějších vztahů (&quot;PR oddělení&quot;), které kontinuálně nepracuje na rovnoměrném vytváření pozitivního mediálního obrazu všech členů koalice dle volebního výsledku, což škodí zejména klubu Pirátů.
-
 * 5. Opakovaně po roce spolupráce žádám o podepsání programového prohlášení rady v původní verzi z konce roku 2018 a stanovení si klíčových cílů. Mimojiné žádám i o nastavení pravidelných jednání v koalici, dle nastaveného časového harmonogramu.
-
 * 6. Apeluji na podporu přípravy nové bytové koncepce zaměřené primárně na občany Praha 1 a dokončení procesu privatizace a předložení konkrétních stanovisek koaličních partnerů.
-
 * 7. Žádám, aby problematika grantů na opravu domovního fondu zůstala pod gescí radního pro majetek a byla po celé volební období dostatečně finančně podpořena, s minimální přidělenou finanční částkou 20 mil. Kč na jeden rok.
-
 * 8. Dále žádám o dokončení procesu privatizace u vybraných desítek případů, u nichž proces privatizace pokročil a měl by být dokončen.
-
 * 9. Žádám o předložení koncepce, která povede ke ztransparentnění a zefektivnění celého chodu úřadu Prahy 1.
-
 * 10. Na závěr žádám, aby již žádným způsobem nebylo zasahováno do mojí gesce, např. v záležitosti výběrového řízení na ostrahu Polikliniky Palackého.
 
 Předem velice děkuji za vyřešení všech těchto deseti bodů, které považuji za zásadní pro moje další setrvání ve funkci radního.
