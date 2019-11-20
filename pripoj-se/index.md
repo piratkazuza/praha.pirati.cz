@@ -7,70 +7,62 @@ rbar:
 keywords: připoj se, naloď se, nováček, vstup do strany, Piráti, jak se přidat
 ---
 
-## Krok první - Naloď se!
+## Vítáme tě u Pirátů!
 
+## Informace pro registrované příznivce a zájemce o členství
 
-Pokud jsi tak už neučinil, přihlas se do [Nalodění](https://nalodeni.pirati.cz/). Pokud už tam jsi gratuluji - udělal jsi první krok. Změnilo se v zásadě to, že Ti budeme posílat newslettery a pozvánky. V nejbližší době se Ti také ozve koordinátor a zbytkem procesu Tě provede. V Nalodění nám také můžeš dát vědět, co Tě zajímá a spravovat své preference a informace.
+Pirátská strana komunikuje na [fóru](https://forum.pirati.cz/), které je otevřené pro všechny, a proto se i ty můžeš podívat na to, co právě řešíme a jaké máme názory a postoje. Na zbytečné formality si nehrajeme, proto si všichni tykáme.
 
-## Krok druhý - Propoj se s námi online.  Abys pronikl do naší sociální
-bubliny, je dobré se na nás napojit online. Dej like na náš Facebook, klidně
-jak na [celostátní](https://www.facebook.com/ceska.piratska.strana/) tak na
-[pražský](https://www.facebook.com/CeskaPiratskaStranaPraha/) a přidej se do
-naší otevřené skupiny [Piráti - Praha](https://www.facebook.com/groups/125479366717/). 
-Dej like i stránce [Pirátského centra](https://www.facebook.com/PiCePraha/) ať Ti neutečou zajímavé akce (přednášky, workshopy atp.), které se tam
-konají a pokud máš zájem o rozdávání Pirátských listů, demonstrace a
-dobrovolnictví obecně, přidej se ještě do
-[Akčního týmu Pirátů](https://www.facebook.com/groups/1687565638225580/).
-Můžeš taky odebírat náš [Youtube](https://www.youtube.com/piratipraha). Můžeš
-nějakou dobu sledovat naše články a posty, nebo se rovnou vydat nás poznat.
-Všechny naše akce najdeš v
-[Kalendáři](https://praha.pirati.cz/pripoj-se/kalendar/).
+Pro příznivce Pirátů, kteří se chtějí více zapojit do našich aktivit, je nejjednodušší se na fóru zaregistrovat a stát se tak  **registrovaným příznivcem**. Má to řadu výhod:
 
-## Krok třetí - Poznej nás osobně.
-Dalším krokem je se poznat osobně. Jsme sice strana pro 21. století, ale
-věříme, že i v něm je osobní kontakt nenahraditelný. Většina našich akcí je
-veřejně přístupná. Nejlepší je se nejdřív seznámit s Piráty ze svého okolí.
-Rozcestník stránek místních sdružení
-[najdeš tady](https://praha.pirati.cz/mestske-casti/). Seznam akcí najdeš na
-[Kalendáři](https://praha.pirati.cz/pripoj-se/kalendar/) a dáváme je i na
-facebookové stránky (viz Krok druhý).
+- možnost přispívat do internetového fóra a dalších pirátských systémů
+- právo být volen do komisí a jmenován do odborů strany s výjimkou jejího vedení
+- právo ucházet se o kandidaturu do obecních voleb pod Pirátskou vlajkou
+- pravidelné informace o akcích v kraji a každotýdenní Pirátský newsletter.
 
-## Krok čtvrtý - Zapoj se do naší činnosti.  Co bys u Pirátů rád dělal? Zajímáš
-se o komunální celostátní, nebo dokonce evropskou politiku?  Transparenci?
-Legalizaci? Dopravu? Něco úplně jiného? Napiš koordinátorům a oni Tě napojí na
-Piráty, kteří se u Pirátů Tvému tématu věnují. Ostatně poradí Ti i s čímkoli
-dalším, co bys potřeboval vědět.  Můžeš jim napsat na kodo-praha@pirati.cz nebo
-jim zavolej, čísla [najdeš tady](https://wiki.pirati.cz/kodo-praha).
+Při registraci můžeš vyplnit osobní informace, zájmy, zaměstnání apod. Nemusíš prozradit vše, je to na zvážení, ale s reálným člověkem se vždy lépe jedná. My si na otevřenosti zakládáme, občanské jméno je znakem důvěry. Je nezbytně nutné vyplnit funkční e-mail, který pravidelně čteš.
 
-## Krok pátý - Informuj se.  Nyní nastává ta fáze, kdy je to na Tobě. Je možné,
-že chceš být jen příznivec, tu a tam nám s něčím pomoci, tu a tam se stavit na
-nějaké akci a víc Tě nezajímá. To je v pořádku. Možná ale budeš chtít jít
-hlouběji. Zjistit kdo jsme a na jakých myšlenkách stojíme a jaké jsou naše
-dlouhodobé cíle. V tom případě doporučujeme si pročíst
-[Pirátské dvanáctero](https://www.pirati.cz/program/dlouhodoby/dvanactero/) a
-rozhodně [dlouhodobý program](https://www.pirati.cz/program/strana.html).
-Svoje téma, třeba školství nebo zdravotnictví atp. je dobré omrknout i ve
-[volebních programech z minulých let](https://www.pirati.cz/program/) a v
-[příslušných sekcích na fóru](https://forum.pirati.cz/viewforum.php?f=402).
+Jestli tě zajímají i lokální témata, připoj se v registraci ke Krajskému sdružení (KS) a svému nejbližšímu Místnímu sdružení (MS). Můžeš se zapojit do diskusí na fóru a zapojit se do celostátního dění, ale reálné věci se dějí i ve tvém nejbližším okolí. Mnohem lépe se ti bude o Pirátech přemýšlet, když se přijdeš podívat na nějakou schůzi místního či krajského sdružení.
 
-## Krok šestý - Jak se staneš členem?  Pokud zjistíš, že jsi s Piráty na jedné
-vlně a chtěl by ses stát členem, počítej s tím, že to nebude hned. Za členy
-přijímáme jen lidi, které známe a poznat se zabere nějaký čas. Počítej
-minimálně 3 měsíce. Neber to, prosím, nijak osobně, ale na Pirátskou stranu je
-velký tlak a snaha nás zdiskreditovat. Navíc, podílet se na činnosti můžeš
-rovnou, členství k Tomu nepotřebuješ, krom vnitřní demokracie se můžeš do chodu
-strany zapojit i jako registrovaný příznivec či dobrovolník.
+**Postup pro registrované příznivce**
 
-V této fázi je také dobré si nastudovat pravidla, podle kterých fungujeme
-[Stanovy](https://wiki.pirati.cz/rules/st) a
-[jejich výklad](https://wiki.pirati.cz/law/vykladst),
-[Zásady týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys) a
-[další vnitřní pravidla](https://wiki.pirati.cz/rules/start).
+1. Zaregistruj se do [Pirátského fóra](https://forum.pirati.cz/) a zapoj se do dění.
+2. Zaregistruj se do [Nalodění](https://nalodeni.pirati.cz/) a sám si vyber, co tě zajímá.
+3. Kontaktuj krajské koordinátory.
+4. Zúčastni se jakékoliv naší aktivity.
 
-Pokud jsi odhodlán stát se členem, představ se v
-[tomto vlákně na pirátském fóru](https://forum.pirati.cz/viewforum.php?f=434)
-a doraž na Krajskou schůzi (koná se vždy první čtvrtek v měsíci od 18:00 v
-[Pirátském centru](https://praha.pirati.cz/pice/)).
+## Členové
 
+Až se dostatečně zapojíš do aktivit místního sdružení a lépe se poznáme, můžeš se stát členem Pirátské strany. Zapojíš se do rozhodování a můžeš lépe ovlivňovat směřování naší lodi. Za člena tě přijme příslušné Místní nebo Krajské sdružení.
 
+Každý pirátský kraj má své koordinátory, což je něco jako tajemník sdružení. Jsou to lidi v pracovním vztahu se stranou a umí poradit v praktických a formálních věcech.
 
+**Postup pro zájemce o členství**
+
+Pokud se chceš stát členem, tak už jsi pravděpodobně zaregistrovaný na [Pirátském fóru](https://forum.pirati.cz/) i v [Nalodění](https://nalodeni.pirati.cz/) a asi už tě známe i osobně. Přesto tě prosíme:
+
+1. Založ si ve fóru vlákno se svým jménem v sekci [Zájemci o členství](https://forum.pirati.cz/viewforum.php?f=434) a napiš, proč se chceš stát členem a co chceš u Pirátů dělat, nebo už jsi dělal. Jak založit nové vlákno se dozvíš [zde](https://wiki.pirati.cz/ao/navody/forum).
+2. Počkej na všetečné dotazy na fóru. Buď trpělivý. Odpovídej upřímně a neboj se vyjádřit vlastní názor.
+3. Spoj se s nejbližším místním sdružením, přijď na setkání s příznivci a zapoj se. Pokud si nebudeš vědět rady, obrať se na koordinátory. Rádi ti pomůžou.
+4. Naplánuj si cestu na některou ze schůzí KS nebo MS, které se konají zpravidla jednou za měsíc. Včas informuj krajské koordinátory nebo příslušné předsednictvo o své účasti a o tom, že máš zájem o své grilování. Ničeho se neboj, jde především o osobní setkání a zodpovězení doplňujících dotazů. Také se dozvíš něco o struktuře Pirátů, informačních systémech apod.
+5. Na stejném setkání můžeš odevzdat vyplněnou a podepsanou [přihlášku](https://wiki.pirati.cz/ao/sablony/start).
+6. Příslušné předsednictvo poté bude veřejně hlasovat o tvém přijetí.
+7. Po přijetí, prosím, [pošli členský příspěvek](https://www.pirati.cz/fo/navody/prispevek) na náš transparentní účet. Výše příspěvku záleží na tvém vlastním zvážení a finančních možnostech, minimum je 200 Kč, a platí se pravidelně každý rok (můžeš nastavit trvalý příkaz).
+
+## Po přijetí
+
+- Tvůj login pro přihlášení na fórum se změní na Jmeno.Prijmeni.
+- Máš [e-mail a jabber](https://www.pirati.cz/to/navody/email) ve tvaru jmeno.prijmeni@pirati.cz.
+- Můžeš hlasovat na místním, krajském nebo celostátním fóru.
+- Můžeš kandidovat do libovolných funkcí ve [stranických orgánech](https://www.pirati.cz/rules/organizace) či svým hlasem podporovat kandidatury ostatních.
+- Můžeš vytvářet členské podněty
+
+## Hlavní informační systémy Pirátů
+
+- V [internetovém fóru](https://forum.pirati.cz/) najdeš hlasování, podněty a přípravy pro tiskové zprávy nebo pro přijímání členů. Jedná se o místo pro pracovní diskusi strany obecně. Neužívá se však jako chat. Viz také [pravidla fóra](https://www.pirati.cz/ao/pravidla/forum).
+- Web centrální - [pirati.cz](https://www.pirati.cz/) a krajský - [pirati.cz](https://praha.pirati.cz/). Tady prezentujeme program, předpisy, usnesení, zápisy i výstupy z diskuzí na fóru.
+- Kalendář [centrální](https://kalendar.pirati.cz/) a [krajský](https://praha.pirati.cz/pripoj-se/kalendar/). Sem vkládáme všechny happeningy, schůze, zasedání a další významné akce. Pokud bys měl vlastní návrh, kontaktuj našeho koordinátora.
+
+Pokud máš zájem, můžeš si přečíst [návod pro nováčky](https://www.pirati.cz/po/vzdelavani/uvod_do_piratu), [obecné návody](https://www.pirati.cz/po/vzdelavani#vzdelavani_clenu) a návody [technického rázu](https://www.pirati.cz/to/navody/start).
+
+**Vítej na palubě!**
