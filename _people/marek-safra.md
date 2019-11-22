@@ -35,3 +35,4 @@ Zajímá o politiku a všeobecné dění doma i ve světě a proto je rád, že 
 ### Další informace
 
 * [Profesní životopis](/assets/pdf/cv/safra.pdf)
+* [Náplň pozice](/assets/pdf/napln-prace/safra.pdf)

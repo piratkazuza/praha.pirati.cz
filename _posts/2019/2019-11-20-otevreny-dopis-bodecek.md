@@ -7,7 +7,9 @@ author:       David Bodeček
 ---
 
 Mgr. Pavel Čižinský
+
 Starosta městské části Praha 1
+
 Praha sobě
 
 **Otevřený dopis starostovi Prahy 1 ve věci řešení nefunkčního a personálně podhodnoceného úřadu**
