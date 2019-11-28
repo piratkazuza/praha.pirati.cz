@@ -1,7 +1,7 @@
 ---
 date:         2019-11-28
-tags:         doprava
-title:        "Jana Belecová, radní Prahy 3: „Odvolání ředitelky Za Trojku byla nezbytnost“."
+tags:         praha-3
+title:        "Jana Belecová, radní Prahy 3: „Odvolání ředitelky Za Trojku byla nezbytnost“"
 image: 	      belecova.jpg
 author:       Jana Belecová
 ---
