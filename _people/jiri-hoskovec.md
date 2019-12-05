@@ -28,7 +28,7 @@ Jiří Hoskovec je zastupitel MČ Praha 6 a hospodář mediálního odboru Pirá
 
 Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera.
 
-Po dobu jednoho roku působil jako pirátský nominant v dozorčí radě společnosti společnosti Technická správa komunikací a.s.
+Do listopadu 2019 působil jako místopředseda dozorčí rady společností Technická správa komunikací a.s.
 
 Od listopadu 2019 působí jako vedoucí oddělení poradců primátora hl. m. Prahy.
 
