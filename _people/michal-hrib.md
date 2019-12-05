@@ -6,6 +6,9 @@ titles:
   after:
 category: 
 - kodo
+- kontaktni_osoba
+img: people/michal-hrib.jpg
+contactType: Kontakt pro dobrovolníky
 ordkodo: 6
 img: people/michal-hrib.jpg
 contactType: Koordinátor dobrovolníků
