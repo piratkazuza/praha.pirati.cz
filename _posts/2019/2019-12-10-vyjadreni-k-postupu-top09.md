@@ -20,3 +20,8 @@ Radní Adam Zábranský se zasloužil o velký posun v problematice městského 
  
 Já osobně mám na starosti, dle radou schváleného rozdělení gescí, konkrétně zahraniční vztahy, EU fondy a IT. Proto jsem představil nedávno prototyp nového Portálu pražana, kde si budou moci lidé vyřídit své záležitosti s městem. Ostatní oblasti mají své gesčně příslušné radní, kteří každodenně hledají shodu s koaličními partnery na dalším rozvoji města.
 
+### Dodatek
+
+V průběhu úterý, 10. prosince, odsouhlasil Zastupitelský klub Pirátů usnesení s následujícím zněním: "Zastupitelskému klubu Pirátů v Zastupitelstvu hlavního města Prahy záleží na vyjasnění situace s TOP 09. Žádáme proto TOP 09, aby nás její zástupci seznámili s konkrétními výhradami k práci primátora, případně s dalšími konkrétními náměty ke zlepšení vzájemné spolupráce, které si važíme.“
+
+
