@@ -24,12 +24,12 @@ měsíčně.
 
 {% include tables/zebra.html title='Přehled odměn poradců na hlavní pracovní poměr' table=site.data.csv.odmeny-poradcu %}
 
-[Jiří Hoskovec](/people/jiri-hoskovec.html) [Marek Šafra](/people/marek-safra.html) [Martin Kameník](/people/martin-kamenik.html) [Veronika Kubičková](/people/veronika-kubickova.html) [Martina Vacková](/people/martina-vackova.html) [Adéla Cinkaničová](/people/adela-cinkanicova.html) [Eva Wagner](/people/eva-wagner.html)
+[Jiří Hoskovec](/people/jiri-hoskovec) [Marek Šafra](/people/marek-safra) [Martin Kameník](/people/martin-kamenik) [Veronika Kubičková](/people/veronika-kubickova) [Martina Vacková](/people/martina-vackova) [Adéla Cinkaničová](/people/adela-cinkanicova) [Eva Wagner](/people/eva-wagner)
 
 {% include tables/zebra.html title='Přehled odměn poradců na DPČ' table=site.data.csv.odmeny-poradcu-2 %}
 
-[Tomáš Vovsík](/people/tomas-vovsik.html) [Martin Štěrba](/people/martin-sterba.html)
+[Tomáš Vovsík](/people/tomas-vovsik) [Martin Štěrba](/people/martin-sterba)
 
 {% include tables/zebra.html title='Přehled odměn poradčů pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
 
-[Jaroslav Vlk](/people/jaroslav-vlk.html) [Petr Přenosil](/people/petr-prenosil.html)
+[Jaroslav Vlk](/people/jaroslav-vlk) [Petr Přenosil](/people/petr-prenosil)
