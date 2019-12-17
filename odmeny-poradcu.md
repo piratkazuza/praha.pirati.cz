@@ -20,7 +20,7 @@ Poradci zaměstnaní na DPČ jsou placeni podle odpracovaných hodin v daném m�
 Poradci najatí jako OSVČ fakturují podle odpracovaných hodin v daném měsíci, v průměru 12 430 Kč
 měsíčně.
 
-**Všechny uvedené mzdy jsou hrubé**
+**Všechny uvedené mzdy jsou hrubé**. Všechny údaje jsou platné k prosinci 2019
 
 {% include tables/zebra.html title='Přehled odměn poradců na hlavní pracovní poměr' table=site.data.csv.odmeny-poradcu %}
 
