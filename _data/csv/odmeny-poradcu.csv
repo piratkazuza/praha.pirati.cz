@@ -1,12 +1,9 @@
-Jméno poradce,tabulková měsíční hrubá mzda,průměrná měsíční mimořádná odměna,přípatek za vedení,součet
-Jiří Hoskovec,37620–42980,17400–26250,4520,59540–69500
-Martina Vacková,37620–42980,17400–22000,0,55020–64980
-Adéla Cinkaničová,37620–42980,17400–22000,0,55020–64980
-Eva Wagner,37620–42980,17400–22000,0,55020–64980
-Martin Štěrba,25500–28800,0,0,25500–28800
-Veronika Kubičková,37620–42980,17400–22000,0,55020–64980
-Eva Wagner,37620–42980,17400–22000,0,55020–64980
-Jaroslav Vlk,12430,0,0,12430
-Eva Wagner,37620–42980,17400–22000,0,55020–64980
-Tomáš Vovsík,25500–28800,0,0,25500–28800
-Petr Přenosil,12430,0,0,12430
+Jméno,tabulkový plat,příplatek za vedení,průměrná mimořádná měsíční odměna,celková hrubá měsíční mzda
+"Hoskovec Jiří, Ing.",43000,4520,Nebyl v rozhodné době ve funkci,48000
+"Šafra Marek, Mgr",39000,0,17000–21000,56000–60000
+"Kameník Martin, Mgr.",43000,0,17000–21000,60000–64000
+"Kubičková Veronika",38000,0,17000–21000,55000–59000
+"Vacková Martina, Bc.", 41000,0,22000–26000,63000–67000
+"Cinkaničová Adéla",40000,0,17000–21000,57000–61000
+"Wagner Eva, Bc",38000,0,17000–21000,55000–59000
+
