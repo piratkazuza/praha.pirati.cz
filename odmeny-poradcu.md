@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Odměny poradců primátora
-#rbar: people
+#rbar: lide
 ---
 
 Odměňování poradců primátora hl. m. Prahy Magistrát hl. m. Prahy pod vedením Pirátů pokračuje ve své transparentnosti vůči veřejnosti a posilování transparentnosti a zveřejňuje platy poradců primátora Zdeňka Hřiba, o kterých v posledních dnech proběhlo v médiích spoustu dezinformací. Odměňování těchto zaměstnanců se určuje podle tabulek, které jsou vydávány nařízením vlády (nařízení vlády č. 341/2017 Sb., o platových poměrech zaměstnanců ve veřejných službách a správě, ve znění pozdějších předpisů, a nařízení vlády č. 304/2014 Sb., o platových poměrech státních zaměstnanců, ve znění pozdějších předpisů). Platové stupně se i v tomto případě řídí legislativou podle délky praxe, a platové třídy se řídí podle toho, jak zodpovědnou, významnou a složitou práci pracovník vykonává, zohledňuje se zde i vzdělání. Aktuálně je na Oddělení poradců zaměstnáno na hlavní pracovní poměr 7 osob, v rámci DPČ 2 osoby a 2 osoby odbor Kancelář primátora najímá jako OSVČ.
@@ -24,12 +24,12 @@ měsíčně.
 
 {% include tables/zebra.html title='Přehled odměn poradců na hlavní pracovní poměr' table=site.data.csv.odmeny-poradcu %}
 
-[Jiří Hoskovec](/people/jiri-hoskovec) [Marek Šafra](/people/marek-safra) [Martin Kameník](/people/martin-kamenik) [Veronika Kubičková](/people/veronika-kubickova) [Martina Vacková](/people/martina-vackova) [Adéla Cinkaničová](/people/adela-cinkanicova) [Eva Wagner](/people/eva-wagner)
+[Jiří Hoskovec](/lide/jiri-hoskovec) [Marek Šafra](/lide/marek-safra) [Martin Kameník](/lide/martin-kamenik) [Veronika Kubičková](/lide/veronika-kubickova) [Martina Vacková](/lide/martina-vackova) [Adéla Cinkaničová](/lide/adela-cinkanicova) [Eva Wagner](/lide/eva-wagner)
 
 {% include tables/zebra.html title='Přehled odměn poradců na DPČ' table=site.data.csv.odmeny-poradcu-2 %}
 
-[Tomáš Vovsík](/people/tomas-vovsik) [Martin Štěrba](/people/martin-sterba)
+[Tomáš Vovsík](/lide/tomas-vovsik) [Martin Štěrba](/lide/martin-sterba)
 
 {% include tables/zebra.html title='Přehled odměn poradčů pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
 
-[Jaroslav Vlk](/people/jaroslav-vlk) [Petr Přenosil](/people/petr-prenosil)
+[Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil)
