@@ -30,6 +30,6 @@ měsíčně.
 
 [Tomáš Vovsík](/lide/tomas-vovsik) [Martin Štěrba](/lide/martin-sterba)
 
-{% include tables/zebra.html title='Přehled odměn poradčů pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
+{% include tables/zebra.html title='Přehled odměn poradců pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
 
 [Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil)
