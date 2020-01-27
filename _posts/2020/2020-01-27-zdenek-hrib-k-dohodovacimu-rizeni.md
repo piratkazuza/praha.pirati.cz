@@ -6,7 +6,7 @@ image: 	      0hrib.jpg
 author:       Zdeněk Hřib
 ---
 
-Za dopravu v Praze je odpovědný tým tým Jana Čižinského. Pokud se ukáže, že zakázka na servis metra byla předražená, nebo že existovalo více možných dodavatelů, očekávám odchod ředitele nominovaného Prahou sobě i celého stávajícího představenstva DPP, které zakázku schválilo, včetně nominantů Spojených sil. Na dnešním koaličním jednání jsme se proto dohodli, že proběhne prověření této zakázky s možností účasti opozice.
+Za dopravu v Praze je odpovědný tým Jana Čižinského. Pokud se ukáže, že zakázka na servis metra byla předražená, nebo že existovalo více možných dodavatelů, očekávám odchod ředitele nominovaného Prahou sobě i celého stávajícího představenstva DPP, které zakázku schválilo, včetně nominantů Spojených sil. Na dnešním koaličním jednání jsme se proto dohodli, že proběhne prověření této zakázky s možností účasti opozice.
 
 Shodli jsme se na tom, že náměstek pro dopravu Adam Scheinherr připraví změnu stanov DPP, tak aby o významných zakázkách v DPP byla informována i rada města, tak aby kompletní informace měli k dispozici všichni radní a včas.
 
