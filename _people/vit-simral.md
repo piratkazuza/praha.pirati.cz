@@ -25,6 +25,11 @@ asistenti:
     position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: prokop.laichter@praha.eu
     tel: 236 00 2944
+  - name: Helena Barkmannová
+    <!--uid: helena.barkmannova-->
+    position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: helena.barkmannova@praha.eu
+    <!--tel: 236 00 2944-->
 mail:
 - vit.simral@pirati.cz
 mob: +420 606 220 985
