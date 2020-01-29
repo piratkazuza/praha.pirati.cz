@@ -27,7 +27,7 @@ asistenti:
     tel: 236 00 2944
   - name: Helena Barkmannová
     <!--uid: helena.barkmannova-->
-    position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: helena.barkmannova@praha.eu
     <!--tel: 236 00 2944-->
 mail:
