@@ -1,8 +1,8 @@
 ---
 date:         2020-02-03
-tags:         bydlení
+tags:         zahraničí
 title:        "Praha uzavře s Vídní smlouvu o spolupráci"
-image: 	      hrib-stab.jpg
+image: 	      7hrib.jpg
 author:       MHMP
 ---
 
