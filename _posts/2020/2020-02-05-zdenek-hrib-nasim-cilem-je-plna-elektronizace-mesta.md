@@ -1,7 +1,7 @@
 ---
 date:         2020-02-05
 tags:         digitalizace
-title:        "Zdeněk Hřib: Chemce plnou elektronizaci služeb města. S Ministerstvem vnitra projednáme možnosti zpřístupnění autentifikační služby státu samosprávám"
+title:        "Zdeněk Hřib: Chceme plnou elektronizaci služeb města. S Ministerstvem vnitra projednáme možnosti zpřístupnění autentifikační služby státu samosprávám"
 image: 	      magistrat2.jpg
 author:       Zdeněk Hřib
 ---
