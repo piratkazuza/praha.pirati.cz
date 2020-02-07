@@ -37,6 +37,8 @@ Pracovní nabídku do farmaceutické firmy dostala v roce 2005 a do roku 2018 by
 
 Angažuje se v aktivitách souvisejících s dosavadní praxí a vzděláním a to jsou zdravotnictví, sociální práce a dobrovolnictví. Před vlastní transplantací v roce 2011 chodila darovat krev. Již 8 let má transplantovanou ledvinu od žijícího dárce (maminky). Při poslední návštěvě svatého otce Dalajlamy, byla dobrovolník na jeho setkání a setkala se s ním i osobně.
 
-Od roku 2016 pravidelně přispívám na Dobrého anděla, pomáhat má smysl.
+Společně s kolegou Martinem Ardenem a Evou Tichou připravuje každou druhou neděli pirátské guláše, tedy dobrovolný výdej stravy pro lidi na ulici a bez přístřeší. Připravují kolem 50 výdejů stravy, pochutit a vydávají i oblečení.
+
+Od roku 2016 je Dobrým andělem a od roku 2019 podporuje organizaci Dobré víly. Její motto zní: „Pomáhat má smysl“, ji dává každodenní náplň věnovat se těžkým společenským problémům.
 
 A také věří, věří že pravda a láska zvítězí nad lží a nenávistí.
