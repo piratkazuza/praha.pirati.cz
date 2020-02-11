@@ -72,6 +72,8 @@ ordpraha: 1
 ---
 **Zdeněk Hřib** (\* 1981) žije v Praze, kde vystudoval 3. lékařskou fakultu Univerzity Karlovy. Je ředitelem obecně prospěšné společnosti Institut pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví. Publikoval řadu článků v odborném i laickém tisku (Zdravotnické noviny, Medical Tribune, EURO, IT Systems, CIO Business World, Sdělovací technika, International Journal for Quality in Health Care, …). Byl členem několika pracovních skupin k tématům informatiky, kvality a efektivity služeb na úrovni ministerstva, Světové zdravotnické organizace a EU. Dále se zabývá návrhy a realizací rozsáhlých informačních systémů. Je ženatý a má 3 děti.
 
-### Odkazy 
+### Transparentnost 
 
 * [Veřejný kalendář primátora](https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html)
+* [Životopis primátora](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/stranky_radnich/primator_zdenek_hrib/zivotopis/index.html)
+* [Platové podmínky a ohodnocení poradců primátora](/odmeny-poradcu.html)
