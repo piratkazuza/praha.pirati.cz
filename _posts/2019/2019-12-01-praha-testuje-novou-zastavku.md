@@ -28,6 +28,6 @@ Testovací prototyp bude na Palackého náměstí umístěn celkem šest měsíc
 
 > „Po více než dvaceti letech získá Praha zastávky do svého majetku a bude tak nad nimi mít kontrolu nejenom z pohledu jejich rozmístění, funkčnosti, ale také nad reklamou. Tento dohled Praze dodnes chyběl,“ uzavírá Ondřej Boháč, ředitel IPR Praha.
 
-Více informací naleznete zde: [www.iprpraha.cz/mobiliarzastavka](www.iprpraha.cz/mobiliarzastavka)
+Více informací naleznete zde: [www.iprpraha.cz/mobiliarzastavka](http://www.iprpraha.cz/mobiliarzastavka)
 
  
