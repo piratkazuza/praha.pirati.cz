@@ -16,4 +16,4 @@ Uzavřená smlouva je komplexním dokumentem, který obsahuje nejen mechanismy p
 
 ### Odkazy
   
-* [Koaliční smlouva](https://github.com/pirati-web/praha4.pirati.cz/blob/gh-pages/assets/img/posts/Koali%C4%8Dn%C3%AD%20smlouva%20Pir%C3%A1ti%20Praha%204.pdf) (archivní formát PDF/A dle ISO 19005-1, který zajišťuje možnost čtení dokumentu i v dlouhodobém horizontu)
+* [Koaliční smlouva](https://praha4.pirati.cz/assets/img/posts/Koali%C4%8Dn%C3%AD%20smlouva%20Pir%C3%A1ti%20Praha%204.pdf) (archivní formát PDF/A dle ISO 19005-1, který zajišťuje možnost čtení dokumentu i v dlouhodobém horizontu)
