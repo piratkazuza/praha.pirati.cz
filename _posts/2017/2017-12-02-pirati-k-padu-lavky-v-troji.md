@@ -16,4 +16,4 @@ Piráti v roce 2016 podávali spolu se Zelenými a Nadačním fondem proti korup
 
 ### Odkazy
 
-* [Analýza o stavu pražských mostů, svěřených do správy Technické správy komunikací hl. m. Prahy, kterou Rada hl. m. Prahy "vzala na vědomí"](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/analyza-mostu.pdf) 
+* [Analýza o stavu pražských mostů, svěřených do správy Technické správy komunikací hl. m. Prahy, kterou Rada hl. m. Prahy "vzala na vědomí"](/assets/pdf/analyza-mostu.pdf) 

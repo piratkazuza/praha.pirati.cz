@@ -16,4 +16,4 @@ Nápad na zákaz alkoholu v centru města Magistrát se zastupiteli zatím ani n
 
 ### Odkazy
 
-* [Návrh nové verze protialkoholní vyhlášky Prahy](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/vyhlaska.pdf)
+* [Návrh nové verze protialkoholní vyhlášky Prahy](/assets/pdf/vyhlaska.pdf)

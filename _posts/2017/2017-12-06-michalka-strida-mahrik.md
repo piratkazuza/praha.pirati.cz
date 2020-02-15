@@ -19,5 +19,5 @@ Namísto Michálka usedne v pražském zastupitelstvu první náhradník Viktor 
 
 ### Odkazy 
 
-* [Rezignační dopis Jakuba Michálka](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/img/posts/rezignacni-dopis.jpg)
+* [Rezignační dopis Jakuba Michálka](/assets/img/posts/rezignacni-dopis.jpg)
 * [V pražském zastupitelstvu dojde k obměně, nastoupí Piráti Viktor Mahrik a Ondřej Kallasch](https://praha.pirati.cz/obmena-v-klubu-nastoupi-mahrik-kallasch.html)

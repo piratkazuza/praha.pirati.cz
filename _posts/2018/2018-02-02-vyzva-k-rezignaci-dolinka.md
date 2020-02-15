@@ -24,5 +24,5 @@ Piráti kritizují laxnost Rady hlavního města Prahy. Vedení města mohlo mos
 
 ### Odkazy
 
-* [Příloha 1 – Praktická ukázka nekvalitní údržby Libeňského mostu s komentářem soudní znalkyně Miloslavy Pošvářové](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/udrzba-libenskeho-mostu.pdf)
+* [Příloha 1 – Praktická ukázka nekvalitní údržby Libeňského mostu s komentářem soudní znalkyně Miloslavy Pošvářové](/assets/pdf/udrzba-libenskeho-mostu.pdf)
 
