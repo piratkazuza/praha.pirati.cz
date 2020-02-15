@@ -48,5 +48,5 @@ Na co se bude Rada hl. m. Prahy v celém svém funkčním období zaměřovat, j
 
 ### Odkazy
 
-* [Prezentace půlročního plánu](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/prezentace-pulrocniho-planu.PDF)
+* [Prezentace půlročního plánu](/assets/pdf/prezentace-pulrocniho-planu.PDF)
 * [Videozáznam tiskové konference](https://www.facebook.com/CeskaPiratskaStranaPraha/videos/2269794473254189/)
