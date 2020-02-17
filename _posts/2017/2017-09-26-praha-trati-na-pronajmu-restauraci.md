@@ -18,4 +18,4 @@ Piráti dlouhodobě upozorňují na nehospodárné pronajímání nebytových pr
 
 ### Odkazy
 
-* [Přehled nájmů vybraných pražských restaurací na Praze 1, které pronajímá MHMP](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/xlsx/restaurace-p1.xlsx)
+* [Přehled nájmů vybraných pražských restaurací na Praze 1, které pronajímá MHMP](/assets/xlsx/restaurace-p1.xlsx)

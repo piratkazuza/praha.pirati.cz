@@ -14,4 +14,4 @@ Piráti pokračují v boji proti koncesi na provoz Nemocnice Na Františku na 35
 
 ## Odkazy
 
-* Podání Pirátů Úřadu pro ochranu hospodářské soutěže z pera Zdeňka Hřiba: [https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/podnet-uohs.pdf](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/podnet-uohs.pdf)
+* Podání Pirátů Úřadu pro ochranu hospodářské soutěže z pera Zdeňka Hřiba: [podnet-uohs.pdf](/assets/pdf/podnet-uohs.pdf)

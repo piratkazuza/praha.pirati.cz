@@ -22,4 +22,4 @@ Pravomoc předkládat Poslanecké sněmovně návrhy zákonů dává Zastupitels
 
 ### Odkazy
 
-* [Novela zákona o směnárnách z pera Pirátů](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/novela-smenarny.pdf)
+* [Novela zákona o směnárnách z pera Pirátů](/assets/pdf/novela-smenarny.pdf)
