@@ -5,7 +5,7 @@ title: "Radou Prahy 4 prošel pirátský návrh na ztransparentnění veřejnýc
 date: 2019-04-03
 author: "Piráti Praha 4"
 image: praha4.jpg
-tags: verejne zakazky transparence 
+tags: verejne zakazky transparentnost 
 ---
 
 <b>Rada městské části Praha 4 dnes na svém zasedání schválila návrh pirátského radního pro investice a majetek Mateje Šandora o ztransparentnění veřejných zakázek. Záběr veřejně soutěžených zakázek se zvýší díky snížení cenového limitu, uchazeči se budou zveřejňovat, lhůty k podávání nabídek se prodlužují a ze hry jsou nově firmy s nejasnou vlastnickou strukturou.</b>
