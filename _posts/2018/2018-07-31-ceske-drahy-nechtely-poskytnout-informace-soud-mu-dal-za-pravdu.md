@@ -1,7 +1,7 @@
 ---
 date:         2018-07-31
 category:     blog
-tags:         kauzy české-dráhy
+tags:         kauzy České-dráhy
 layout:       post
 title:        České dráhy nechtěly Pirátovi poskytnout informace o Kleslové, soud mu dal za pravdu
 image:        kleslova-vlak.png

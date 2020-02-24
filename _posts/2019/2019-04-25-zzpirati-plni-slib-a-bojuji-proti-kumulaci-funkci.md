@@ -6,7 +6,7 @@ title: >-
 date: '2019-04-25 00:01am'
 author: Mediální odbor
 image: arden-kos.jpg
-tags: praha transparence
+tags: praha transparentnost
 ---
 
 Praha, 25. dubna 2019 – Martin Arden a Ladislav Kos ml. dnes na Zastupitelstvu hl. m. Prahy nahradili uvolněné zastupitele Daniela Mazura a Tibora Vansu. Ti v období do půl roku po zvolení do funkce zároveň vykonávali uvolněné funkce v jiných městských částech. Piráti tento mechanismus avizovali v povolební strategii pro volby do zastupitelstva magistrátu Hlavního města Prahy 2018. Oba uvolnění zastupitelé doručili písemně svoji rezignaci primátorovi Zdeňkovi Hřibovi, konkrétně Daniel Mazur 3. dubna a Tibor Vansa 8. dubna. Primátor jejich rezignaci přijal a tím dnem zanikl jejich zastupitelský mandát na Zastupitelstvu hl. m Prahy. Do půl roku po zvolení do funkce starosty Prahy 11, složí svůj zastupitelský post také starosta Prahy 11 a zároveň zastupitel Magistrátu hl. m. Prahy Jiří Dohnal.
