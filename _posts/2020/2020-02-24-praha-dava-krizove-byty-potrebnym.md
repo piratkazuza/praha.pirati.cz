@@ -1,7 +1,7 @@
 ---
 date:         2020-02-24
 tags:         bydlení
-title:        "Praha dává krizové byty k dispozici potřebným"
+title:        "Praha propůjčuje krizové byty k dispozici potřebným"
 image: 	      adam-zabransky-3.jpg
 author:       MHMP
 ---
