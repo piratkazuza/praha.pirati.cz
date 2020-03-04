@@ -1,7 +1,7 @@
 ---
 date:         2020-03-04
 tags:         zdravotnictví praha-6
-title:        "Tiskové prohlášení k podezření na výskyt koronaviru v Praze 6"
+title:        "Zdeněk Hřib: Apeluji na respektování stávajících doporučení státní hygienické služby"
 image: 	      praha6.jpg
 author:       MHMP
 ---
