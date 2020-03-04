@@ -5,8 +5,7 @@ titles:
   before: 
   after:
 category: 
-- kodo
-ordkodo: 5
+ordkodo: 
 img: people/adela-hradilova.jpg
 contactType: Koordinátorka dobrovolníků
 description: Koordinátorka dobrovolníků, správkyně Pirátského centra
