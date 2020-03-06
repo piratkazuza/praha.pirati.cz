@@ -6,8 +6,10 @@ titles:
   after:  PhD.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
+- vybor
 img: people/daniel-mazur.jpg    # 165 x 220
 description: garant programového bodu Vzdělávání a věda, předseda místního sdružení Pirátů Prahy 5, zastupitel městské části Praha 5            	# kratký popis, max 160 znaků
+descvyb: Člen výboru pro bezpečnost ZHMP
 mail:
 - daniel.mazur@pirati.cz
 mob:			  
@@ -17,9 +19,10 @@ profiles:
   twitter: 		https://twitter.com/DanielMazurP5
   flickr:
 ordpraha: 3	
+ordvybor: 28
 ---
 
-Daniel Mazur (* 26. května 1978) je zastupitelem městské části Praha 5, od listopadu 2018 do září 2019 i jejím starostou. Členem Pirátů je od června 2014, původně v Praze 6, nyní v Praze 5. 
+Daniel Mazur (* 26. května 1978) je zastupitelem městské části Praha 5, od listopadu 2018 do září 2019 i jejím starostou. Je rovněž i členem výboru pro bezpečnost v ZHMP. Členem Pirátů je od června 2014, původně v Praze 6, nyní v Praze 5. 
 
 Narodil se v Praze, kde má bydliště celý život, přestože strávil 11 let života studiem a prací v zahraničí. Je zakládajícím členem a předsedou místního sdružení Pirátů na Praze 5. 
 

@@ -8,9 +8,11 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 - carousel
+- vybor
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 profilebadge: people/badge/04-mahrik.jpg
-description: 			zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti             	        			# kratký popis, max 160 znaků
+description: 			zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti       	        			# kratký popis, max 160 znaků
+descvyb: Předseda výboru pro správu majetku a maj. podíly ZHMP, člen výboru pro dopravu
 asistenti:
   - name: Josef Kubát
     uid: josef.kubat
@@ -30,6 +32,7 @@ profiles:
   twitter: https://twitter.com/_ViM
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
 ordpraha: 4
+ordvybor: 4
 ordcar: 3
 carousel:
   img: viktor-mahrik.jpg
@@ -39,7 +42,7 @@ redmine: 5
 calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
 ---
 
-Viktor Mahrik (* 21. dubna 1982) je předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Praha a místopředseda místního sdružení Praha 6.
+Viktor Mahrik (* 21. dubna 1982) je předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Praha a místopředseda místního sdružení Praha 6. Je rovněž předsedou výboru pro správu majetku a majetkové podíly ZHMP a členem výboru pro dopravu ZHMP.
 
 Vystudoval gymnázium v Praze 6 v Arabské ulici, kde získal mimo jiné klasické vzdělání. V průběhu studia na VŠ se zabýval matematikou, pedagogikou, informačními technologiemi a nyní studuje Řízení podniku a podnikové finance na VŠFS. Během studia se zabýval vzděláváním seniorů v oblasti IT a působil jako lektor rekvalifikačních kurzů. V současné době pracuje jako specialista internetových výzkumů ve společnosti Gemius a má na starosti výzkum měření návštěvnosti českého internetu.
 

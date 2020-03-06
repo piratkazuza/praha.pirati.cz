@@ -7,9 +7,11 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
+- vybor
 img: people/michaela-krausova.jpg   # 165 x 220
 profilebadge: people/badge/01-krausova.jpg
 description:  zastupitelka hl. m. Prahy<br/> zastupitelka s gescemi zahr. vztahy, kvalita života    	# kratký popis, max 160 znaků
+descvyb: členka výboru pro správu majetku a maj. podílů, členka výboru pro výchovu a vzdělávání ZHMP, členka kontrolního výboru ZHMP
 mail:
 - misa.krausova@pirati.cz
 mob:			  +420 732 858 172
@@ -19,9 +21,10 @@ profiles:
   twitter: 	https://twitter.com/piratkamisa  
   flickr:		  
 ordpraha: 8
+ordvyb: 6
 ---
 
-**Michaela Krausová** je zastupitelka hl m. Prahy Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze.
+**Michaela Krausová** je zastupitelka hl m. Prahy Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze. Je členkou výboru pro správu majetku a maj. podílů ZHMP, výboru pro výchovu a vzdělávání ZHMP a kontrolního výboru ZHMP.
 
 Vztah k Pirátům získala především díky jejich otevřenosti, transparenci a kvůli efektivnímu využití moderních technologií, bez kterých se ve 21. století nelze obejít. Ráda by žila ve společnosti, která je vzdělaná, svobodná a digitálně propojená.
 
