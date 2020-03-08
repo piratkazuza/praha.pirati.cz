@@ -15,3 +15,5 @@ package-lock.json
 .bundle
 vendor
 .DS_Store
+
+*.swp
