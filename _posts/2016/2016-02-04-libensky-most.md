@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Jan Loužek
 image:	most-breci.jpg
-tags:	praha-7 praha-8 majetek doprava libensky-most
+tags:	praha-7 praha-8 majetek doprava libeňský-most
 date:	2016-02-04
 ---
 

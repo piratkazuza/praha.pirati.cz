@@ -1,7 +1,7 @@
 ---
 date:         2018-02-02
 category:     blog
-tags:         doprava libensky-most
+tags:         doprava libeňský-most
 layout:       post
 title:        "Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů" 
 image:        ruiny-mostu.jpg

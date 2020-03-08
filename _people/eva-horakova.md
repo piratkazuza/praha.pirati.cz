@@ -7,9 +7,11 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
+- vybor
 img: people/eva-horakova.jpg   # 165 x 220
 profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
+descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
   - name: Lucie Horáková
     uid: lucie.horakova
@@ -25,11 +27,12 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 5
+ordvyb: 7
 redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---
 
-**Mgr.Eva Horáková** (*1980) je předsedkyně Výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
+**Mgr.Eva Horáková** (*1980) je předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
 
 Pochází z východních Čech, od 18ti let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.
 

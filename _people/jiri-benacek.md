@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
 img: people/jiri-benacek.jpg   # 165 x 220
 description:  člen dozorčí rady společnosti Zdroj pitné vody Káraný a.s.   	# kratký popis, max 160 znaků
 mail:

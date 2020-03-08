@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
 image:	pocitace.jpg
-tags:	IT magistrát
+tags:	informatika magistrát
 date:	2015-04-21
 ---
 

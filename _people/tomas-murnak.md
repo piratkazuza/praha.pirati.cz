@@ -4,9 +4,11 @@ name:     Tomáš Murňák  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
+- vybor
 img: people/tomas-murnak.jpg   # 165 x 220
 profilebadge: people/badge/05-murnak.jpg
-description: zastupitel hl. m. Prahy za Piráty a předseda místního sdružení Prahy 13<br/> zastupitel s gescemi územní rozvoj, legislativa, živ. prostředí            	# kratký popis, max 160 znaků
+description: zastupitel hl. m. Prahy za Piráty a předseda místního sdružení Prahy 13<br/> zastupitel s gescemi územní rozvoj, legislativa, živ. prostředí           	# kratký popis, max 160 znaků
+descvyb: předseda výboru pro legislativu ZHMP, místopředseda výboru pro územní rozvoj a územní plán ZHMP,<br/> člen výboru pro životní prostředí, infrastrukturu a vybavenost ZHMP
 asistenti:
   - name: Michaela Beránková
     uid: michaela.berankova
@@ -22,6 +24,7 @@ profiles:
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
 ordpraha: 7
+ordvyb: 20
 redmine: 55
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---

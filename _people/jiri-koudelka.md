@@ -7,12 +7,15 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
+- vybor
 img: people/jiri-koudelka.jpg   # 165 x 220
 description: Zastupitel na Praze 13, člen dozorčí rady společnosti Operátor ICT a.s.     	# kratký popis, max 160 znaků
+descvyb: Člen výboru pro IT a Smart City ZHMP
 mail:
 - jiri.koudelka@pirati.cz
 mob:
 orddr: 3
+ordvyb: 2
 profiles:
   github:       
   facebook:    
@@ -20,7 +23,7 @@ profiles:
   flickr:		  
 ---
 
-**Jiří Koudelka** (* 2. srpna 1981) je členem Pirátů od dubna 2017 a 2. místopředsedou sdružení Pirátů na Praze 13 od května 2018. Narodil se v Mělníce, nicméně většinu života strávil na Praze 13 a 17.
+**Jiří Koudelka** (* 2. srpna 1981) je členem Pirátů od dubna 2017 a 2. místopředsedou sdružení Pirátů na Praze 13 od května 2018. Je rovněž členem výboru pro IT a Smart City v ZHMP. Narodil se v Mělníce, nicméně většinu života strávil na Praze 13 a 17.
 
 Vystudoval Gymnázium U Libeňského zámku, obor informatika. Dva roky strávil na FEL ČVUT a získal titul bakaláře na VŠE v oboru informatika a statistika. Už během studia se věnoval práci v IT firmách.
 
