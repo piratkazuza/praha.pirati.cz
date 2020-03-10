@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 img: people/daniel-mazur.jpg    # 165 x 220
 description: garant programového bodu Vzdělávání a věda, předseda místního sdružení Pirátů Prahy 5, zastupitel městské části Praha 5            	# kratký popis, max 160 znaků
-descvyb: Člen výboru pro bezpečnost ZHMP
+descvyb: člen výboru pro bezpečnost ZHMP
 mail:
 - daniel.mazur@pirati.cz
 mob:			  
