@@ -8,7 +8,7 @@ author:       MHMP
 
 V pátek odpoledne se sešla pracovní skupina Krizového štábu hlavního města Prahy, která se i dnes zabývala koronavirem. Formálně se jedná o pracovní skupinu, která se schází každý pátek, přestože jsou její členové v zásadě stejní jako v případě Bezpečnostní rady hlavního města nebo přímo krizového štábu. Na základě jednání magistrát společně se složkami IZS vyzývá městské části, aby nechaly mateřské školky otevřené. Jen díky tomu mohou být zachovány základní služby města. Klíčoví zaměstnanci, jako například zdravotníci, díky tomu nemusejí zůstávat s dětmi doma, mohou je umístit do školek a věnovat se své práci.
 
-Pracovní skupina také projednala a navrhla nová opatření. Bude zrušena výuka v autoškolách, tento krok navazuje na již zrušené provádění zkoušek u řidičů taxi. Od soboty 14. března od 6:00 hodin bude platit zákaz provozování komerční veřejné linkové dopravy, která začíná a končí v Praze. Jedná se zejména o výletní autobusy, které po městě vozí turisty.
+Pracovní skupina také projednala a navrhla nová opatření. Jde o zrušení výuky v autoškolách, tento krok navazuje na již zrušené provádění zkoušek u řidičů taxi. Praha dále vyzve provozovatele komerční veřejné linkové dopravy, která začíná a končí na území hlavního města, aby ukončili provoz. Jedná se zejména o výletní autobusy, které po městě vozí turisty.
 
 Na doporučení pracovní skupiny Praha osloví všechna zdravotnická zařízení a umožní zdravotníkům snazší parkování v zónách placeného stání na území hlavního města.
 
