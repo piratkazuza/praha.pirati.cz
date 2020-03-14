@@ -10,7 +10,7 @@ Krizový štáb hl. m. Prahy se na dnešním jednání zabýval zejména nedosta
 
 > „Distribuce respirátorů do Prahy ze strany Ministerstva zdravotnictví absolutně selhala. Mrzí mě, že vláda v médiích prezentuje, že zdravotnický materiál Praha dostala už včera.  Ve skutečnosti je realita naprosto odlišná. Kromě 50 respirátorů určených pražské záchranné službě jsme nedostali vůbec nic. Apeluji na vládu, aby sdělovala veřejnosti pravdivé údaje a doručila Praze ochranné pomůcky co nejdříve. Potřebujeme je, abychom je mohli distribuovat zařízením sociálních služeb, které pečují o nejohroženější skupinu populace, tedy seniory,“ řekl primátor Zdeněk Hřib, který členy štábu seznámil s obsahem sms s konkrétními požadavky, již poslal premiérovi Andreji Babišovi:
 
-> „Vážený pane premiére, v souladu s vaší ranní výzvou vám sděluji, že pro zdravotníky máme v Praze na nejbližší týden nyní požadavky na 125 tisíc espirátorů FFP3 a 73 tisíc FFP2. Pro sociální služby, které se starají o seniory, potřebujeme 59 tisíc FFP3 a 28 tisíc FFP2. O doručení prosím na Městskou polikliniku ve Spálené ulici v Praze. Děkuji Zdeněk Hřib.“
+> „Vážený pane premiére, v souladu s vaší ranní výzvou vám sděluji, že pro zdravotníky máme v Praze na nejbližší týden nyní požadavky na 125 tisíc respirátorů FFP3 a 73 tisíc FFP2. Pro sociální služby, které se starají o seniory, potřebujeme 59 tisíc FFP3 a 28 tisíc FFP2. O doručení prosím na Městskou polikliniku ve Spálené ulici v Praze. Děkuji Zdeněk Hřib.“
 
 > „Apelujeme na vládu, aby neprodleně zajistila dostatek ochranných pomůcek pro naše zdravotníky. Doposud jsme požadovaný počet i přes tvrzení pana premiéra nedostali,“ dodal náměstek primátora Petr Hlubuček, v jehož gesci je bezpečnost.
 
