@@ -14,7 +14,7 @@ Současně s propadem cestujících využívajících pražskou MHD naopak roste
 
 ### Metro
 
-Od soboty 21. března bude na všech linkách metra nasazen prázdninový jízdní řád, což znamená prodloužení intervalů o 1-2 minuty. I tak ale DPP předpokládá dostatečnou kapacitní rezervu, díky které by si mohl každý v dopravním prostředku pohodlně sednout. S ohledem na zachování personální rezervy ve stavu dostupných strojvedoucích bude prázdninový režim na lince B (Zličín – Černý Most) nasazen již od dnešního dne.
+Od čtvrtka 19. března bude na všech linkách metra nasazen prázdninový jízdní řád, což znamená prodloužení intervalů o 1-2 minuty. I tak ale DPP předpokládá dostatečnou kapacitní rezervu, díky které by si mohl každý v dopravním prostředku pohodlně sednout. 
 
 ### Tramvaje
 
