@@ -1,6 +1,6 @@
 ---
 date:         2020-03-13
-tags:         bezpečnost
+tags:         bezpečnost koronavirus školství
 title:        "Pracovní skupina Krizového štábu hlavního města se opět sešla k řešení otázky koronaviru. Vyzývá městské části, aby nechaly školky otevřené"
 image: 	      7hrib.jpg
 author:       MHMP

@@ -1,6 +1,6 @@
 ---
 date:         2020-03-02
-tags:         zdravotnictví
+tags:         zdravotnictví koronavirus
 title:        "Praha aktivně spolupracuje na řešení situace kolem výskytu koronaviru. Sociálním zařízením doporučí omezení návštěv"
 image: 	      magistrat2.jpg
 author:       MHMP
