@@ -8,7 +8,7 @@ category:
 - kontaktni_osoba
 contactType: Kontakt pro média
 img: people/martina-vackova.jpg   # 165 x 220
-description: kontaktní osoba pro média    	# kratký popis, max 160 znaků
+description: kontaktní osoba pro média (ZHMP)   	# kratký popis, max 160 znaků
 mail:
 - martina.vackova@pirati.cz
 mob: +420 725 926 422
