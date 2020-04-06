@@ -18,6 +18,7 @@ profiles:
   facebook: 		  https://www.facebook.com/olga.richterova
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Olga%20Richterov%C3%A1
+calendar: gn1i05sfapugq65d6l5jcav8b4@group.calendar.google.com
 ordpos: 4
 ---
 
