@@ -10,7 +10,9 @@ author:       MHMP
 
 V nadcházejícím týdnu ještě speciálně pro Prahu doputuje 360 kusů výměnných filtrů, 100 kusů inhalátorů a 207 kusů obličejových masek CPAP. Tato část darované pomoci se momentálně nachází v sousedním Německu.
 
-Zdeněk Hřib, primátor hl. m. Prahy, k daru uvedl: „Darované pomoci z Tchaj-wanu založené na společném česko-tchaj-wanského partnerství v boji s koronavirovou epidemií si velice vážím. Tchaj-wan boj s nákazou zvládá a je nám velkou inspirací. Od počátku upozorňoval Světovou zdravotnickou organizaci na závažnost této hrozby, zatímco pevninská Čína informace zadržovala a potajmu vykupovala v zahraničí zdravotnický materiál.“
+Zdeněk Hřib, primátor hl. m. Prahy, k daru uvedl: 
+
+> „Darované pomoci z Tchaj-wanu založené na společném česko-tchaj-wanského partnerství v boji s koronavirovou epidemií si velice vážím. Tchaj-wan boj s nákazou zvládá a je nám velkou inspirací. Od počátku upozorňoval Světovou zdravotnickou organizaci na závažnost této hrozby, zatímco pevninská Čína informace zadržovala a potajmu vykupovala v zahraničí zdravotnický materiál.“
 
 > „V době očekávaného přibývání pacientů s COVID-19, kteří budou vyžadovat asistenci dýchání, má každý ventilátor cenu zlata. Proto nás příjemně potěšil dar pana primátora Hřiba, který zajistil rozšíření možnosti našich ventilovaných lůžek o další tři přístroje. Za naše pacienty Magistrátu hlavního města Prahy moc děkujeme,“ řekl Petr Arenberger, ředitel Fakultní nemocnice Královské Vinohrady.
 
