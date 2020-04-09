@@ -1,20 +1,20 @@
 ---
-uid: michal.hrib
-name: Michal Hrib
+uid: pavel.bursik
+name: Pavel Buršík
 titles:
   before: 
   after:
 category: 
 - kodo
 - kontaktni_osoba
-img: people/michal-hrib.jpg
+img: people/pavel-bursik.jpg
 contactType: Kontakt pro dobrovolníky
-ordkodo: 6
-img: people/michal-hrib.jpg
+ordkodo: 7
+img: people/pavel-bursik.jpg
 contactType: Koordinátor dobrovolníků
-description: Vedoucí koordinátorů starající se o administrativu a spolupráci s mediálním týmem.
-mail: michal.hrib@pirati.cz
-mob: +420 721 440 102
+description: "Koordinátor dobrovolníků starající se o nováčky a organizaci akcí."
+mail: pavel.bursik@pirati.cz
+mob: 
 profiles:
   github:       
   facebook: 
@@ -22,7 +22,7 @@ profiles:
   flickr:		  
 ---
 
-**Michal Hrib** je vedoucí pražských koordinátorů dobrovolníků. Stará se o administraci a spolupráci s mediálním týmem.
+**Pavel Buršík** je pražský koordinátor dobrovolníků starající se o nováčky a organizaci akcí
 
 
 
