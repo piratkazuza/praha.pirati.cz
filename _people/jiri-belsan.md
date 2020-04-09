@@ -9,7 +9,7 @@ category:
 ordkodo: 5
 img: people/jiri-belsan.jpg
 contactType: Koordinátor dobrovolníků
-description: Koordinátor dobrovolníků zajišťující podporu místním sdružením
+description: Koordinátor dobrovolníků zajišťující administraci členských přihlášek a technickou podporu akcí
 mail: jiri.belsan@pirati.cz
 mob: +420 777 049 608
 profiles:
@@ -19,7 +19,7 @@ profiles:
   flickr:		  
 ---
 
-**Jiří Belšán** je koordinátor dobrovolníků odpovědný za administraci členských přihlášek, správu kalendáře a technickou podporu akcí pořádaných v Pirátském centru.
+**Jiří Belšán** je koordinátor dobrovolníků odpovědný za administraci členských přihlášek a technickou podporu akcí pořádaných v Pirátském centru.
 
 
 
