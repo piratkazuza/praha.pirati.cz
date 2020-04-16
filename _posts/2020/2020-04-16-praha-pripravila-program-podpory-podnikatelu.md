@@ -18,6 +18,9 @@ Před schválením výzvy odsouhlasili pražští radní Dohodu o vytvoření a 
 
 > „Z možností podpory prostřednictvím finančních nástrojů se v současné krizové situaci jako nejúčinnější podpora jeví forma bankovních záruk. Svým potenciálem mobilizovat za přispění pákového efektu soukromý kapitál může výrazně pomoci zmírnit dopady pandemie na ekonomiku hlavního města. Jde o rychle dostupnou formu provozního financování pro zasažené podniky, protože administrace bankovních záruk je pro správce finančního nástroje časově a administrativně jednodušší než administrace úvěru,“ uvedl radní Vít Šimral.
 
-> „Pražští podnikatelé budou moci o záruku z programu COVID Praha zažádat v pondělí 20. dubna 2020 od 8:00 hodin prostřednictvím naší E-podatelny. Pro podání žádosti bude nutné mít potvrzení o poskytnutí úvěru od spolupracující komerční banky, proto doporučuji, aby jej podnikatelé již teď začali se svými bankéři řešit. Bližší informace včetně návodných videí, jak vyplnit žádost, se objeví na webu naší banky v nejbližších dnech,“ uzavřel Jiří Jirásek, předseda představenstva a generální ředitel Českomoravské záruční a rozvojové banky.
+Výzva bude vyhlášena od pondělí 20. dubna, Českomoravská záruční a rozvojová banka pak o den později, tedy v úterý 21. dubna, začne přijímat žádosti pražských podnikatelů. 
+
+> „Pražští podnikatelé budou moci o záruku z programu COVID Praha zažádat v úterý 21. dubna 2020 od 8:00 hodin prostřednictvím naší E-podatelny. Pro podání žádosti bude nutné mít potvrzení o poskytnutí úvěru od spolupracující komerční banky, proto doporučuji, aby jej podnikatelé již teď začali se svými bankéři řešit. Bližší informace včetně návodných videí, jak vyplnit žádost, se objeví na webu naší banky v nejbližších dnech,“ uzavřel Jiří Jirásek, předseda představenstva a generální ředitel Českomoravské záruční a rozvojové banky.
+
 
  
