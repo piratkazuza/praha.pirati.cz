@@ -6,7 +6,7 @@ mail: michal.zachar@pirati.cz
 category: 
  - pks
 img: people/michal-zachar.jpg
-description: místopředseda pražského sdružení, vedoucí mediálního odboru KS Praha
+description: místopředseda pražského sdružení, vedoucí mediálního týmmu KS Praha
 ordpks: 4
 ---
 
