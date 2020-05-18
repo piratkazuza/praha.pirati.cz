@@ -32,4 +32,4 @@ měsíčně.
 
 {% include tables/zebra.html title='Přehled odměn poradců pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
 
-[Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil) [Jana Kabelová](/lide/jana-kabelova)
+[Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil) [Jana Kabelová](/lide/jana-kabelova). V případě Jany Kabelové ještě nebylo čerpáno.
