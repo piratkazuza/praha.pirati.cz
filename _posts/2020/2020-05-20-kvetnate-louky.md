@@ -1,7 +1,7 @@
 ---
 date:         2020-05-20
 tags:         životní-prostředí
-title:        "Piráti doporučili doporučuje zakládání květinových pásů a luk v Praze"
+title:        "Piráti doporučili zakládání květinových pásů a luk v Praze"
 image: 	      kvetiny.jpg
 author:       Tomáš Murňák
 ---
