@@ -24,7 +24,7 @@ měsíčně.
 
 {% include tables/zebra.html title='Přehled odměn poradců na hlavní pracovní poměr' table=site.data.csv.odmeny-poradcu %}
 
-[Jiří Hoskovec](/lide/jiri-hoskovec) [Marek Šafra](/lide/marek-safra) [Martin Kameník](/lide/martin-kamenik) [Veronika Kubičková](/lide/veronika-kubickova) [Martina Vacková](/lide/martina-vackova) [Adéla Cinkaničová](/lide/adela-cinkanicova) [Eva Wagner](/lide/eva-wagner)
+[Jiří Hoskovec](https://lide.pirati.cz/personProfile/981/) [Marek Šafra](/lide/marek-safra) [Martin Kameník](/lide/martin-kamenik) [Veronika Kubičková](/lide/veronika-kubickova) [Martina Vacková](/lide/martina-vackova) [Adéla Cinkaničová](/lide/adela-cinkanicova) [Eva Wagner](/lide/eva-wagner)
 
 {% include tables/zebra.html title='Přehled odměn poradců na DPČ' table=site.data.csv.odmeny-poradcu-2 %}
 
