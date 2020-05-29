@@ -63,6 +63,6 @@ Pokud se chceš stát členem, tak už jsi pravděpodobně zaregistrovaný na [P
 - Web centrální - [pirati.cz](https://www.pirati.cz/) a krajský - [pirati.cz](https://praha.pirati.cz/). Tady prezentujeme program, předpisy, usnesení, zápisy i výstupy z diskuzí na fóru.
 - Kalendář [centrální](https://kalendar.pirati.cz/) a [krajský](https://praha.pirati.cz/pripoj-se/kalendar/). Sem vkládáme všechny happeningy, schůze, zasedání a další významné akce. Pokud bys měl vlastní návrh, kontaktuj našeho koordinátora.
 
-Pokud máš zájem, můžeš si přečíst [návod pro nováčky](https://www.pirati.cz/po/vzdelavani/uvod_do_piratu), [obecné návody](https://www.pirati.cz/po/vzdelavani#vzdelavani_clenu) a návody [technického rázu](https://www.pirati.cz/to/navody/start).
+Pokud máš zájem, můžeš si přečíst [návod pro nováčky](https://wiki.pirati.cz/to/novacci), [obecné návody](https://www.pirati.cz/po/vzdelavani#vzdelavani_clenu) a návody [technického rázu](https://wiki.pirati.cz/to/start).
 
 **Vítej na palubě!**
