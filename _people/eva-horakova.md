@@ -15,7 +15,7 @@ descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
   - name: Lucie Horáková
     uid: lucie.horakova
-    position: sekretářka
+    position: asistentka
     mail: lucie.horakova@praha.eu
     tel: 236 002 142
   - name: Tereza Kroužková
