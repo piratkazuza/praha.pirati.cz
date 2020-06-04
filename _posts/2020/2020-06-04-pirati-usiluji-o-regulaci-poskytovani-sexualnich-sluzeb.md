@@ -2,7 +2,7 @@
 date:         2020-06-04
 tags:         legislativa
 title:        "Piráti usilují o regulaci poskytování sexuálních služeb v Praze"
-image: 	      magistrat3.jpg
+image: 	      eva2.jpg
 author:       MHMP
 ---
 
