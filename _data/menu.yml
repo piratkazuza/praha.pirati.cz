@@ -74,6 +74,8 @@ bottom:
         name: Aktuality
       - link: /pripoj-se/kalendar/
         name: Kalendář
+      - link: /piratske-listy/2020-jaro/
+        name: Pirátské listy Praha
   - class: small-12 medium-3
     title: Otevřenost
     links:
