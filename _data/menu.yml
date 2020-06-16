@@ -35,6 +35,13 @@ main:
   - link: /pripoj-se/ 
     name: Připoj se
     match: pripoj-se
+    submenu:
+      - link: /pripoj-se/rozhlednete-se-po-lodi.html
+        name: Rozhlédněte se po lodi
+        match: /pripoj-se/rozhlednete-se-po-lodi.html
+      - link: /pripoj-se/posadky.html
+        name: Posádky
+        match: /pripoj-se/posadky.html
   - link: /mestske-casti/
     name: Městské části
     match: mestske-casti
