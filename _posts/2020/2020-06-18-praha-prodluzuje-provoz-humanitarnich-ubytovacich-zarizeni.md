@@ -10,7 +10,9 @@ I po ukončení nouzového stavu se Praha chce postarat o část z 300 občanů 
 
 Pražští radní schválili druhou fázi projektu humanitárního ubytování pro osoby bez domova, jejíž cílem je zajistit bezpečný přechod již ubytovaných osob do stabilní situace – návrat do rodiny, nalezení stabilního bydlení či dalších dlouhodobých řešení. Prioritní skupinou zůstávají starší a nemocní lidé.
 
-Dosavadní postup projektu humanitárního ubytování hlavní město považuje za úspěšný. „Podařilo se ubytovat stovky ohrožených starších osob a ochránit je před nákazou. Rovněž se u nich zlepšil zdravotní stav, díky čemuž město ušetřilo finanční prostředky na převoz těchto občanů do nemocnic nebo záchytek. Postupně se také daří snižovat náklady města na jejich ubytování, mimo jiné díky tomu, že platí nájem z dávek na bydlení či vlastních příjmů,“ vypočítává radní hl. m. Prahy pro oblast bydlení Adam Zábranský. Ubytovaným již nebude hrazena strava, čímž se výrazně sníží další výdaje.
+Dosavadní postup projektu humanitárního ubytování hlavní město považuje za úspěšný. 
+
+> „Podařilo se ubytovat stovky ohrožených starších osob a ochránit je před nákazou. Rovněž se u nich zlepšil zdravotní stav, díky čemuž město ušetřilo finanční prostředky na převoz těchto občanů do nemocnic nebo záchytek. Postupně se také daří snižovat náklady města na jejich ubytování, mimo jiné díky tomu, že platí nájem z dávek na bydlení či vlastních příjmů,“ vypočítává radní hl. m. Prahy pro oblast bydlení Adam Zábranský. Ubytovaným již nebude hrazena strava, čímž se výrazně sníží další výdaje.
 
 S nájemníky intenzivně spolupracují sociální pracovníci a pomáhají jim ve vyřizování dokladů či dávek, v hledání práce a řešení dalších potřeb. Pro poskytovatele sociálních služeb, jako je Armáda spásy, Člověk v tísni, Charita, K srdci klíč, Maltézská pomoc, Naděje, Neposeda či R-Mosty to bude znamenat i hledání dalších posil v týmech sociálních pracovníků, kteří dnes v Praze citelně chybí.
 
