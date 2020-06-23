@@ -61,6 +61,16 @@ asistenti:
     position: poradce primátora
     mail: eva.wagner@praha.eu
     tel: 
+  - name: Klára Galová
+    uid: klara.galova
+    position: poradkyně primátora
+    mail: klara.galova@praha.eu
+    tel: 
+  - name: Michal Geisler
+    uid: michal.geisler
+    position: poradce primátora
+    mail: michal.geisler@praha.eu
+    tel: 
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
