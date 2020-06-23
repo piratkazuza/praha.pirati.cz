@@ -26,11 +26,6 @@ asistenti:
     position: poradkyně primátora
     mail: veronika.kubickova@praha.eu
     tel: 
-  - name: Adéla Cinkaničová
-    uid: adela.cinkanicova
-    position: poradkyně primátora
-    mail: adela.cinkanicova@praha.eu
-    tel: 
   - name: Tomáš Vovsík
     uid: tomas.vovsik
     position: poradce primátora
@@ -55,11 +50,6 @@ asistenti:
     uid: jaroslav.vlk
     position: poradce primátora
     mail: jaroslav.vlk@praha.eu
-    tel: 
-  - name: Eva Wagner
-    uid: eva.wagner
-    position: poradce primátora
-    mail: eva.wagner@praha.eu
     tel: 
   - name: Klára Galová
     uid: klara.galova
