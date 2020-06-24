@@ -7,7 +7,7 @@ titles:
 category:                
 - poradce_primatora
 contactType: 
-img:  # 165 x 220
+img: people/klara-galova.jpg # 165 x 220
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - klara.galova@praha.eu
