@@ -11,7 +11,7 @@ img: people/romana-klimesova.jpg
 contactType: Koordinátorka dobrovolníků
 description: Koordinátorka dobrovolníků zajišťující podporu místním sdružením
 mail: romana.klimesova@pirati.cz
-#mob: 
+mob: +420 776 815 005
 profiles:
   github:       
   facebook: 
