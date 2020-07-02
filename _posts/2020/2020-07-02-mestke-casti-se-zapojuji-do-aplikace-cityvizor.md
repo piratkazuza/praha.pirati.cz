@@ -8,7 +8,9 @@ author:       MHMP
 
 Od loňského prosince se do aplikace CityVizor zapojilo sedm městských částí. Další, které projevily zájem, se nachází v přípravné či testovací fázi projektu. Jedná se o důležitý krok směrem k větší transparentnosti hospodaření a dalšího otevírání města občanům. Všechny pražské městské části mají možnost zapojit se do aplikace, přičemž technickou podporu jim poskytuje městská společnost Operátor ICT.
 
-Do aplikace CityVizor se za půl roku již zapojily městské části Praha 1, 3, 7, 11, 12, 18 a 22. Zveřejňují například informace o svých výdajích a příjmech, a to až na úroveň jednotlivých faktur, data z registru smluv či informace z úředních desek. „Aplikace umožňuje rychlý a trvalý přístup k důležitým informacím o hospodaření městských částí. Představuje nástroj pro transparentnost městských částí, a to jak pro občany, tak pro samotné městské části a jejich pracovníky,” zdůraznil radní pro oblast bydlení a transparentnosti Adam Zábranský s tím, že v přípravné fázi jsou aktuálně MČ Praha 6, 9, 10, 14, 17, 21, Praha-Klánovice a Praha-Dolní Chabry.
+Do aplikace CityVizor se za půl roku již zapojily městské části Praha 1, 3, 7, 11, 12, 18 a 22. Zveřejňují například informace o svých výdajích a příjmech, a to až na úroveň jednotlivých faktur, data z registru smluv či informace z úředních desek. 
+
+> „Aplikace umožňuje rychlý a trvalý přístup k důležitým informacím o hospodaření městských částí. Představuje nástroj pro transparentnost městských částí, a to jak pro občany, tak pro samotné městské části a jejich pracovníky,” zdůraznil radní pro oblast bydlení a transparentnosti Adam Zábranský s tím, že v přípravné fázi jsou aktuálně MČ Praha 6, 9, 10, 14, 17, 21, Praha-Klánovice a Praha-Dolní Chabry.
 
 > „Věřím, že každý Pražan má právo podrobně zjistit, jak město hospodaří se svými penězi. Zároveň vím, že jde o složitou a nepřehlednou tématiku. Proto jsem rád, že se nám díky CityVizoru daří pražský rozpočet lidem přibližovat," doplňuje Pavel Vyhnánek, náměstek primátora a radní pro oblast financí a rozpočtu.
 
