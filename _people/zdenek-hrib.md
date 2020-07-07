@@ -62,7 +62,7 @@ asistenti:
     mail: michal.geisler@praha.eu
     tel: 
 mail:
-- zdenek.hrib@pirati.cz
+- zdenek.hrib@praha.eu
 mob: +420 602 560 028
 profiles:
   facebook: 		  https://www.facebook.com/zdenek.hrib.primator/
