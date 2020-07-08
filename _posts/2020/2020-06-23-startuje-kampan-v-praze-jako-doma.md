@@ -6,7 +6,7 @@ image: 	      8hrib.jpg
 author:       MHMP
 ---
 
-Internetový portál [www.vprazejakodoma.cz](www.vprazejakodoma.cz) prezentující program podpory cestovního ruchu s názvem V Praze jako doma byl dnes spuštěn. Hlavní město od něj očekává zmírnění fatálních ekonomických následků koronavirových opatření pro turismus v metropoli. V Praze totiž činí škody v oblasti cestovního ruchu až 80 % z celkového objemu 100 miliard korun, což je průměrná roční spotřeba cestovního ruchu v Praze. Jedná se současně o třetinu celkové roční spotřeby cestovního ruchu v celé České republice.
+Internetový portál [www.vprazejakodoma.cz](https://www.vprazejakodoma.cz) prezentující program podpory cestovního ruchu s názvem V Praze jako doma byl dnes spuštěn. Hlavní město od něj očekává zmírnění fatálních ekonomických následků koronavirových opatření pro turismus v metropoli. V Praze totiž činí škody v oblasti cestovního ruchu až 80 % z celkového objemu 100 miliard korun, což je průměrná roční spotřeba cestovního ruchu v Praze. Jedná se současně o třetinu celkové roční spotřeby cestovního ruchu v celé České republice.
 
 > „Je to jeden z dalších kroků, jak stabilizovat Prahu v ekonomické rovině v důsledku epidemie covid-19. Věříme, že se k nám v létě přijede podívat hodně návštěvníků z Čech, Moravy, Slezska i sousedních států, kteří teď mají výjimečnou příležitost vidět Prahu tak, jak ji dosud neznali. Praha má co nabídnout,“ říká primátor hlavního města Prahy Zdeněk Hřib.
 
