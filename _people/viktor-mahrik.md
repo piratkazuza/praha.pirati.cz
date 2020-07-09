@@ -44,7 +44,7 @@ calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
 
 Viktor Mahrik (* 21. dubna 1982) je předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Praha a místopředseda místního sdružení Praha 6. Je rovněž předsedou výboru pro správu majetku a majetkové podíly ZHMP a členem výboru pro dopravu ZHMP.
 
-Vystudoval gymnázium v Praze 6 v Arabské ulici, kde získal mimo jiné klasické vzdělání. V průběhu studia na VŠ se zabýval matematikou, pedagogikou, informačními technologiemi a nyní studuje Řízení podniku a podnikové finance na VŠFS. Během studia se zabýval vzděláváním seniorů v oblasti IT a působil jako lektor rekvalifikačních kurzů. V současné době pracuje jako specialista internetových výzkumů ve společnosti Gemius a má na starosti výzkum měření návštěvnosti českého internetu.
+Vystudoval gymnázium v Praze 6 v Arabské ulici, kde získal mimo jiné klasické vzdělání. V průběhu studia na VŠ se zabýval matematikou, pedagogikou, informačními technologiemi, řízením podniku a podnikovými financemi (poslední dvě uvedené studoval na VŠFS). Během studia se zabýval vzděláváním seniorů v oblasti IT a působil jako lektor rekvalifikačních kurzů. Pracoval také jako specialista internetových výzkumů ve společnosti Gemius a má na starosti výzkum měření návštěvnosti českého internetu.
 
 Jako zastupitel se v letech 2017–2018 zabýval problematikou dopravy, správy majetku hlavního města a byl také členem finančního výboru ZHMP. V roce 2018 obhájil ve volbách do pražského zastupitelstva svůj mandát a byl zvolen jedním z místopředsedů klubů. Z druhého místa kandidátní listiny byl rovněž zvolen do zastupitelstva městské části Praha 6. V roce 2019 byl zvolen předsedou zastupitelského klubu Pirátů.
 
