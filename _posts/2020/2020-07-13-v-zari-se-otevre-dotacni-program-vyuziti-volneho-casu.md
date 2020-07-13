@@ -1,7 +1,7 @@
 ---
 date:         2020-07-13
 tags:         sport
-title:        "Praha navyšuje pomoc pro podnikatele a zveřejňuje seznam dalších podpořených v rámci programu COVID Praha"
+title:        "V září se otevře dotační Program podpory využití volného času dětí a mládeže na rok 2021"
 image: 	      vitsimral2.jpg
 author:       MHMP
 ---
