@@ -16,7 +16,7 @@ description: zastupitel hl. m. Prahy<br/> zastupitel s gescemi kultura, nár. me
 descvyb: člen výboru pro sociální politiku ZHMP, výboru pro kulturu,<br/> turismus a cest. ruch ZHMP,výboru pro bydlení ZHMP<br/>a výboru pro nár. menšiny ZHMP
 mail:
 - martin.arden@pirati.cz
-mob: 728368831
+mob: +420728368831
 profiles:
   github:       
   facebook: https://www.facebook.com/ArdenTheo
