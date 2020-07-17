@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	modra-zona.jpg
-tags:	parkování
+tags:	doprava
 date:	2014-09-05
 ---
 
