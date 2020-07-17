@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	magistrat.jpg
-tags:	informatika rhmp vendor-lock majetek
+tags:	informatika rhmp majetek
 date:	2015-04-28
 ---
 

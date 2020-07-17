@@ -1,7 +1,7 @@
 ---
 date:         2017-06-14
 category:     blog
-tags:         praha
+tags:         kontrolní-výbor transparentnost
 layout:       post
 title:        "Majetková přiznání na web, žádá zítřejší zastupitelstvo kontrolní výbor a Piráti" 
 image:        michalek2.jpg

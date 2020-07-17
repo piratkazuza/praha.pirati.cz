@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Ondřej Profant
 image:	litacka.png
-tags:	opencard lítačka
+tags:	doprava
 date:	2016-03-02
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský, Jakub Michálek, Mikuláš Ferjenčík
 image:	korupce-praha.jpg
-tags:	zhmp korupce otevřenost zveřejňování-smluv
+tags:	zhmp korupce transparentnost zveřejňování-smluv
 date:	2015-05-05
 ---
 

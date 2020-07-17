@@ -1,7 +1,7 @@
 ---
 date:         2017-06-19
 category:     blog
-tags:         informatika vendor-lock
+tags:         informatika
 layout:       post
 title:        "Magistrát neřeší problémy, namísto toho podporuje dinosaury"
 image:        it-magistrat.jpg

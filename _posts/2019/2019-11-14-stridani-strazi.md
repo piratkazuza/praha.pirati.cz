@@ -1,6 +1,6 @@
 ---
 date:         2019-11-14
-tags:         zastupitelstvo piráti
+tags:         zhmp piráti
 title:        "Střídání stráží: Pirátka střídá Piráta na palubě pražského zastupitelstva"
 image: 	      komrskova-slib.jpg
 author:       MHMP

@@ -1,7 +1,7 @@
 ---
 date:         2017-08-15
 category:     blog
-tags:         informatika rhmp rada
+tags:         informatika rhmp
 layout:       post
 title:        "Piráti: Rada schvaluje nepřiměřené výdaje v IT oblasti bez projednání komisí"
 image:        krnacova-utraci.jpg

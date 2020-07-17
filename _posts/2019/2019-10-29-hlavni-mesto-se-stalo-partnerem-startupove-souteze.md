@@ -1,6 +1,6 @@
 ---
 date:         2019-10-29
-tags:         vzdělávání
+tags:         školství
 title:        "Hlavní město se stalo partnerem mezinárodní startupové soutěže Connect Visions to Solutions"
 image: 	      vitsimral2.jpg
 author:       MHMP
