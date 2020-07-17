@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
 image:	kamery.jpg
-tags:	Praha kamery vendor-lock 
+tags: kamery
 date:	2016-02-08
 ---
 
