@@ -6,7 +6,7 @@ title: >-
 date: '2019-04-29 00:01am'
 author: Mediální odbor
 image: hrib-kamera2.jpg
-tags: praha zahraniční-vztahy
+tags: praha zahraničí
 ---
 
 Praha, 28. dubna 2019 – Zdeněk Hřib a předseda Správní rady PKF-Prague Philharmonia Martin Klimpl okomentovali zrušení vystoupení umělců spojených s Prahou ze strany Čínské lidové republiky. Radní hl. m. Prahy využijí kontaktů města získaných při zahraničních cestách k tomu, aby byly sníženy negativní dopady. Martin Klimpl považuje podmiňování šíření kulturních zážitků zaujetím politických postojů za nepřípustné.
