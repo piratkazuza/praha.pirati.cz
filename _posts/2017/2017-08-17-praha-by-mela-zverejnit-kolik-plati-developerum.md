@@ -1,7 +1,7 @@
 ---
 date:         2017-08-17
 category:     blog
-tags:         uzemni-plan
+tags:         územní-plán
 layout:       post
 title:        "Praha by měla zveřejnit, kolik miliard přihraje developerům na změnách územního plánu"
 image:        namesti.jpg
