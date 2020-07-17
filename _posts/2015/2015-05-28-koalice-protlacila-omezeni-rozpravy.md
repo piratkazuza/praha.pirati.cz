@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Adam Zábranský
 image:	proti-cenzure.jpg
-tags:	kontrolní-výbor utajování
+tags:	kontrolní-výbor transparentnost
 date:	2015-05-28
 ---
 
