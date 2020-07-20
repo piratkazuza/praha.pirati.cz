@@ -6,7 +6,7 @@ title: >-
 date: '2019-05-06 00:01am'
 author: Piráti Praha
 image: sraier.jpg
-tags: praha 
+tags: dozorčí-rady 
 ---
 
 Praha, 6. května 2019 – Vítěz otevřeného výběrového řízení Pirátské strany do dozorčí rady Trade Centre Praha, a. s. Vladimír Šraier rezignoval na své místo v dozorčí radě Trade Centre Praha, a. s. Česká pirátská strana má jasně stanovená pravidla svého vnitřního fungování, kontrolní mechanismy a dlouhodobě prosazují vymáhání osobní odpovědnosti za pochybení nejen úředníků, ale i politiků a svých nominantů v orgánech veřejné správy. Vladimír Šraier si jako člen dozorčí rady objednal drahý mobilní telefon, na který měl v rámci smlouvy nárok. Svoji chybu si ale v zápětí uvědomil a telefon uhradil z vlastních peněz. Každopádně za tuto svoji politickou chybu uznal svou odpovědnost v plném rozsahu. 
