@@ -1,7 +1,7 @@
 ---
 date:         2017-08-24
 category:     blog
-tags:         bydleni
+tags:         bydlení
 layout:       post
 title:        "Ceny bytů v Praze rostou. Piráti navrhují řešení."
 image:        domy-slunce.jpg
