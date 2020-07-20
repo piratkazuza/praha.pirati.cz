@@ -1,8 +1,7 @@
 ---
 date:         2020-07-17
 tags:         
- - mhd
- - stanovisko zastupitelského klubu Pirátů
+ - stanovisko
  - doprava
 title:        "Pražská MHD musí zůstat dostupná pro Pražany "
 image: 	      magistrat3.jpg
