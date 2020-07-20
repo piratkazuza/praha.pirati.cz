@@ -1,7 +1,7 @@
 ---
 date:         2018-07-03
 category:     blog
-tags:         praha-1 pronájmy
+tags:         praha-1 majetek
 layout:       post
 title:        "Pirátům se podařilo zastavit nevýhodné pronájmy, Praha 1 nepřijde o desítky milionů" 
 image:        bakala.jpg
