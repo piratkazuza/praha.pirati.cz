@@ -1,7 +1,7 @@
 ---
 date:         2018-03-28
 category:     blog
-tags:         senát volby kampaň
+tags:         volby kampaň
 layout:       post
 title:        "V Praze budou do Senátu kandidovat Michálek, Tylová a Wagenknecht" 
 image:        senatori.jpg
