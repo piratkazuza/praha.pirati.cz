@@ -1,7 +1,7 @@
 ---
 date:         2018-06-26
 category:     blog
-tags:         metropolitní-plán
+tags:         územní-plán
 layout:       post
 title:        "Metropolitní plán startuje s nedostatečnou výškovou regulací" 
 image:        metroplan-otazka.jpg
