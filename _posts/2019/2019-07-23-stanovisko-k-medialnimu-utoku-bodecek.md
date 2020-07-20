@@ -1,6 +1,6 @@
 ---
 date:         2019-07-23
-tags:         praha-1 kauzy
+tags:         praha-1 kauzy stanovisko
 title:        "Oficiální stanovisko Pirátů Prahy 1 k mediálním útokům na pirátského radního pro majetek Davida Bodečka: "
 image: 	      posts/bodecek-blesk.jpg
 author:       Mediální odbor
