@@ -1,7 +1,7 @@
 ---
 date:         2017-12-04
 category:     blog
-tags:         informatika mrs tetra
+tags:         informatika
 layout:       post
 title:        "Zakázka za 93 milionů na radiový systém: předražená a bez soutěže"
 image:        overpriced.jpg
@@ -56,7 +56,6 @@ U zakázky opět nejsou spočítány celkové náklady za životní cyklus (TCO)
 - [Ukázka nezabezpečení MRS][mrs]
 - [Rozhodnutí UOHS][uohs]
 - [Smlouva s městskou policii Brno 2017][smlouvygov]
-- Tisk Rady R-18999
 
 [mrs]: https://praha.pirati.cz/odposlouchavani.html
 [uohs]: https://www.uohs.cz/cs/verejne-zakazky/sbirky-rozhodnuti/detail-15012.html
