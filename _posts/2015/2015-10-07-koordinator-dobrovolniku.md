@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	bxl.jpg
-tags:	výběrová-řízení piráti
+tags:	inzerát
 date:	2015-10-07
 ---
 
