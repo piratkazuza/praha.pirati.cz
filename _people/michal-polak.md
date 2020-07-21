@@ -18,6 +18,7 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
+ordpak: 5
 ---
 
 **Michal Polák** je kontaktní osobou Pirátů krajského sdružení v Praze pro média.
