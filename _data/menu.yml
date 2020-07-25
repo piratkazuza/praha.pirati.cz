@@ -1,16 +1,13 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
-  - link: "Obchod"
-    url:  "https://piratskyobchod.cz"
-    icon: "fa fa-shopping-basket"
-  - link: "Nalodění"
-    url:  "https://nalodeni.pirati.cz"
-    icon: "fa fa-user-plus"
+    icon: "ico--newspaper"
 
 main:
   - link: /aktuality/
@@ -21,9 +18,6 @@ main:
     match: program
     submenu:
       - link: /program/
-        name: Plnění programu
-        match: praha2018/
-      - link: /assets/pdf/program-2018-forum.pdf
         name: Praha 2018
         match: praha2018/
       - link: /program/komunal2018/
@@ -51,35 +45,28 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-hideSearch: no
 
 bottom:
-  - class: small-12 medium-3
-    title: O nás
-    links:
-      - link: /mestske-casti/
-        name: Městské části
-      - link: /lide/
-        name: Tým
-      - link: /program/
-        name: Program
-  - class: small-12 medium-3
+  - class: small-12 medium-4
     title: Připoj se
     links:
       - link: /kontakt/
         name: Dej nám vědět
-      - link: /download/
-        name: Ke stažení
-  - class: small-12 medium-3
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
+    icon: "fa fa-user-plus"
+  - class: small-12 medium-4
     title: Makáme
     links:
+      - link: /lide/
+        name: Lidé
+      - link: /pomahame/
+        name: Záchranný kruh
+      - link: /volby-2018/
+        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
-      - link: /pripoj-se/kalendar/
-        name: Kalendář
-      - link: /piratske-listy/2020-jaro/
-        name: Pirátské listy Praha
-  - class: small-12 medium-3
+  - class: small-12 medium-4
     title: Otevřenost
     links:
       - link: https://ucet.pirati.cz
@@ -88,3 +75,15 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - id: martin.arden
+    position: Kontakt pro občany
+  - id: martina.vackova
+    position: Kontakt pro media
+  - id: michal.hrib
+    position: Koordinátor dobrovolníků
