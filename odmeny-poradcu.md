@@ -12,24 +12,50 @@ Poradci zaměstnaní na hlavní pracovní poměr pobírají tabulkový plat podl
 
 **Poradci zaměstnaní na DPČ (2):**
 
-Poradci zaměstnaní na DPČ jsou placeni podle odpracovaných hodin v daném měsíci. V průměru
-25 500 až 28 800 Kč hrubého měsíčně.
+Poradci zaměstnaní na DPČ jsou placeni podle odpracovaných hodin v daném měsíci. 
 
-**Poradci najatí jako OSVČ (2):**
+**Externí dodavatelé kanceláře primátora:**
 
-Poradci najatí jako OSVČ fakturují podle odpracovaných hodin v daném měsíci, v průměru 12 430 Kč
-měsíčně.
+Průběžné plnění uzavřených smluv ukazuje tabulka uvedená ve spodní části stránky. 
 
-**Všechny uvedené mzdy jsou hrubé**. Všechny údaje jsou platné k prosinci 2019
+**Všechny uvedené mzdy jsou hrubé**. Všechny údaje jsou platné k srpnu 2020
 
 {% include tables/zebra.html title='Přehled odměn poradců na hlavní pracovní poměr' table=site.data.csv.odmeny-poradcu %}
 
-[Jiří Hoskovec](https://lide.pirati.cz/personProfile/981/) [Marek Šafra](/lide/marek-safra) [Martin Kameník](/lide/martin-kamenik) [Veronika Kubičková](/lide/veronika-kubickova) [Martina Vacková](/lide/martina-vackova) [Adéla Cinkaničová](/lide/adela-cinkanicova) [Eva Wagner](/lide/eva-wagner)
+**Profily uvedených osob:** [Jiří Hoskovec](https://lide.pirati.cz/personProfile/981/) [Marek Šafra](/lide/marek-safra) [Martin Kameník](/lide/martin-kamenik) [Veronika Kubičková](/lide/veronika-kubickova) [Martina Vacková](/lide/martina-vackova) [Klára Galová](/lide/klara-galova) [Michal Geisler](/lide/michal-geisler)
 
 {% include tables/zebra.html title='Přehled odměn poradců na DPČ' table=site.data.csv.odmeny-poradcu-2 %}
 
-[Tomáš Vovsík](/lide/tomas-vovsik) [Martin Štěrba](/lide/martin-sterba)
+**Profily uvedených osob:** [Tomáš Vovsík](/lide/tomas-vovsik) [Martin Štěrba](/lide/martin-sterba)
 
-{% include tables/zebra.html title='Přehled odměn poradců pracujících jako OSVČ' table=site.data.csv.odmeny-poradcu-3 %}
+{% include tables/zebra.html title='Přehled externích dodavatelů kanceláře primátora' table=site.data.csv.odmeny-poradcu-3 %}
 
-[Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil) [Jana Kabelová](/lide/jana-kabelova). V případě Jany Kabelové ještě po dobu trvání její smlouvy ještě nebylo fakturováno.
+**Profily uvedených osob:** [Jaroslav Vlk](/lide/jaroslav-vlk) [Petr Přenosil](/lide/petr-prenosil) [Jana Kabelová](/lide/jana-kabelova) [Matěj Kubíček](/lide/matej-kubicek). 
+
+**Zmínění advokáti nebo právní kanceláře:** 
+* Mgr. Martin Švehlík, advokát
+* Mgr. Jiří Slováček, advokát
+* Frank Bold Advokáti ([registr smluv](https://www.hlidacstatu.cz/Detail/9687583))
+* Becker a Poliakoff, advokátní kancelář ([registr smluv](https://www.hlidacstatu.cz/Detail/12917640))
+
+**Seznam rámcových smluv odboru kanceláře primátora k roku 2019:** 
+
+* 8 tlumočníků, 7 specialistů na catering, 6 překladatelů, 6 průvodců, 2 hudebníci, 1 webdesigner, 1 kaligrafista.
+
+Zdroj: tabulka č. 6 přiloženého dokumentu: [https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha](https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha).
+
+**Seznam poradců zaměstnaných na DPČ ve volebním období 2014–2018:**
+
+* 40 osob (např. fotografové, právní poradenství, právní stanoviska, konzultace a poradenství v oblasti ICT, strategická komunikace, konzultace k územnímu plánování, konzultace k problematice Smart Cities, konzultace k problematice sociálních sítí, administrativní činnosti a další).
+
+Zdroj: tabulka č. 2 přiloženého dokumentu: [https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha](https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha).
+
+**Seznam rámcových smluv odboru kanceláře primátora ve volebním období 2014–2018:**
+
+* 22 specialistů na catering, 18 hudebníků, 14 průvodců, 13 tlumočníků, 13 překladatelů, 10 právníků, 6 konzultantů, 1 kaligraf a 11 různých dalších profesí
+
+Zdroj: tabulka č. 5 přiloženého dokumentu: [https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha](https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha).
+
+
+
+

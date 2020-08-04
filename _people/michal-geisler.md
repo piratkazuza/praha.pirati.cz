@@ -3,7 +3,7 @@ uid: michal.geisler
 name:    Michal Geisler
 titles:
   before: 
-  after:
+  after: PhD.
 category:                
 - poradce_primatora
 contactType: 
@@ -20,7 +20,7 @@ profiles:
 ordpraha: 
 ---
 
-**Michal Geisler** se narodil v roce 1987, vyrůstal v Náchodě a v roce 2006 se přestěhoval do Prahy.
+**Michal Geisler, PhD.** se narodil v roce 1987, vyrůstal v Náchodě a v roce 2006 se přestěhoval do Prahy.
  
 Vystudoval historickou sociologii na FHS UK. Ve svém doktorandském výzkumu se věnoval sociální historii autismu v České republice. Publikoval několik odborných textů a ve spolupráci s nakladatelstvím Karolinum připravuje k vydání svoji první monografii o autismu, neurodiverzitě a dopadu měnícího se odborného poznání na život lidí s autismem a jejich rodin. 
  
