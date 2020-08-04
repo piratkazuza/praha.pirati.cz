@@ -46,7 +46,7 @@ Zdroj: tabulka č. 6 přiloženého dokumentu: [https://www.praha.eu/public/ec/f
 
 **Seznam poradců zaměstnaných na DPČ ve volebním období 2014–2018:**
 
-* 40 osob (např. fotografové, právní poradenství, právní stanoviska, konzultace a poradenství v oblasti ICT, strategická komunikace, konzultace k územnímu plánování, konzultace k problematice Smart Cities, konzultace k problematice sociálních sítí, administrativní činnosti a další).
+* 40 osob (z toho: 17 osob poskytujících konzultace, 3 právníci, 3 odborníci na komunikaci, 2 fotografové 1 personalista, 1 finanční manažer a 11 různých dalších profesí.
 
 Zdroj: tabulka č. 2 přiloženého dokumentu: [https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha](https://www.praha.eu/public/ec/f6/62/2932868_963553_Priloha).
 
