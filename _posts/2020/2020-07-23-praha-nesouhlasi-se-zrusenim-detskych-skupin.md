@@ -5,6 +5,7 @@ tags:
 title:        "Praha nesouhlasí s plánovaným zrušením dětských skupin: zásadně by to ohrozilo návrat rodičů do práce"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP
+important: true
 ---
 
 Praha zásadně nesouhlasí s vládní novelou zákona o poskytování péče v dětských skupinách. V hlavním městě je skoro 200 z 1 100 dětských skupin v České republice. Starají se až o 2 700 dětí a je o ně velký zájem. Dětské skupiny se v praxi osvědčily a jejich transformace je zbytečná, nehospodárná a nezaručuje žádný výchovně vzdělávací přínos. Navíc by znamenala existenční riziko jak pro samotné provozovatele těchto skupin, tak pro rodiče, kteří už by si tuto službu nemohli dovolit. Tento záměr navíc jde zcela proti původnímu poslání Operačního programu Zaměstnanost MPSV, ze kterého jsou dětské skupiny dotovány. Praha do jejich provozu v rámci Operačního programu Praha - pól růstu ČR investovala až 225 milionů korun a v září plánuje vypsat další výzvu v hodnotě 100 milionů korun, která by měla saturovat investiční potřeby v rámci navyšování kapacit. 
