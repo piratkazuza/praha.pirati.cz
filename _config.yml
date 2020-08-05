@@ -44,25 +44,34 @@ contactSummaryItems:
   - type: organizationDataBox
   - type: piratiRootWebsite
 
+organization:
+  name: Pirátská strana Praha
+  shortName: Piráti Praha
+  email: kodo-praha@pirati.cz
+  phone: +420 606 168 306
+  address: |
+    Na Moráni 3,
+    120 00 Praha 2
+  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
+  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
 calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  title: Celopražský kalendář
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
   id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&color=%232952A3&ctz=Europe%2FPrague
+  title: "Celopražský kalendář"
+  page: pripoj-se/kalendar
 
 facebook:
   loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/CeskaPiratskaStranaPraha/
-  profilePageName: Piráti - Praha
+  profilePage: "https://www.facebook.com/CeskaPiratskaStranaPraha/"
   appId: 1526197851008996
+markdown: kramdown
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: piratipraha
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -71,11 +80,14 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/viewforum.php?f=78&sid=44b065968620303e7f4058202f146b94
+  page: https://forum.pirati.cz/viewforum.php?f=78&sid=44b065968620303e7f4058202f146b94  i
 
 github:
   url: https://github.com/pirati-web/praha.pirati.cz/
   branch: master
+
+youtube:
+  url: "https://www.youtube.com/channel/UC6zpUdw-MTT1WUBDo4K-nHA/videos" 
 
 #
 # This config file is meant for settings that affect your whole blog, values
