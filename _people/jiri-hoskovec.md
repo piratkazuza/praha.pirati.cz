@@ -6,7 +6,6 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-- dr
 img: people/jiri-hoskovec.jpg   # 165 x 220
 description: vedoucí oddělení poradců primátora, zástupce Mediálního odboru Pirátů, zastupitel na Praze 6      	# kratký popis, max 160 znaků
 mail:
