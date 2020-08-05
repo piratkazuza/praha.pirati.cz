@@ -176,9 +176,9 @@ assets:
     - assets/css
     - assets/fonts
     - assets/video
-    - assets/img
     - assets/img/posts
     - assets/snippet
+    - assets/img    
     - _sass
 
 styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
