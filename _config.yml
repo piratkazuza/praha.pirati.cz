@@ -122,21 +122,14 @@ exclude:
   - Gemfile.lock
   - vendor
 
-permalink: /tiskove-zpravy/:title/
+permalink: /:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
-
-  volby2018:
-    output: true
-    permalink: /volby-2018/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
+    permalink: /program/:path/
   candidatelists:
     output: false
 
