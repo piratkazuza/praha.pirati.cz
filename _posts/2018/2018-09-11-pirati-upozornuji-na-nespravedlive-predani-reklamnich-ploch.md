@@ -4,7 +4,7 @@ category:     blog
 tags:         praha kampaň
 layout:       post
 title:        "Reklamní plochy pro politickou kampaň jsou rozdělovány nespravedlivě."
-image:        sololit.jpg
+image: posts/sololit.jpg
 author:       Zdeněk Hřib
 ---
 

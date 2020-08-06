@@ -3,7 +3,7 @@ title:	Kvůli utajování technických norem je stát v exekuci a zaplatí pokut
 category:	blog
 date:	2016-03-11
 tags:	informace technické-normy
-image:	obvodnisoud.jpg
+image: posts/obvodnisoud.jpg
 layout:	post
 author:	Jakub Michálek
 ---

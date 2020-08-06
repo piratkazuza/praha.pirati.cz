@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Michálek k metru D: Praha může přijít o miliardy" 
-image:        bankrot.jpg
+image: posts/bankrot.jpg
 author:       Jakub Michálek
 ---
 

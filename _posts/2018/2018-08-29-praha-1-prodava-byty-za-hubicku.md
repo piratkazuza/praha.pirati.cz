@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        Vládnoucí TOP 09 na Praze 1 prodává svým členům městské byty za hubičku
-image:        top-byty.jpg
+image: posts/top-byty.jpg
 author:       David Bodeček
 ---
 

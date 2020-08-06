@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Piráti půjdou do pražských voleb samostatně" 
-image:        logo.jpg
+image: posts/logo.jpg
 author:       Adam Zábranský
 ---
 

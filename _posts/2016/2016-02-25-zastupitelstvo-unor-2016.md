@@ -3,7 +3,7 @@ title:	Zastupitelé schválili opravu Libeňského mostu
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	libensky-most-podzim.png
+image: posts/libensky-most-podzim.png
 tags:	zhmp doprava
 date:	2016-02-25
 ---

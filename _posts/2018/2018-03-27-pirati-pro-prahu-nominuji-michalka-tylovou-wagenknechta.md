@@ -4,7 +4,7 @@ category:     blog
 tags:         volby kampaň
 layout:       post
 title:        "V Praze budou do Senátu kandidovat Michálek, Tylová a Wagenknecht" 
-image:        senatori.jpg
+image: posts/senatori.jpg
 author:       Adam Zábranský
 ---
 

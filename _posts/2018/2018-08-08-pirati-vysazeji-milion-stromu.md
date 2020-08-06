@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        Ochladíme Prahu, vysázíme milion stromů
-image:        hrib-mluvi.jpg
+image: posts/hrib-mluvi.jpg
 author:       Zdeněk Hřib
 ---
 

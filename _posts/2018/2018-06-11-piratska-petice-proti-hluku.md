@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Petice bojuje za snížení hluku z dálničního okruhu" 
-image:        petice-hluk.jpg
+image: posts/petice-hluk.jpg
 author:       Adam Zábranský
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha magistrát kampaň
 layout:       post
 title:        "Piráti představili svou povolební strategii a tým, s nímž chtějí vést Prahu"
-image:        tk-hrib.jpg
+image: posts/tk-hrib.jpg
 author:       Zdeněk Hřib
 ---
 

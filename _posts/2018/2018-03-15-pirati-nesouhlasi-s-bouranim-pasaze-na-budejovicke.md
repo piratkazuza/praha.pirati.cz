@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-4
 layout:       post
 title:        "Nesouhlasíme s bouráním Budějovické pasáže" 
-image:        budejovicka.jpg
+image: posts/budejovicka.jpg
 author:       Viktor Mahrik
 ---
 

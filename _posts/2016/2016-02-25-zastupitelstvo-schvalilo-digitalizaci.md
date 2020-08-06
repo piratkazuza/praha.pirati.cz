@@ -3,7 +3,7 @@ title:	Zastupitelstvo schválilo elektronizaci majetkových přiznání zastupit
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	lupa.jpg
+image: posts/lupa.jpg
 tags:	magistrát
 date:	2016-02-25
 ---

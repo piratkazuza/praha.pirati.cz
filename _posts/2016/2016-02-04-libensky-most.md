@@ -3,7 +3,7 @@ title: "Piráti nesouhlasí s demolicí Libeňského mostu"
 layout:	post
 category:	blog
 author:	Ondřej Profant, Jan Loužek
-image:	most-breci.jpg
+image: posts/most-breci.jpg
 tags:	praha-7 praha-8 majetek doprava libeňský-most
 date:	2016-02-04
 ---

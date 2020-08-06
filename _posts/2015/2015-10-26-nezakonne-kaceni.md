@@ -3,7 +3,7 @@ title:	Dotace z EU tečou do nezákonného kácení stromů v Praze 9
 layout:	post
 category:	blog
 author:	Dana Balcarová
-image:	strom.jpg
+image: posts/strom.jpg
 tags:	praha-9 dotace
 date:	2015-10-26
 ---

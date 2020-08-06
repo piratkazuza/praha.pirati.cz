@@ -3,7 +3,7 @@ title:	Praha by měla vymáhat škodu za pronájem Škodova paláce
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Jan Loužek
-image:	szpl.jpg
+image: posts/szpl.jpg
 tags:	magistrát skoduv-palac
 date:	2016-02-04
 ---

@@ -4,7 +4,7 @@ category:     blog
 tags:         magistrát
 layout:       post
 title:        "Ředitelka Magistrátu kašlala na boj proti korupci, její odvolání vítáme" 
-image:        magistrat.jpg
+image: posts/magistrat.jpg
 author:       Adam Zábranský, Zdeněk Hřib
 ---
 

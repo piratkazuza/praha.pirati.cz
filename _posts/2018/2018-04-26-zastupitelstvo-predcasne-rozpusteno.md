@@ -4,7 +4,7 @@ category:     blog
 tags:         zhmp libeňský-most
 layout:       post
 title:        "Zastupitelstvo si neschválilo program. Kvůli Libeňáku" 
-image:        schvaleni-programu.jpg
+image: posts/schvaleni-programu.jpg
 author:       Viktor Mahrik
 ---
 

@@ -3,7 +3,7 @@ title:	Piráti žalují městské firmy, které jim nechtějí poskytovat inform
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	holding.jpg
+image: posts/holding.jpg
 tags:	informace
 date:	2015-11-03
 ---

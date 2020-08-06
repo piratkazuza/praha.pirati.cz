@@ -4,7 +4,7 @@ category:     blog
 tags:         praha libeňský-most
 layout:       post
 title:        "Libeňský most je třeba zachovat, nikoli zdemolovat" 
-image:        mahrik-zhmp.jpg
+image: posts/mahrik-zhmp.jpg
 author:       Viktor Mahrik
 ---
 

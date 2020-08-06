@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-6
 layout:       post
 title:        "Zabránili jsme převzetí domova pro seniory developery" 
-image:        solinova.jpg
+image: posts/solinova.jpg
 author:       Viktor Mahrik
 ---
 

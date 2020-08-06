@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Nesouhlasíme s navyšováním parkovacích kapacit na Václavském náměstí" 
-image:        rampa.jpg
+image: posts/rampa.jpg
 author:       Viktor Mahrik
 ---
 

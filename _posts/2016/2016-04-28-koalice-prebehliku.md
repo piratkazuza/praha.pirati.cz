@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha zhmp koalice
 layout:	post
 title:	"Piráti nehlasovali pro novou Radu hl. m. Prahy." 
-image:	zhmp-shora.jpg
+image: posts/zhmp-shora.jpg
 author:	Jakub Michálek
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         magistrát
 layout:       post
 title:        "Ředitelka Magistrátu kryla podivné dotace ve sportu, říkají Piráti a požadují její hlavu" 
-image:        sport-urad.jpg
+image: posts/sport-urad.jpg
 author:       Zdeněk Hřib
 ---
 

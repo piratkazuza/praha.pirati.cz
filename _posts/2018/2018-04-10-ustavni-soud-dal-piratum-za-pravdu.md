@@ -4,7 +4,7 @@ category:     blog
 tags:         městské-firmy
 layout:       post
 title:        "Ústavní soud se zastal Pirátů, dceřinky městských firem musejí poskytovat informace" 
-image:        adam-us.jpg
+image: posts/adam-us.jpg
 author:       Adam Zábranský
 ---
 

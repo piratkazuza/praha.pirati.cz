@@ -4,7 +4,7 @@ category: blog
 title: "V Praze byla zahájena výstavba metra D. Nová linka pomůže do budoucna s cestováním milionům lidí"
 date: 2019-06-19
 author: "Rada hl. m. Prahy"
-image: hrib-metro.jpg
+image: posts/hrib-metro.jpg
 tags: Praha doprava
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         zhmp doprava
 layout:       post
 title:        "Magistrálu humanizovat, Libeňský most nebourat" 
-image:        hlavkuv-most.jpg
+image: posts/hlavkuv-most.jpg
 author:       Viktor Mahrik
 ---
 

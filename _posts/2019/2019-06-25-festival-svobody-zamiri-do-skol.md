@@ -4,7 +4,7 @@ category: blog
 title: "Festival svobody zamíří do škol"
 date: 2019-06-19
 author: "Rada hlavního města Prahy"
-image: vitsimral2.jpg
+image: posts/vitsimral2.jpg
 tags: školství akce
 ---
 

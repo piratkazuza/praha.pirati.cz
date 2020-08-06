@@ -4,7 +4,7 @@ category:     blog
 tags:         územní-plán
 layout:       post
 title:        "Metropolitní plán startuje s nedostatečnou výškovou regulací" 
-image:        metroplan-otazka.jpg
+image: posts/metroplan-otazka.jpg
 author:       Eva Tylová, Vít Šimral
 ---
 

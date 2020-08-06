@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy praha-10
 layout:       post
 title:        Do Horského hotelu vstoupili Piráti se svolením správce, firma Prahy 10 je i přesto žaluje
-image:        horskyhotel.jpg
+image: posts/horskyhotel.jpg
 author:       Jana Komrsková
 ---
 

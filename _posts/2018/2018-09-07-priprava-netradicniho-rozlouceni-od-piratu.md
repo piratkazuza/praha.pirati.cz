@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        "Chystáme netradiční rozloučení s vládnoucí garniturou na Praze 1. Lidem rozdáme přes sto melounů"
-image:        zofin.jpg
+image: posts/zofin.jpg
 author:       David Bodeček
 ---
 

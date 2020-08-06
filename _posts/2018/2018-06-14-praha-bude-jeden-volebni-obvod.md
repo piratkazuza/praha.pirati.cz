@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Piráti odmítli pokřivení volebního systému v Praze, přestože by z něho těžili" 
-image:        rozdeleni-prahy.jpg
+image: posts/rozdeleni-prahy.jpg
 author:       Adam Zábranský
 ---
 

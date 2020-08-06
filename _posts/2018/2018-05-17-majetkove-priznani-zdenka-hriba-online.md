@@ -4,7 +4,7 @@ category:     blog
 tags:         transparentnost
 layout:       post
 title:        "Zveřejňujeme majetkové přiznání kandidáta Pirátů na primátora hl. m. Prahy" 
-image:        hrib.jpg
+image: posts/hrib.jpg
 author:       Zdeněk Hřib
 ---
 

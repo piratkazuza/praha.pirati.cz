@@ -3,7 +3,7 @@ title:	Kleslová bere v pražských firmách 360 000 Kč měsíčně, musí odej
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	kleslova-chobotnice.jpg
+image: posts/kleslova-chobotnice.jpg
 tags:	trafiky
 date:	2015-10-21
 ---
