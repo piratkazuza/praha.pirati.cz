@@ -4,7 +4,8 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image: posts/uplan.jpg
-tags:	územní-plán
+tags:	
+ - územní plán
 date:	2015-02-16
 ---
 

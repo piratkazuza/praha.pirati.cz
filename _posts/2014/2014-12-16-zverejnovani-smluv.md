@@ -4,7 +4,8 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image: posts/dotaz-michalek.jpg
-tags:	zveřejňování-smluv
+tags:	
+ - zveřejňování smluv
 date:	2014-12-16
 ---
 

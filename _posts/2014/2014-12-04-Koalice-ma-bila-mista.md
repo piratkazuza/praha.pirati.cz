@@ -4,7 +4,9 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image: posts/jakub-hovori.jpg
-tags:	projev koalice
+tags:	
+ - projev
+ - koalice
 date:	2014-12-04
 ---
 

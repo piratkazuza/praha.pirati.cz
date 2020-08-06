@@ -4,7 +4,9 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image: posts/zastupko.jpg
-tags:	informace piráti
+tags:	
+ - informace
+ - piráti
 date:	2015-04-05
 ---
 
