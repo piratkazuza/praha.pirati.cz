@@ -35,6 +35,7 @@ ordpraha: 5
 ordvyb: 7
 redmine: 520
 calendar: ewa.horakowa@gmail.com
+heroImg: banner-default.jpg  
 ---
 
 **Mgr.Eva Horáková** (*1980) je předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.

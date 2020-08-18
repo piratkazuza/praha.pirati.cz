@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Karel Ptáček** je Pirát na Praze 8 a projektový manažer, který se zabývá rekonstrukcí vybydlených domů s důrazem na historické prvky. 

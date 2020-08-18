@@ -17,6 +17,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Jaroslav Vlk** je členem dozorčí rady společnosti Pražská plynárenská distribuce a.s.

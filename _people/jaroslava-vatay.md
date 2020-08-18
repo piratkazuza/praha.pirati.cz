@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Jaroslava Vatay** (* 28. ledna 1980) je členkou místního sdružení Pirátů na Praze 10. V Pirátské straně je součástí Strategického týmu, který se věnuje transformaci strany. Jaroslava se věnuje (krizové) intervenci, mediaci a facilitaci councilu.

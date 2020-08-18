@@ -19,6 +19,7 @@ profiles:
   facebook: 		  https://www.facebook.com/alice.hamalova
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=alice%20hamalova
+heroImg: banner-default.jpg  
 ---
 
 **Alice Hamalová** (* 2. května 1990) je členkou dozorčí rady ve společnosti Želivská provozní, a.s.

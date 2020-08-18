@@ -17,6 +17,7 @@ mail:
 mob: +420 605 205 770
 ordpraha: 9
 ordvyb: 22
+heroImg: banner-default.jpg  
 ---
 
 **Jana Komrsková** je členkou zastupitelského klubu Pirátů v ZHMP, členkou finančního výboru ZHMP a výboru ZHMP pro zdravotnictví, sport a volný čas.

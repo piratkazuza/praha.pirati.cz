@@ -20,6 +20,7 @@ profiles:
   flickr:
 ordpraha: 3	
 ordvybor: 28
+heroImg: banner-default.jpg  
 ---
 
 Daniel Mazur (* 26. května 1978) je zastupitelem městské části Praha 5, od listopadu 2018 do září 2019 i jejím starostou. Je rovněž i členem výboru pro bezpečnost v ZHMP. Členem Pirátů je od června 2014, původně v Praze 6, nyní v Praze 5. 

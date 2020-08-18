@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Karel Bauer** je ekonom, majitel účetní firmy, předseda spolku SNOP 5.

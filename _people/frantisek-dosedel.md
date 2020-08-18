@@ -17,6 +17,7 @@ profiles:
   facebook: frantisek.dosedel
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **František Doseděl** je členem dozorčí rady společnosti Zdroj pitné vody Káraný, a.s., jímž se stal členem na základě otevřeného výběrového řízení. Je rovněž zastupitelem za Piráty na městké části Praha 3. 

@@ -16,6 +16,7 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Adéla Hradilová** je správkyně pirátského centra Praha (PiCe). Zajišťuje rezervace PiCe, provozní záležitosti a inventář. Mimo provozu PiCe se ráda věnuje událostem a podílí se také na fundraisingu Pirátů. Pochází z Kobeřic u Brna, krátce žila v Brně a nyní přebývá v Kolíně.

@@ -21,6 +21,7 @@ profiles:
   twitter: 		  
   flickr:		  
 ordvyb: 29
+heroImg: banner-default.jpg  
 ---
 
 **Jan Hora** je členem výboru pro bezpečnost ZHMP a místopředseda pražského sdružení Pirátů. Je rovněž členem výboru pro bezpečnost ZHMP. Pochází z Prahy 4.

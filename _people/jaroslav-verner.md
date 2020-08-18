@@ -16,6 +16,7 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Jaroslav Verner** kandiduje za Piráty na Praze 14. Aktivně se zabývá problematikou životního prostředí, dále pak oblastí školství a dopravy. 

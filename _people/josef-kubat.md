@@ -17,6 +17,7 @@ profiles:
   flickr:
 ordpraha: 
 calendar: 
+heroImg: banner-default.jpg  
 ---
 
 **Josef Kubát** (* 1996, Klatovy) je asistent předsedy výboru pro správu majetku, majetkových podílů a podpory podnikání, Viktora Mahrika.

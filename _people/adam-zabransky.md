@@ -54,6 +54,7 @@ carousel:
     <p><strong>Radní</strong> pro oblast bydlení a transparentnosti. </p>
 redmine: 16
 calendar: 1codkq4c1g98n0o1f5tv3f3rf0@group.calendar.google.com
+heroImg: banner-default.jpg  
 ---
 
 Adam Zábranský (* 28. prosince 1993, Praha) je pirátský radní hl. m. Prahy pro bydlení a transparentnost. Od roku 2014 je členem zastupitelstva hl. m. Prahy. Po komunálních volbách v roce 2018 se stal radním pro oblast transparentnosti a bydlení (se zaměřením na správu městského bytového fondu). V Praze žije od narození. V nedávné době dokončil studium na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Od čtrnácti let [přispíval](https://cs.wikipedia.org/wiki/Wikipedista:Adam_Z%C3%A1bransk%C3%BD) na českou Wikipedii. Členem Pirátů je od roku 2012.

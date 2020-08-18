@@ -16,6 +16,7 @@ profiles:
   twitter: 
   flickr: 
 ordpos: 5
+heroImg: banner-default.jpg  
 ---
 
 Jan Lipavský (* 2. července 1985) je pirátský poslanec za Prahu, člen republikového výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, Evropská politika a otázky bezpečnosti.

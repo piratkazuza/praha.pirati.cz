@@ -17,6 +17,7 @@ profiles:
   facebook: https://www.facebook.com/ivo.vasicek
   twitter: 		  
   flickr:     		  
+heroImg: banner-default.jpg  
 ---
 
 **Ivo Vašíček** je členem dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.

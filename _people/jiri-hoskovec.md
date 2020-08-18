@@ -18,6 +18,7 @@ profiles:
   facebook:
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Jiří Hoskovec** (*1992) je vedoucí poradců pražského primátora. Je rovněž i zástupcem pro management mediálního odboru. Je zastupitelem na Praze 6, která je také jeho domovským místním sdružením.

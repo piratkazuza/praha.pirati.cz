@@ -6,6 +6,7 @@ description: zastupitel hl. m. Prahy, zastupitel městské části Praha 11 za P
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 mail:
 - jan.licka@pirati.cz
+heroImg: banner-default.jpg  
 ---
 
 (* 24. července 1981) se v Pirátské straně podílí na sekci Dopravy, se specializací na automobilovou dopravu a nové technologie. Pochází z Frydku, většinu života prožil v Kralupech nad Vltavou a od roku 2015 hospodaří na statku u Benešova.

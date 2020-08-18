@@ -17,6 +17,7 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
+heroImg: banner-default.jpg  
 ---
 
 **Jan Ondřich** je nominantem Pirátů do dozorčí rady společnosti Pražská energetika holding, a.s.
