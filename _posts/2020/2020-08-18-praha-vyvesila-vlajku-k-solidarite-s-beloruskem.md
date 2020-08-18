@@ -5,6 +5,7 @@ tags:
 title:        "Praha vyvěsila vlajku na podporu svobodné občanské společnosti v Bělorusku"
 image: 	      posts/by.jpg
 author:       MHMP
+important: true
 ---
 
 Hlavní město Praha vyvěsilo historickou červeno-bílou běloruskou vlajku na podporu občanů Běloruska, kteří protestují proti výsledkům prezidentských voleb. Tyto demonstrace doprovázejí nepřiměřené zásahy policie. Pražští radní jsou situací znepokojeni.
