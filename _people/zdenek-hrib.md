@@ -9,7 +9,7 @@ category:
 - praha
 img: people/zdenek-hrib.jpg  # 165 x 220
 profilebadge: people/badge/13-hrib.jpg
-description: <br/> primátor hlavního města Prahy
+description: primátor hlavního města Prahy
 asistenti:
   - name: Jiří Hoskovec
     uid: jiri.hoskovec
