@@ -3,7 +3,7 @@ uid: michal.geisler
 name:    Michal Geisler
 titles:
   before: 
-  after: PhD.
+  after:
 category:                
 - poradce_primatora
 contactType: 
