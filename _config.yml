@@ -12,7 +12,7 @@ description: Prosazujeme fungující moderní politiku založenou na využití t
 keywords: pražský, kraj, praha, piráti, česká pirátská strana, svoboda, demokracie 
 url: "https://praha.pirati.cz" # the base hostname & protocol for your site
 
-mediaStorage: praha
+#mediaStorage: praha
 
 administrator:
   email: jitka.novotna@pirati.cz, jan.louzek@pirati.cz
