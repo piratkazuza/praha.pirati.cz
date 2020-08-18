@@ -17,6 +17,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Tomáš Popela** (* 22. září 1984) je členem dozorčí rady společnosti Pražská vodohospodářská společnost, a.s., která patří hlavnímu městu Praze.

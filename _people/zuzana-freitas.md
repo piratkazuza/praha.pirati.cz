@@ -18,6 +18,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Zuzana Freitas** je členkou výboru pro bydlení ZHMP jako externistka (nezastupitelka). Je rovněž asistentkou poslankyně Olgy Richterové v Poslanecké sněmovně PČR. Je také zastupitelkou městské části Praha 10.

@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Petr Kratochvíl** je členem dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.

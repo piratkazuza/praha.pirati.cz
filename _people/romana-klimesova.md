@@ -17,6 +17,7 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Romana Klimešová** je koordinátorka dobrovolníků pro Prahu. Zajišťuje podporu Místním sdružením, zpracovává členské přihlášky, stará se o FB skupiny, organizuje akce a o všem zajímavém, co se u Pirátů děje, vám píše newslettery .

@@ -14,5 +14,6 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 

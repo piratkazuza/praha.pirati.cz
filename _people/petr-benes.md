@@ -19,6 +19,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Petr Beneš** (* 17. ledna 1984) je členem Pirátů na Praze 10. Pochází ze Semil a od roku 2004 žije v Praze. Je členem výboru pro správu majetku a maj. podílů ZHMP.

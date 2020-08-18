@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Petr Bervid** je projektový manažer, podnikatel, místopředseda spolku SNOP 5.

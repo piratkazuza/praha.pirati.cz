@@ -45,6 +45,7 @@ ordga: 7
 ordvyb: 31
 redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
+heroImg: banner-default.jpg  
 ---
 
 Vít Šimral (9. července 1986, Roudnice nad Labem) je člen Rady hl. m. Prahy s gescí školství, sportu, vědy a podpory podnikání. Je rovněž členem výboru pro evropské záležitosti ZHMP.

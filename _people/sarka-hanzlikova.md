@@ -16,6 +16,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Šárka Hanzlíková** je účetní manažerka a moderátorka portálu plastické chirurgie. Kandiduje za společnou kandidátní listinou Pirátů a Zelených na Praze 7. Je členkou Strany zelených.
