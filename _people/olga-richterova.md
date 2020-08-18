@@ -20,6 +20,7 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?text=Olga%20Richterov%C3%A1
 calendar: gn1i05sfapugq65d6l5jcav8b4@group.calendar.google.com
 ordpos: 4
+heroImg: banner-default.jpg  
 ---
 
 Olga Richterová (* 21. ledna 1985) je poslankyně Pirátů za Prahu a 1. místopředsedkyně. Rovněž působí jako předsedkyně místního sdružení Praha 10 a členka Republikového výboru. Olga pochází z vesnice jménem Choltice a od roku 2002 žije v Praze. Vystudovala překladatelství a tlumočnictví (AJ-NJ) na Karlově univerzitě v Praze, kde získala titul PhDr. V průběhu studia pobývala v Německu a Anglii, domluví se též rusky a italsky.

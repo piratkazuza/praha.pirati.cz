@@ -26,6 +26,7 @@ ordpraha: 11
 ordvyb: 8
 ordpak: 1
 calendar: pirat.arden@gmail.com
+heroImg: banner-default.jpg  
 ---
 
 Martin Arden (* 29. března 1967) je zastupitel hl. m. Prahy za Piráty. Je rovněž členem výboru pro sociální politiku ZHMP, kulturu a cestovní ruch ZHMP a výboru pro národnostní menšiny ZHMP. U Pirátů je od roku 2012. Je evangelický duchovní a učitel francouzštiny. Pracuje jako poradce pro neziskové organizace. V roce 2005 založil Českou kulturní tiskovou kancelář. Je aktivní uživatel a šiřitel operačního systému Linux.

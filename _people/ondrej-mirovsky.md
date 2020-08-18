@@ -18,6 +18,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Ondřej Mirovský** kandidoval za společnou kandidátní listinu Pirátů a Zelených na Praze 7. Sám je členem Strany zelených. Na městské části Praha 7 je zastupitelem a místostarostou. 

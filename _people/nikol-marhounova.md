@@ -18,6 +18,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Nikol Marhounová** je členkou výboru pro sociální politiku ZHMP jako externistka (nezastupitelka). Je pirátskou z Prahy 3. 

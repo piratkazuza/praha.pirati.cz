@@ -29,6 +29,7 @@ carousel:
   img: ondrej-profant.jpg
   text: |
     <p><strong>Předseda sdružení Pirátů</strong> v Praze, poslanec PSP ČR. </p>
+heroImg: banner-default.jpg  
 ---
 
 Ondřej Profant (2. května 1988) je předseda krajského [sdružení v Praze][] a poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany.

@@ -18,6 +18,7 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
+heroImg: banner-default.jpg  
 ---
 
 **Martin Kameník** (* 1978, Jeseník) je poradce primátora hl. m. Prahy.

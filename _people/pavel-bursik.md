@@ -21,6 +21,7 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpak: 4
+heroImg: banner-default.jpg  
 ---
 
 **Pavel Buršík** je pražský koordinátor dobrovolníků starající se o nováčky a organizaci akcí

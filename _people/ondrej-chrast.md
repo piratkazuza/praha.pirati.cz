@@ -18,6 +18,7 @@ profiles:
   facebook: 		  https://www.facebook.com/ondrej.chrast
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=ondrej%20chrast
+heroImg: banner-default.jpg  
 ---
 
 **Ondřej Chrást** (* 7. července 1980) je členem dozorčí rady společnosti Prague City Tourism, a.s. Je rovněž zastupitelem za Piráty na městské části Praha 6. 

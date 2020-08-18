@@ -18,6 +18,7 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
+heroImg: banner-default.jpg  
 ---
 
 **Michal Geisler** se narodil v roce 1987, vyrůstal v Náchodě a v roce 2006 se přestěhoval do Prahy.

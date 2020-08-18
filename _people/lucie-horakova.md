@@ -17,6 +17,7 @@ profiles:
   flickr:
 ordpraha: 
 calendar: 
+heroImg: banner-default.jpg  
 ---
 
 **Bc. Lucie Horáková** (4. června 1995, Praha) je od roku 2018 sekretářkou předsedkyně Výboru pro sociální politiku na Magistrátu hl.m. Prahy, Mgr. Evy Horákové. Pro všechny zvídavé – stejné příjmení je pouhá shoda jmen.

@@ -17,6 +17,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Michal Štěpán** je člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.

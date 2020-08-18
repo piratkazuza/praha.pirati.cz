@@ -16,6 +16,7 @@ profiles:
   facebook:
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Marek Paris** (*1991 Praha) je od ledna roku 2017 členem Pirátské strany. Věnuje se problematice zdravotnictví a komunální politice na Praze 4, kde také žije. V roce 2017 se jako dobrovolník a člen realizačního týmu podílel na kampani do Poslanecké sněmovny Parlamentu ČR.

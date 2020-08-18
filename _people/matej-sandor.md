@@ -17,6 +17,7 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+heroImg: banner-default.jpg  
 ---
 
 **Matej Šandor** je nominantem Pirátů do dozorčí rady společnosti Pražská energetika a.s. a zastupitel na městské části Praha 4.

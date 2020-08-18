@@ -21,6 +21,7 @@ profiles:
   twitter: 		  
   flickr:
 ordpak: 3		  
+heroImg: banner-default.jpg  
 ---
 
 **Michal Hrib** je vedoucí pražských koordinátorů dobrovolníků. Stará se o administraci a spolupráci s mediálním týmem.
