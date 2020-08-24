@@ -1,25 +1,27 @@
 ---
 uid: petr.benes
-name:     Petr Beneš  	# běžně používáné jméno
+name:     Petr Beneš 
 titles:
   before: Ing. 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category: 
 - praha
 - vybor
-img: people/benes-petr.gif  # people/petr-benes.jpg   # 165 x 220
-profilebadge: people/benes-petr.gif
-description:      	# kratký popis, max 160 znaků
+img: people/benes-petr.gif
+profilebadge: people/badge/benes-petr.jpg
+description: 
 descvyb: člen výboru pro správu majetku a maj. podílů ZHMP
+
 mail:
 - petr.benes@pirati.cz
-mob:
-ordvyb: 5
+mob: 
 profiles:
   github:       
   facebook:    
   twitter: 		  
   flickr:		  
+ordvyb: 5
+
 ---
 
 **Petr Beneš** (* 17. ledna 1984) je členem Pirátů na Praze 10. Pochází ze Semil a od roku 2004 žije v Praze. Je členem výboru pro správu majetku a maj. podílů ZHMP.
