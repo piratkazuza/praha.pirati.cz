@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 img: people/benes-petr.gif  # people/petr-benes.jpg   # 165 x 220
+profilebadge: people/benes-petr.gif
 description:      	# kratký popis, max 160 znaků
 descvyb: člen výboru pro správu majetku a maj. podílů ZHMP
 mail:
