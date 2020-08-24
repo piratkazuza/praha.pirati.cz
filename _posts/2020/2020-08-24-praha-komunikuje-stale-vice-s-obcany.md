@@ -7,7 +7,7 @@ image: 	      8hrib.jpg
 author:       MHMP
 ---
 
-Pražští radní dnes prodloužili provoz mobilní aplikace Změňte.to městskou společností Operátor ICT. Ta bude zajišťovat i rozvoj mobilní aplikace a po třech měsících bude nastavení služby vyhodnoceno. Radní zároveň rozhodli o vytvoření nového webu Pragozor.cz, jehož cílem je jednoduchou formou přiblížit obyvatelům Prahy problematiku zpracování městských dat a jejich používání pro každodenní řízení města. Tímto způsobem podporuje město obousměrnou komunikaci mezi občany a městem pomocí moderních technologií.
+Pražští radní dne 24. srpna 2020 prodloužili provoz mobilní aplikace Změňte.to městskou společností Operátor ICT. Ta bude zajišťovat i rozvoj mobilní aplikace a po třech měsících bude nastavení služby vyhodnoceno. Radní zároveň rozhodli o vytvoření nového webu Pragozor.cz, jehož cílem je jednoduchou formou přiblížit obyvatelům Prahy problematiku zpracování městských dat a jejich používání pro každodenní řízení města. Tímto způsobem podporuje město obousměrnou komunikaci mezi občany a městem pomocí moderních technologií.
 
 > „Aplikace Změňte.to je skvělý způsob, jak se mohou občané aktivně zapojit do zvelebování našeho města. Pokud někde uvidí nějaký nedostatek, třeba poničenou lavičku, nesvítící lampu nebo schnoucí zeleň, stačí problém během chvíle nahlásit přes aplikaci a my ho vyřešíme. Nově máme také lepší zákonné nástroje k odtahování autovraků, tak je také neváhejte do aplikace zaznamenávat. Postaráme se o jejich odtažení,” vysvětluje primátor Prahy Zdeněk Hřib.
 
