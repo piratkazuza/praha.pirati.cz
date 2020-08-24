@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category: 
-- kodo
+#- kodo
 ordkodo: 4
 img: people/romana-klimesova.jpg
 contactType: Koordinátorka dobrovolníků
