@@ -15,7 +15,7 @@ V současné době se tak uskutečňuje další fáze, konkrétně přípravy n�
 
 > „Do přípravy se zapojila celá řada městských částí, pro které je sport, stejně jako pro nás, prioritou. Tato spolupráce vytváří důležitý předpoklad, že připravovaný plán bude kvalitní a bude budovat pozitivní vazby směrem k vertikální a horizontální spolupráci,“ uvádí radní hl. m. Prahy pro oblast školství, sportu, vědy a podpory podnikání Vít Šimral.
 
-Návrhy mohou sdílet kluby, školy i obyvatelé
+#### Návrhy mohou sdílet kluby, školy i obyvatelé
 
 Od roku 2015 se celkové výdaje Prahy na sport zvýšily o 51,4 % v běžných cenách na úroveň 845 milionů korun v loňském roce. Dosahují tak zhruba 1 % celkového ročního rozpočtu města. Pro více než polovinu sportovních organizací je však současná podpora nedostačující. Důležitým aspektem plánu jsou proto i názory všech dotčených zájmových skupin. A to nejen samotných sportovních organizací, svazů, klubů, tělovýchovných jednot či provozovatelů sportovišť, ale také zástupců města a městských částí, škol a samozřejmě také veřejnosti.
 
@@ -27,7 +27,7 @@ Díky dotazníkovému šetření se magistrátu podařilo do příprav zapojit c
 
 > „Podařilo se nám získat data ke sportu od 295 sportovních klubů a tělovýchovných jednot a také od 239 škol a školských zařízení. Právě o takové zapojení jsme usilovali,“ dodává Tomáš Buriánek.
 
-Sportoviště jsou v Praze nerovnoměrně rozložená
+#### Sportoviště jsou v Praze nerovnoměrně rozložená
 
 Podle nově vytvořené evidence se v Praze nachází 1 176 sportovních areálů skládajících se ze 3 452 samostatných sportovních ploch. U vnitřních multifunkčních ploch je ale podle šetření problémem jejich vytíženost, která prakticky neumožňuje další růst sportovní nabídky. Pražská sportovní infrastruktura je navíc velmi nerovnoměrně rozložená. Prahu proto čekají významné výzvy s ohledem na měnící se sídelní strukturu, kdy se má počet obyvatel zejména v periferních městských částech do roku 2050 až zdvojnásobit. Jedná se především o Prahu 22, Dolní Počernice, Dolní Měcholupy a Kolovraty.
 
