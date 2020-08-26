@@ -8,7 +8,7 @@ category:
 - praha
 - vybor
 img: people/benes-petr.gif
-profilebadge: people/badge/benes-petr.jpg
+profilebadge: people/badge/111-benes.jpg
 description: 
 descvyb: člen výboru pro správu majetku a maj. podílů ZHMP
 
