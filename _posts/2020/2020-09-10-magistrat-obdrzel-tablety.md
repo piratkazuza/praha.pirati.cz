@@ -2,6 +2,7 @@
 date:         2020-09-10
 tags:         
  - zahraničí
+ - praha-3
 title:        "Praha obdržela darem od ČSOB 110 tabletů, budou pomáhat sociálním pracovníkům při terénní práci"
 image: 	      adam-zabransky-5.jpg
 author:       Adam Zábranský
