@@ -22,11 +22,10 @@ asistenti:
     position: poradkyně pro oblast sportu a volného času <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: lucie.charvatova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
-  - name: Prokop Laichter
-    uid: prokop.laichter
-    position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: prokop.laichter@praha.eu
-    tel: 236 00 2944
+  - name: Kamila Bílá
+    position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: kamila.bila@praha.eu
+    tel: 774 236 034
   - name: Helena Barkmannová
     <!--uid: helena.barkmannova-->
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
