@@ -7,7 +7,7 @@ image: 	      adam-zabransky-3.jpg
 author:       MHMP
 ---
 
-Hlavní město Praha podpoří kontaktní místa pro bydlení na území městských částí Praha 3 a Praha 7. Radní dnes projednali poskytnutí neinvestiční účelové dotace ve výši přibližně 3,9 milionu korun na personální zajištění provozu těchto míst do konce roku 2022. Materiál bude ve čtvrtek schvalovat zastupitelstvo. 
+Hlavní město Praha podpoří kontaktní místa pro bydlení na území městských částí Praha 3 a Praha 7. Radní v pondělí 12. října projednali poskytnutí neinvestiční účelové dotace ve výši přibližně 3,9 milionu korun na personální zajištění provozu těchto míst do konce roku 2022. Materiál bude ve čtvrtek schvalovat zastupitelstvo. 
 
 Kontaktní místa pro bydlení jsou jedním z prioritních nástrojů řešení bytové nouze na území hlavního města. Nabízejí či budou nabízet dávkové, dluhové a právní poradenství, realitní zprostředkování a pomůžou zájemcům se zorientovat v nabídkách bytů nebo vyplnit žádost o byt ve správě městské části nebo magistrátu. Jsou středobodem projektu integrovaného systému řešení bytové nouze, který Praha realizuje od roku 2020 do roku 2022 z dotace z Operačního programu Zaměstnanost.
 
