@@ -7,7 +7,7 @@ image: 	      prahakupuje.jpg
 author:       MHMP
 ---
 
-Záměr hlavního města nakoupit ve veřejné soutěži objekty k ubytování lidí z řad podporovaných profesí a osob v sociální tísni byl již zveřejněn na úřední desce. Na tomto odkazu se zájemci dozvědí, za jakých podmínek se mohou vyhlášené veřejné soutěže zúčastnit. Výzva byla zveřejněna i na Realitním portálu hl. m. Prahy. Termín pro podání nabídek je do 18. listopadu.
+Záměr hlavního města nakoupit ve veřejné soutěži objekty k ubytování lidí z řad podporovaných profesí a osob v sociální tísni byl již zveřejněn na úřední desce. Na tomto [odkazu](https://www.praha.eu/jnp/cz/o_meste/magistrat/deska/index.html?cisloev=HOM-74982%2F2020&nazev=&text=&typ=0&odbor=0&stranavel=15&test=value%20) se zájemci dozvědí, za jakých podmínek se mohou vyhlášené veřejné soutěže zúčastnit. Výzva byla zveřejněna i na Realitním portálu hl. m. Prahy. Termín pro podání nabídek je do 18. listopadu.
 
 > „Prioritní zájem máme o hotely, ubytovací zařízení a bytové domy s kapacitou 20 – 90 osob, ideální uspořádání jsou garsoniéry či pokoje hotelového typu se samostatným příslušenstvím. Důležitý bude i stav nemovitosti a možnost ji užívat co nejdříve, zajímají nás však i objekty, které bude možné do cílového stavu jednoduše upravit. Veřejná soutěž nevylučuje předem ani nemovitosti, které jsou zastavené, budeme však chtít doložit dohodu s věřitelem,“ upřesňuje radní hl. m. Prahy pro oblast bydlení a transparentnosti Adam Zábranský.
 
