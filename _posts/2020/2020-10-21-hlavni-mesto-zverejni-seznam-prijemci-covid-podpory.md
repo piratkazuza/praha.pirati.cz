@@ -27,4 +27,6 @@ Více než třetina příjemců, přesně 108 (35 procent), spadá do nezávisl�
 
 > „Z analýzy jasně vyplývá, že progrаm COVID Praha byl velmi dobře nastaven. Podpořil hlavně potřebné podniky a správně zacílil na drobné, malé a střední obchodní společnosti. Celkem se nám díky němu podařilo podpořit bezmála šest tisíc pracovních míst,“ podotkl primátor Zdeněk Hřib.
 
- 
+### Odkazy
+
+* [Zveřejněný seznam příjemců podpory](/assets/pdf/zaruky.pdf)
