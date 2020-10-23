@@ -7,7 +7,7 @@ titles:
 category: 
 - kontaktni_osoba
 img: people/michal-polak.jpg
-contactType: Kontakt média
+contactType: Kontakt krajského sdružení Praha pro média
 img: people/michal-polak.jpg
 contactType: Kontakt pro média
 description: kontaktní osoba pro média (KS Praha)
