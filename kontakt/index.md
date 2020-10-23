@@ -80,8 +80,3 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
 
 **Celostátní pirátská infolinka:** +420 608 963 111
 
-
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Představitelé</h1>
-</div>
-
