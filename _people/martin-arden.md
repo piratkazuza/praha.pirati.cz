@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - kontaktni_osoba
 - vybor
-contactType: Kontakt pro občany Prahy
+contactType: Kontakt ZK MHMP pro občany Prahy
 img: people/martin-arden.jpg   # 165 x 220
 profilebadge: people/badge/07-arden.jpg
 description: zastupitel hl. m. Prahy<br/> zastupitel s gescemi kultura, nár. menšiny, bydlení     	# kratký popis, max 160 znaků
