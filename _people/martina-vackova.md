@@ -6,7 +6,7 @@ titles:
   after:
 category:                
 - kontaktni_osoba
-contactType: Kontakt pro média
+contactType: Kontakt ZK Pirátů MHMP pro média
 img: people/martina-vackova.jpg   # 165 x 220
 description: kontaktní osoba pro média (ZHMP)   	# kratký popis, max 160 znaků
 mail:
