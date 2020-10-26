@@ -7,7 +7,7 @@ image: 	      chrante.jpg
 author:       MHMP
 ---
 
-lavní město pokračuje v kampaních proti koronaviru s cílem ukázat, jak je více než kdy jindy důležitá slušnost, pomoc ostatním a lidé kolem nás, kteří jsou v první linii a zachraňují životy každý den. Nová kampaň „Chraňte sebe i ostatní“ je postavena na pozitivní komunikaci a na fotografiích skutečných lidí z řad záchranářů, policistů, strážníků, hasičů a Českého červeného kříže. Jako na jaře jsou právě oni symbolem maximálního nasazení v době pandemie a svou zodpovědností při dodržování opatření chráníme i jejich zdraví.
+Hlavní město pokračuje v kampaních proti koronaviru s cílem ukázat, jak je více než kdy jindy důležitá slušnost, pomoc ostatním a lidé kolem nás, kteří jsou v první linii a zachraňují životy každý den. Nová kampaň „Chraňte sebe i ostatní“ je postavena na pozitivní komunikaci a na fotografiích skutečných lidí z řad záchranářů, policistů, strážníků, hasičů a Českého červeného kříže. Jako na jaře jsou právě oni symbolem maximálního nasazení v době pandemie a svou zodpovědností při dodržování opatření chráníme i jejich zdraví.
 
 Praha od pondělí 26. října spustí novou kampaň, jejíž tvářemi jsou skuteční lidé z první linie, kteří denně bojují proti pandemii koronaviru. „Kampaň poukazuje na to, že základní pravidla a zásady (včetně 3R) jsou nejefektivnější cestou k omezení šíření nákazy. Obzvláště nyní, kdy počty nemocných a v karanténě rostou, kampaň připomíná, že naše chování ovlivňuje nejen zdraví nás samotných, ale i zdraví ostatních,“ říká primátor hlavního města Prahy Zdeněk Hřib. 
 
