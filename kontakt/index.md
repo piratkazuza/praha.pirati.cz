@@ -73,7 +73,10 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
 * **Volební program** <a href="https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/program-2018-forum.pdf">do voleb v roce 2018</a>.
 * **<a href="https://pirati.cz/forum">Forum</a>** diskuse a zpětná vazba členů
 
+
 <div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Představitelé</h1>
+  <h1 class="t-h2-alt">Telefonický kontakt pro občany ČR</h1>
 </div>
+
+**Celostátní pirátská infolinka:** +420 608 963 111
 
