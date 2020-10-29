@@ -7,7 +7,7 @@ image: 	      hrib-digitalizace.jpg
 author:       MHMP
 ---
 
-Nový webový portál, který má usnadnit obyvatelům metropole komunikaci směrem k Magistrátu hl. m. Prahy, úřadům městských částí a městským organizacím, spouští hlavní město v těchto dnech. Portál Pražana je už několik dní ve zkušebním provozu, oficiálně bude spuštěn ve čtvrtek 1. října 2020.
+Nový webový portál, který má usnadnit obyvatelům metropole komunikaci směrem k Magistrátu hl. m. Prahy, úřadům městských částí a městským organizacím, spouští hlavní město v těchto dnech. [Portál Pražana](https://www.portalprazana.cz/) je už několik dní ve zkušebním provozu, oficiálně bude spuštěn ve čtvrtek 1. října 2020.
 
 V první fázi Portál Pražana nabídne občanům možnost elektronických podání pražskému magistrátu. Půjde například o Oznámení o konání shromáždění, Žádost o záštitu primátora, Žádost o informace dle zákona 106/1999 nebo Žádost o potvrzení platnosti nájemní smlouvy v bytě hlavního města Prahy. Rovněž bude možné rezervovat si termín návštěvy úřadu online, konkrétně na odboru dopravněsprávních činností. Portál také nabídne možnost propojit profil Portálu Pražana s profilem Lítačky, kde si bude moci občan například ověřit platnost kupónu.
 
