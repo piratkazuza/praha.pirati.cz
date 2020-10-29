@@ -9,7 +9,9 @@ author:       MHMP
 
 Ve středu odpoledne zničil požár kostel svatého Michaela v zahradě Kinských, známý také jako chrám sv. archanděla Michaela. Chrám je majetkem hlavního města Prahy, ale několik desítek let ho má ve správě a v užívání pravoslavná církev. Pražští radní dnes odsouhlasili vznik veřejné sbírky na obnovu kostela, která potrvá jeden rok. Vznik sbírky ještě musí schválit Ministerstvo vnitra. Praha po schválení uveřejní číslo zvláštního bankovního účtu. Metropole také začala s koordinací obnovy kostela. Pomoc nabízí Národní muzeum, Národní památkový ústav i Ministerstvo kultury.
 
-Vznik sbírky iniciovala již včera radní pro oblast kultury Hana Třeštíková. „Zničení krásného dřevěného kostela svatého Michaela mě silně zasáhlo, je to památka ze 17. století s jedinečným příběhem. Chci všechny ujistit: kostel se dočká obnovy. Jeho význam vnímá i mnoho dalších Pražanů, proto jsem iniciovala vyhlášení veřejné sbírky, aby se mohli lidé připojit,“ uvedla radní pro oblast kultury a cestovního ruchu Hana Třeštíková.
+Vznik sbírky iniciovala již včera radní pro oblast kultury Hana Třeštíková. 
+
+> „Zničení krásného dřevěného kostela svatého Michaela mě silně zasáhlo, je to památka ze 17. století s jedinečným příběhem. Chci všechny ujistit: kostel se dočká obnovy. Jeho význam vnímá i mnoho dalších Pražanů, proto jsem iniciovala vyhlášení veřejné sbírky, aby se mohli lidé připojit,“ uvedla radní pro oblast kultury a cestovního ruchu Hana Třeštíková.
 
 Sbírka se bude konat na území České republiky jeden rok ode dne následujícího po doručení osvědčení o přijetí oznámení o konání veřejné sbírky. Finanční prostředky se budou shromažďovat na zvláštním transparentním bankovním účtu hl. m. Prahy. Město také již zahájilo koordinaci opravy kostela, která začne hned po odborném ohledání místa.
 
