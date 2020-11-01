@@ -18,4 +18,4 @@ profiles:
   flickr:		  
 ---
 
-**Karel Bauer** je ekonom, majitel účetní firmy, předseda spolku SNOP 5.
+Zastupitel MČ Praha 5, člen finančního výboru a komise sportu MČ Praha 5, ekonom, majitel účetní firmy.
