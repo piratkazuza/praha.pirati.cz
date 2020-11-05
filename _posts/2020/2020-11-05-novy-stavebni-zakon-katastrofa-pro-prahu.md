@@ -1,8 +1,8 @@
 ---
-date:         2020-11-04
+date:         2020-11-05
 tags:         
- - školství
-title:        "Praha zřídila hotline technickou pomoc pro učitele i žáky k zabezpečení online výuky"
+ - územní-plánování
+title:        "Nový stavební zákon znamená pro Česko ekonomickou katastrofu, ignoruje potřeby velkých českých měst"
 image: 	      magistrat2.jpg
 author:       MHMP
 ---
