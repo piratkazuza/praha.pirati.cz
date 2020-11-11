@@ -19,3 +19,6 @@ A teď pár praktických informací:
 
 Odběrové místo najdete po celé Prahy, na jejich přesný seznam se můžete podívat na [https://covid.praha.eu](https://covid.praha.eu).
 
+### Odkazy
+
+* Reportáž k otevření odběrového místa [https://www.youtube.com/watch?v=w8ESUN5tUC0](https://www.youtube.com/watch?v=w8ESUN5tUC0)
