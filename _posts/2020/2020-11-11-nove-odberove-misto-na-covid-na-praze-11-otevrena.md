@@ -17,5 +17,5 @@ A teď pár praktických informací:
 * Odběry probíhají z automobilu, jde tedy o tzv. drive-in koncept.Test je možné absolvovat vyšetření i mimo tento režim, můžete přijít i osobně.
 * Vzhledem k omezené kapacitě je potřeba si na odběr vzorků rezervovat místo. Přijímání jsou všichni s elektronickou žádankou i ti, kteří si test zaplatí ze svého. Přijímány jsou pouze platby kartou. 
 
-Odběrové místo najdete po celé Prahy, na jejich přesný seznam se můžete podívat na [https://covid.praha.eu](https://covid.praha.eu).
+Odběrová místo najdete po celé Praze, na jejich přesný seznam se můžete podívat na [https://covid.praha.eu](https://covid.praha.eu).
 
