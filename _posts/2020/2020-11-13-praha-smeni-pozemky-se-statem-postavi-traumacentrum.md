@@ -31,4 +31,4 @@ Zastupitelstvo svým rozhodnutím zároveň zrušilo své usnesení z 2. červen
 
 Díky schválené dohodě navíc město od státu získá pozemky v areálu FNKV, na nichž vybuduje důležitou tramvajovou trať v úseku Kubánské náměstí - Vinohradská (Želivského), která propojí Vinohrady s Vršovicemi. V rámci tohoto projektu by měla přímo u nemocnice také vzniknout nová tramvajová zastávka, která zajistí lepší obslužnost tohoto zdravotnického zařízení městskou hromadnou dopravou.
 
-Na základě vyhotovených znaleckých posudků mají stávající pozemky města nabízené ke směně hodnotu 286,6 milionu korun. Naproti tomu si stát svých nemovitosti cení na 288,1 milionu korun. Rozdíl hodnot majetku, který činí zhruba 1,5 milionu korun, hlavní město druhé straně doplatí. Směnu pozemků se státem už v pondělí odsouhlasila Rada hl. m. Prahy. Praha
+Na základě vyhotovených znaleckých posudků mají stávající pozemky města nabízené ke směně hodnotu 286,6 milionu korun. Naproti tomu si stát svých nemovitosti cení na 288,1 milionu korun. Rozdíl hodnot majetku, který činí zhruba 1,5 milionu korun, hlavní město druhé straně doplatí. Směnu pozemků se státem už v pondělí odsouhlasila Rada hl. m. Prahy.
