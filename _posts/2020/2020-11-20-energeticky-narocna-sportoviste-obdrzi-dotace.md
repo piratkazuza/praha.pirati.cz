@@ -1,5 +1,5 @@
 ---
-date:         2020-11-20
+date:         2020-11-23
 tags:         
  - školství
 title:        "Energeticky náročná sportoviště obdrží dotace"
