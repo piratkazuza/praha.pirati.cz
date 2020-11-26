@@ -33,7 +33,7 @@ Spustili jsme Portál Pražana, aby Pražané mohli komunikovat s úřadem onlin
 
 Vracíme krajině její přirozený ráz, bojujeme se suchem, vyžadujeme na městských polích ekologické zemědělství, sázíme stromy, připravujeme stavbu škol s vertikálními zahradami a zelenými střechami, zakládáme zelené pásy a podporujeme komunitní zahrady. Také šetrně hospodaříme s vodou, třeba využíváme dešťovku ke kropení ulic nebo zalévání rostlin v botanické zahradě. S lepším čerpáním evropských peněz na eko projekty nám nově pomáhá energetický manažer.
 
-### Veřejný prostor (Jan Chabr, Hana Třeštíková)
+### Veřejný prostor (Jan Chabr, Hana Třeštíková, Petr Hlaváček)
 
 Zkrášlujeme veřejná prostranství, aby opět mohla sloužit lidem. Takto jsme se pustili třeba do přeměny Mariánského náměstí a začali jsme i s rekonstrukcí Václavského náměstí. V přípravě je také zvelebení nechvalně známého Sherwoodu před hlavním nádražím. Dále úspěšně bojujeme s nepoctivými směnárnami, vyhnali jsme z centra nevkusné pandí převleky a zatrhli spanilé jízdy pivních kol. Začali jsme řešit odtahy autovraků. Naopak pro město vytváříme nový mobiliář: zastávkové přístřešky, lavičky nebo zastávkové označníky. Budujeme chytré lampy, ze kterých se dají dobíjet elektromobily.
 
@@ -44,4 +44,5 @@ Kultura dostala kvůli koronaviru tvrdou ránu. Snažíme se ji proto podpořit,
 ### Finance (Pavel Vyhnánek)
 
 S panem náměstkem pro finance teď hlavně řešíme, aby Praha a také všechny ostatní samosprávy nepřišly o peníze, za které všechny zmíněné projekty realizujeme. Celkově jsme zprůhlednili financování města a řešíme investice na udržení chodu pražské ekonomiky. Týká se to třeba rekonstrukce Průmyslového paláce nebo Pražské tržnice.
+
 To je tedy to, na co jsem si rychle vzpomněl. Určitě to není konečný výčet, děje se toho stále spousta. Samozřejmě, jsou před námi obrovské výzvy a ne všechno se daří tak rychle, jak bychom všichni chtěli. Ale věřím, že jdeme správným směrem a že se toho už hodně povedlo.
