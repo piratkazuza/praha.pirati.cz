@@ -27,7 +27,7 @@ Díky urychlení úředních postupů jsme rekordně zrychlili výstavbu bytů v
 
 ### Digitalizace (Zdeněk Hřib)
 
-Spustili jsme Portál Pražana, aby Pražané mohli komunikovat s úřadem online. Postupně plánujeme nová a nová vylepšení portálu. Vytvořili jsme web www.covid.praha.eu, kde si lidé najdou přehledně informace o testovacích místech. Vytvořili jsme web www.pragozor.cz, kde si lidé mohou najít aktuální a ověřená data o Praze a nepodléhali fake news a hoaxům. Rozšiřujeme signál v metru do dalších stanic. Vylepšujeme městské aplikace, například tak, že si už můžete nahrát kupón na MHD do mobilu. Spustili jsme web CityVizor, kde se můžete proklikat v hospodaření města až k jednotlivým fakturám.
+Spustili jsme Portál Pražana, aby Pražané mohli komunikovat s úřadem online. Postupně plánujeme nová a nová vylepšení portálu. Vytvořili jsme web www.covid.praha.eu, kde si lidé najdou přehledně informace o testovacích místech. Vytvořili jsme web [www.pragozor.cz](https://pragozor.cz), kde si lidé mohou najít aktuální a ověřená data o Praze a nepodléhali fake news a hoaxům. Rozšiřujeme signál v metru do dalších stanic. Vylepšujeme městské aplikace, například tak, že si už můžete nahrát kupón na MHD do mobilu. Spustili jsme web [CityVizor](https://cityvizor.praha.eu/), kde se můžete proklikat v hospodaření města až k jednotlivým fakturám.
 
 ### Ekologie (Petr Hlubuček)
 
