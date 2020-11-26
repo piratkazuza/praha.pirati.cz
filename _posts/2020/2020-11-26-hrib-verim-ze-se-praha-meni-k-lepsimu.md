@@ -1,5 +1,5 @@
 ---
-date:         2020-11-25
+date:         2020-11-26
 tags:         
  - praha
 title:        "Zdeněk Hřib: 2 roky jsou za námi. Věřím, že se Praha mění k lepšímu"
