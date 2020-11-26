@@ -3,7 +3,7 @@ date:         2020-11-26
 tags:         
  - praha
 title:        "Zdeněk Hřib: 2 roky jsou za námi. Věřím, že se Praha mění k lepšímu"
-image: 	      2roky.jpg
+image: 	      strom2.jpg
 author:       Zdeněk Hřib
 ---
 
