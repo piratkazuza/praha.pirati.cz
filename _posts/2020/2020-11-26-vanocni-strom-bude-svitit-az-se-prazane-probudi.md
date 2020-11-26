@@ -23,7 +23,7 @@ O podobě nasvícení letos rozhodli lidé při hlasování na sociálních sít
 
 Oproti minulým letům nebude mít strom v pravidelných časech žádnou animaci. Nasvícení se tak vrátí k tradičnější podobě českých Vánoc, kdy strom svítil staticky. Druhý menší strom ještě metropole letos umístí na Mariánské náměstí před Novou radnici Magistrátu hlavního města Prahy.
 
-> „I když bude vánoční strom jediným symbolem Vánoc na Staroměstském náměstí a letošní oslavy se budou muset obejít bez doprovodného programu, vnímám to jako příležitost vychutnat si vánoční atmosféru v historickém centru Prahy trochu jinak, než jsme zvyklí, a třeba i více v klidu," říká radní hlavního města Prahy pro oblast kultury Hana Třeštíková.
+> „I když bude vánoční strom jediným symbolem Vánoc na Staroměstském náměstí a letošní oslavy se budou muset obejít bez doprovodného programu, vnímám to jako příležitost vychutnat si vánoční atmosféru v historickém centru Prahy trochu jinak, než jsme zvyklí, a třeba i více v klidu,“ říká radní hlavního města Prahy pro oblast kultury Hana Třeštíková.
 
 Aktuální epidemiologická situace pravděpodobně neumožní ani uspořádání tradičních vánočních trhů a doprovodného programu na Staroměstském a Václavském náměstí i náměstí Republiky, které bývají v zahraničí každoročně hodnoceny jako jedny z nejlepších na světě. Pokud by to ale aktuální situace umožnila, Praha by zajistila umístění alespoň několika stánků s občerstvením.
 
