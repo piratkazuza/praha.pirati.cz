@@ -23,7 +23,9 @@ Z investic bude směřovat opět největší podíl do rozvoje pražské dopravy
 
 > „Je nutné si uvědomit, že rozpočet hlavního města Prahy se rodí v těžké době, kdy město kvůli pandemii přichází o miliardy korun.  Přesto se povedlo rozpočet pro příští rok připravit tak, že všechny zásadní a připravené investice jsou v návrhu rozpočtu města uvedené a měly by tak být finančně pokryté. Tento návrh rozpočtu je ale samozřejmě ohrožený zrušením superhrubé mzdy. Uvidíme, jak moc se to promítne do jeho konečné podoby,“ popisuje předseda zastupitelského klubu Spojené síly pro Prahu Jiří Pospíšil.
 
-Úspory se ovšem nedotknou kromě MHD a svozu odpadu ani městských částí. „I přesto, že pandemie způsobila výrazný propad příjmů a vláda chce schválit likvidační snížení příjmů pro obce a města bez jakékoliv jiné kompenzace, hlavní město intenzivně podporuje svoje městské části, aby měly dostatečné prostředky na financování vlastního rozvoje,“ uzavírá Radek Vondra, předseda Finančního výboru Zastupitelstva hlavního města Prahy.
+Úspory se ovšem nedotknou kromě MHD a svozu odpadu ani městských částí. 
+
+> „I přesto, že pandemie způsobila výrazný propad příjmů a vláda chce schválit likvidační snížení příjmů pro obce a města bez jakékoliv jiné kompenzace, hlavní město intenzivně podporuje svoje městské části, aby měly dostatečné prostředky na financování vlastního rozvoje,“ uzavírá Radek Vondra, předseda Finančního výboru Zastupitelstva hlavního města Prahy.
 
 ### Odkazy
 
