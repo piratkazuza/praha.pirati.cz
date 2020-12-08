@@ -26,16 +26,6 @@ asistenti:
     position: poradkyně primátora
     mail: veronika.kubickova@praha.eu
     tel: 
-  - name: Tomáš Vovsík
-    uid: tomas.vovsik
-    position: poradce primátora
-    mail: tomas.vovsik@praha.eu
-    tel: 
-  - name: Martin Štěrba
-    uid: martin.sterba
-    position: poradce primátora
-    mail: martin.sterba@praha.eu
-    tel: 
   - name: Marek Šafra
     uid: marek.safra
     position: poradce primátora
@@ -45,11 +35,6 @@ asistenti:
     uid: martin.kamenik
     position: poradce primátora
     mail: martin.kamenik@praha.eu
-    tel: 
-  - name: Jaroslav Vlk
-    uid: jaroslav.vlk
-    position: poradce primátora
-    mail: jaroslav.vlk@praha.eu
     tel: 
   - name: Klára Galová
     uid: klara.galova
