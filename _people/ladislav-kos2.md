@@ -11,7 +11,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ladislav-kos2.jpg   # 165 x 220
 profilebadge: people/badge/11-kos.jpg
 description: předseda komise RHMP pro sport, zastupitel hl. m. Prahy a zastupitel městské části Praha 11<br/> zastupitel s gescemi doprava, sport     	# kratký popis, max 160 znaků
-descvyb: člen výboru pro dopravu ZHMP, člen výboru pro zdravotnictví, sport a volný čas ZHMP
+descvyb: člen výboru pro dopravu ZHMP, člen výboru pro sport a volný čas ZHMP
 mail:
 - ladislav.kos@pirati.cz
 mob: +420 732 168 903
