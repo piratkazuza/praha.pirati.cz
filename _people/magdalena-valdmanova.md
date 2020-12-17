@@ -5,9 +5,8 @@ titles:
   before:
   after:
 category:
- - pks
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
-description:  místopředsedkyně pražského sdružení, asistentka předsedy hospodářského výboru Viktora Mahrika
+description:  asistentka předsedy hospodářského výboru Viktora Mahrika
 mail:
 - magdalena.valdman@gmail.com
 mob:			  

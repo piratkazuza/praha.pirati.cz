@@ -4,9 +4,8 @@ name: Michal Zachar
 fullname: Michal Zachar
 mail: michal.zachar@pirati.cz
 category: 
- - pks
 img: people/michal-zachar.jpg
-description: místopředseda pražského sdružení, vedoucí mediálního týmu KS Praha
+description: vedoucí mediálního týmu KS Praha
 ordpks: 4
 ---
 

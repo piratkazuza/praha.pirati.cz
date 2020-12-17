@@ -4,15 +4,13 @@ name: Alice Hamalová	# běžně používáné jméno
 fullname: Alice Hamalová
 category:
  - praha
- - pks
  - dr
 img: 		people/alice-hamalova.jpg    # 165 x 220
-description: místopředsedkyně pražského sdružení, zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
+description: zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
 mail:
 - alice.hamalova@pirati.cz
 mob: +420 777 699 091 
 ordkodo: 3
-ordpks: 5
 orddr: 22
 profiles:
   github:                 

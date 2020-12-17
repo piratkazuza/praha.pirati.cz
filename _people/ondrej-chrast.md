@@ -7,12 +7,14 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
+- pks
 img: 		people/ondrej-chrast.jpg    # 165 x 220
-description: člen dozorčí rady společnosti Prague City Tourism, a.s., zastupitel na Praze 6           	        			# kratký popis, max 160 znaků
+description: člen předsednictva krajského sdružení Pirátů v Praze<br/> člen dozorčí rady společnosti Prague City Tourism, a.s., zastupitel na Praze 6           	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.chrast@pirati.cz
 mob:			  
 orddr: 24
+ordpks: 2
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/ondrej.chrast

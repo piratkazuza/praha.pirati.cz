@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - pks
 - vybor
-ordpks: 2
+ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
 description:  místopředseda pražského sdružení
 descvyb: člen výboru pro bezpečnost ZHMP
