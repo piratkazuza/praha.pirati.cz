@@ -7,7 +7,7 @@ image: 	      hrib-koronavirus2.jpg
 author:       Zdeněk Hřib
 ---
 
-Během svátků jsme usilovně pracovali spolu s radní Milenou Jonovou na přípravách očkování v Praze. V Praze už existuje 9 očkovacích center ve státních nemocnicích, které budou očkovat dle státního rezervačního systému. Řešíme proto jiný problém než ostatní kraje. 
+Během svátků jsme usilovně pracovali spolu s radní Milenou Johnovou na přípravách očkování v Praze. V Praze už existuje 9 očkovacích center ve státních nemocnicích, které budou očkovat dle státního rezervačního systému. Řešíme proto jiný problém než ostatní kraje. 
 
 Klíčové je pro nás zajistit co nejdříve očkování klientů a pracovníků domovů pro seniory, na které vláda tak trochu zapomněla. A každý den je drahý! V pobytových zařízeních pro seniory žije v Praze přibližně 4000 lidí. Z první dodávky vakcíny v prosinci na ně nezbylo a druhá nakonec nedorazila podle plánu. 
 
