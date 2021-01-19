@@ -8,7 +8,7 @@ category:
 - poradce_primatora
 contactType: 
 img: people/martin-sterba.jpg   # 165 x 220
-description: poradce primátora    	# kratký popis, max 160 znaků
+description: předseda místního sdružení Pirátů na Praze 8, poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - martin.sterba@praha.eu
 mob: 
@@ -20,7 +20,7 @@ profiles:
 ordpraha: 
 ---
 
-**Martin Štěrba** se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Momentálně pracuje jako manažer on-line komunikace a je poradcem primátora hlavního města Prahy.
+**Martin Štěrba** se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Je předsedou místního sdružení Pirátů na Praze 8. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Momentálně pracuje jako manažer on-line komunikace a je poradcem primátora hlavního města Prahy.
 
 Celý svůj profesní život se věnuji médím a komunnikaci. V minulosti pracoval jako píšící redaktor v deníku Metro a také jako televizní reportér pro TV Nova. Od roku 2013 se věnuje komunikaci na sociálních sítích – v době, kdy Jaromír Soukup neuváděl na TV Barrandov žádný pořad, vedl sociální sítě TV Barrandov; později byl webeditorem týdeníku Marketing&Media ve vydavatelství Economia, vedl sociální sítě internetové televize Stream.cz, spolurozjížděl MALL.TV, a také sepsal řadu analýz a doporučení v oblasti komunikace a sociálních médií.
 
