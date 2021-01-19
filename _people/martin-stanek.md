@@ -5,8 +5,6 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:  
-  - pms
-ordpms: 1
 description: předseda
 img: people/martin-stanek.jpg 
 mail:
