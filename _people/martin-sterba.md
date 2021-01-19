@@ -6,6 +6,8 @@ titles:
   after:
 category:                
 - poradce_primatora
+- pms
+ordpms: 1
 contactType: 
 img: people/martin-sterba.jpg   # 165 x 220
 description: předseda místního sdružení Pirátů na Praze 8, poradce primátora    	# kratký popis, max 160 znaků
