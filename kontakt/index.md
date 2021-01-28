@@ -16,6 +16,7 @@ residences:
    address: |
      Kancelář 38, Mariánské náměstí 2, 
      110 00 Praha 1,
+     telefon +420 608 213 119
    spravce: jan.louzek
    residenceImg: kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
