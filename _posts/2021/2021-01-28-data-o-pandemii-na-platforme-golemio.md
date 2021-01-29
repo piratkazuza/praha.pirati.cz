@@ -8,7 +8,7 @@ image: 	      golemio.jpg
 author:       MHMP
 ---
 
-atová platforma hlavního města Prahy – Golemio – přináší na svých webových stránkách [www.golemio.cz](https://www.golemio.cz) informace v podobě datových sad týkající se celé řady oblastí života zejména v hlavním městě. Jedním z témat, které jsou nanejvýš aktuální v současné době, je vývoj a situace ohledně pandemie covid-19. Datová platforma Golemio přináší souhrnné a detailní informace na jednom místě. Nabízí navíc i vizualizace dat, které nejsou zveřejněny na žádných jiných webových stránkách, jež informace o pandemii nabízejí.
+Datová platforma hlavního města Prahy – Golemio – přináší na svých webových stránkách [www.golemio.cz](https://www.golemio.cz) informace v podobě datových sad týkající se celé řady oblastí života zejména v hlavním městě. Jedním z témat, které jsou nanejvýš aktuální v současné době, je vývoj a situace ohledně pandemie covid-19. Datová platforma Golemio přináší souhrnné a detailní informace na jednom místě. Nabízí navíc i vizualizace dat, které nejsou zveřejněny na žádných jiných webových stránkách, jež informace o pandemii nabízejí.
 
 > „V době pandemie se datová platforma Golemio osvědčila jako klíčový nástroj pro řízení města. Musíme se rozhodovat na základě reálných dat a ne dojmů. I po sociálních sítích koluje řada zavádějících informací a fake news. Proto jsme tento týden spustili informační web ockovani.praha.eu postavený mimo jiné také na informacích z platformy Golemio, kde je podstatná část věnovaná právě vyvracení dezinformací. Srozumitelné informace o Praze z této platformy najde veřejnost na webu pragozor.cz,“ říká Zdeněk Hřib, primátor hl. m. Prahy.
 
