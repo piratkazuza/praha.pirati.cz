@@ -99,7 +99,7 @@ Systém určený k evidenci hospodaření a schvalování rozpočtů, záměrů 
 
 ### Zulip
 
-Zulip je platforma pro přímý a skupinový chat formou místností a kanálů členěných do témat. Komunikace je zde tedy přehledná a snáze dohledatelná. Jak na zulip se dozvíš  [zde](https://wiki.pirati.cz/to/navody/zulip "https://wiki.pirati.cz/to/navody/zulip").
+Zulip je platforma pro přímý a skupinový chat formou místností a kanálů členěných do témat. Komunikace je zde tedy přehledná a snáze dohledatelná. Jak na zulip se dozvíš  [zde](https://wiki.pirati.cz/to/technicke-systemy/zulip "https://wiki.pirati.cz/to/technicke-systemy/zulip").
 
 ### Lidé
 
