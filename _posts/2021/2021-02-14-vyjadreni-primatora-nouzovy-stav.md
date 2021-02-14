@@ -4,7 +4,7 @@ tags:
 - koronavirus
 title:        "Hřib: Řešení pandemie covid-19 už dávno není problémem pouze epidemiologickým. Jedná se i o zásadní krizi důvěry občanů"
 image: 	      0hrib.jpg
-author:       MHMP
+author:       Zdeněk Hřib
 ---
 
 Lidé už nevěří opařením, protože ti, kdo je zavádějí, je sami nedodržují. Opatření zjevně nefungují – kdyby fungovala, krize už by byla vyřešená, protože by se lidé prakticky nepotkávali. Proto jsem od počátku prosazoval „restart“, tedy ukončení nouzového stavu a zavedení o něco mírnějších opatření v režimu zákona o ochraně veřejného zdraví. Věřím, že by pak lidé opatření lépe dodržovali, kdyby takovou sebereflexi vláda projevila.
