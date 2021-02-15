@@ -13,7 +13,7 @@ description: předseda předsednictva krajského sdružení Pirátů v Praze<br/
 descvyb: člen výboru pro bezpečnost ZHMP
 mail:
 - daniel.mazur@pirati.cz
-mob:			  
+mob: "+420 602 439 639"
 profiles:
   github:     https://github.com/daniel-mazur
   facebook: 	https://www.facebook.com/daniel.mazur.5268
