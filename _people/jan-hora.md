@@ -10,11 +10,11 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
-description:  místopředseda pražského sdružení
+description: členk předsednictva krajského sdružení Pirátů v Praze
 descvyb: člen výboru pro bezpečnost ZHMP
 mail:
 - honza.hora@pirati.cz
-mob:			 
+mob: "+420 775 608 734"
 profiles:
   github:       
   facebook:  

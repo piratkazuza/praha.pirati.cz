@@ -12,7 +12,7 @@ description: členka předsednictva krajského sdružení Pirátů v Praze<br/> 
 descvyb: členka výboru pro bydlení ZHMP
 mail:
 - zuzana.freitas@praha10.cz
-mob:
+mob: "+420 776 278 860"
 ordvyb: 14
 ordpks: 4
 profiles:
