@@ -1,7 +1,7 @@
 ---
 date:         2021-02-22
 tags:         
-- škoslství
+- životní prostředí
 title:        "Praha podnikla další krok směrem k rozvoji elektromobility na svém území"
 image: 	      elektroauta.jpg
 author:       MHMP
