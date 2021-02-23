@@ -44,7 +44,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-user
     label: Předseda krajského sdružení
-    body: <a href="/lide/jaromir-beranek">Jaromír Beránek</a>
+    body: <a href="https://lide.pirati.cz/personProfile/1010/">Daniel Mazur</a>
   - type: custom
     iconClass: fa fa-user
     label: Předseda zastupitelského klubu
